@@ -9,9 +9,9 @@ require "settings/init.php";
 <html lang="da">
 <head>
     <meta charset="utf-8">
-    
+
     <title>Vedelsbo</title>
-    
+
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
@@ -23,8 +23,5 @@ require "settings/init.php";
 
 <body>
 
-<h1>Det virker 🥳</h1>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-</html>
