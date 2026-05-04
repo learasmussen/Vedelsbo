@@ -15,13 +15,15 @@ $font-family-base: 'Inter';
 
 // 4. Include any default map overrides here
 $custom-colors: (
-	"sort": #23302A,
-	"hvid": #F3EEE5,
-	"green": #8E9476,
-	"brown": #A6764F,
-	"sage": #CECDBD,
+	"background": #EFE5DB,
+	"sage-green": #CECDBE,
+	"light-green": #8E9476,
 	"light-brown": #D9C3AC,
-	"beige": #EFE5DB,
+	"dark-green": #727C65,
+	"dark-brown": #A6764F,
+	"off-black": #0B120F,
+	"off-white": #F3EEE5,
+
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
