@@ -29,33 +29,29 @@ require "settings/init.php";
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<div class="container-fluid p-0 d-md-none">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid" style="margin-top: -70px">
+<div class="container-fluid p-0 ">
+    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-frontpage d-md-none">
+    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-frontpage d-none d-md-block">
 </div>
 
-<div class="container-fluid p-0 d-none d-md-block">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid" style="margin-top: -115px">
+
+
+<div aria-hidden="true" class="">
+    <img src="waves-phone/green-wave.png" class="green-wave-front-page position-relative w-100" alt="">
 </div>
 
-<div aria-hidden="true" class="d-md-none">
-    <img src="waves-phone/green-wave.png" class="waves position-relative w-100" alt="" style="margin-top: -125px">
-</div>
 
-<div aria-hidden="true" class="d-none d-md-block">
-    <img src="waves-phone/green-wave.png" class="waves position-relative w-100" alt="" style="margin-top: -200px">
-</div>
-
-<div class="container-fluid bg-sage-green ps-4" style="margin-top: -20px">
+<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 velkomst-frontpage" >
 
     <div class="row">
         <div class="col-12 mt-3">
-            <div class="allura fs-5">Velkommen til Vedelsbo</div>
+            <div class="allura  header-text-allura">Velkommen til Vedelsbo</div>
         </div>
         <div class="col-12">
-            <h1 class="cormorant pe-5 fw-bold">Hjælp til et godt og trygt liv</h1>
+            <h1 class="cormorant pe-5 fw-bold header-text-cormorant">Hjælp til et godt og trygt liv</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 ">Et socialpsykiatrisk botilbud med en hjemlig atmosfære for voksne med en sindslidelse. </div>
+            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5">Et socialpsykiatrisk botilbud med en hjemlig atmosfære for voksne med en sindslidelse. </div>
         </div>
 
         <div class="mt-3">
@@ -66,19 +62,25 @@ require "settings/init.php";
     </div>
 </div>
 
-<div aria-hidden="true">
+<div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
-<div aria-hidden="true" class="text-end" style="margin-top: -40px">
-    <img src="images/Dekoration.png" class="  pe-4 m-0" alt="" style="width: 90px">
+
+
+<div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -40px">
+    <img src="images/Dekoration.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 90px">
+</div>
+
+<div aria-hidden="true" class="text-end d-none d-md-block" style="margin-top: -120px">
+    <img src="images/Dekoration.png" class="  pe-4 m-0" alt="" style="width: 150px">
 </div>
 
 
-<div class="container mt-3 d-flex justify-content-center align-items-center">
+<div class="container mt-3 mt-md-5 d-flex justify-content-center align-items-center">
     <div class="row justify-content-center">
 
-        <div class="col-12 col-md-8 col-lg-6 text-center mt-3">
+        <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
             <img src="shapes/light-green-shape-heart.png" alt="light-green-shape" class="mb-3" style="width: 100px">
 
@@ -92,7 +94,7 @@ require "settings/init.php";
 
         </div>
 
-        <div class="col-12 col-md-8 col-lg-6 text-center mt-3">
+        <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
             <img src="shapes/dark-brown-shape-people.png" alt="light-green-shape" class="mb-3" style="width: 100px">
 
@@ -106,7 +108,7 @@ require "settings/init.php";
 
         </div>
 
-        <div class="col-12 col-md-8 col-lg-6 text-center mt-3">
+        <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
             <img src="shapes/sage-green-shape-hand.png" alt="light-green-shape" class="mb-3" style="width: 100px">
 
@@ -120,7 +122,7 @@ require "settings/init.php";
 
         </div>
 
-        <div class="col-12 col-md-8 col-lg-6 text-center mt-3">
+        <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
             <img src="shapes/light-brown-shape-house.png" alt="light-green-shape" class="mb-3" style="width: 100px">
 

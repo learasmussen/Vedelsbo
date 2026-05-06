@@ -39,7 +39,27 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 .allura{ font-family: 'Allura', serif; }
 
+.header-image-frontpage{
+	margin-top: -60px;
+}
 
+.green-wave-front-page{
+	margin-top: -125px;
+}
+
+.velkomst-frontpage{
+	margin-top: -20px;
+}
+
+.green-wavywave-frontpage{
+
+}
+
+
+
+.header-text-allura{
+	font-size: 18px;
+}
 
 .header-text-inter{
 	font-size: 12px;
@@ -56,4 +76,54 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 .front-page-shape-text{
 	font-size: 14px;
+}
+
+
+@media only screen and (min-width: 768px){
+	.header-image-frontpage{
+		margin-top: -115px;
+	}
+
+	.green-wave-front-page{
+		margin-top: -210px;
+	}
+
+	.velkomst-frontpage{
+		margin-top: -25px;
+	}
+
+	.green-wavywave-frontpage{
+		margin-top: -5px;
+	}
+
+	.header-text-allura{
+		font-size: 40px;
+	}
+
+	.header-text-cormorant{
+		font-size: 50px;
+	}
+
+	.header-text-inter{
+		font-size: 20px;
+		font-style: italic;
+	}
+
+	.header-button-text{
+		font-size: 18px;
+	}
+
+
+
+	.front-page-shape-header{
+		font-size: 25px;
+	}
+
+	.front-page-shape-text{
+		font-size: 19px;
+	}
+}
+
+@media only screen and (min-width: 1024px){
+
 }
