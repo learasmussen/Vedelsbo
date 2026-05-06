@@ -38,3 +38,22 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 .cormorant{ font-family: 'Cormorant Garamond', serif;}
 
 .allura{ font-family: 'Allura', serif; }
+
+
+
+.header-text-inter{
+	font-size: 12px;
+	font-style: italic;
+}
+
+.header-button-text{
+	font-size: 10px;
+}
+
+.front-page-shape-header{
+	font-size: 20px;
+}
+
+.front-page-shape-text{
+	font-size: 14px;
+}
