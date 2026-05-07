@@ -61,7 +61,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	font-size: 18px;
 }
 
-.header-text-inter{
+.header-text-inter-italic{
 	font-size: 12px;
 	font-style: italic;
 }
@@ -78,6 +78,130 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	font-size: 14px;
 }
 
+.borger-forside-header{
+	margin-top: -50px;
+}
+
+.header-image-borger{
+	margin-top: -100px;
+}
+
+.beige-big-wave-borger-forside{
+	margin-top: -120px;
+}
+
+.hverdag-shapes-borger-forside{
+	margin-top: -50px;
+}
+
+.shape-box-1 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/light-green-shape-burst.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-2 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/dark-brown-shape-walker.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-3 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/sage-green-shape-kalender.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-4 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/light-brown-shape-cutlery.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-content {
+	text-align: center;
+}
+
+.en-beboers-tanker-borger-forside{
+	margin-top: -50px;
+}
+
+.en-beboers-tanker-borger-forside-text-italic{
+	font-style: italic;
+}
+
+.en-beboers-tanker-borger-forside-text{
+	font-size: 12px;
+}
+
+.header-text-inter{
+	font-size: 12px;
+}
+
+.header-text-allura-underpage{
+	font-size: 35px;
+
+}
+
+.header-image-borger-fritid{
+	margin-top: -60px;
+}
+
+.beige-normal-wave-upside-down-underpage{
+	margin-top: -50px;
+}
+
+.read-to-section{
+	margin-top: -50px;
+}
+
+.read-to-header{
+	font-size: 25px;
+}
+
+.read-to-button-text{
+	font-size: 16px;
+}
+
+.header-text-allura-underpage-line-height{
+	line-height: 35px;
+}
 
 @media only screen and (min-width: 768px){
 	.header-image-frontpage{
@@ -104,7 +228,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		font-size: 50px;
 	}
 
-	.header-text-inter{
+	.header-text-inter-italic{
 		font-size: 20px;
 		font-style: italic;
 	}
@@ -122,6 +246,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	.front-page-shape-text{
 		font-size: 19px;
 	}
+
+
 }
 
 @media only screen and (min-width: 1024px){

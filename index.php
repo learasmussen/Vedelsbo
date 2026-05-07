@@ -51,7 +51,7 @@ require "settings/init.php";
             <h1 class="cormorant pe-5 fw-bold header-text-cormorant">Hjælp til et godt og trygt liv</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5">Et socialpsykiatrisk botilbud med en hjemlig atmosfære for voksne med en sindslidelse. </div>
+            <div class="inter header-text-inter-italic pe-4 pe-md-5 me-md-5">Et socialpsykiatrisk botilbud med en hjemlig atmosfære for voksne med en sindslidelse. </div>
         </div>
 
         <div class="mt-3">
