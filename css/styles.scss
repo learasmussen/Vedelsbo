@@ -7,6 +7,7 @@
 
 // 2. Include any default variable overrides here
 $link-decoration: none;
+$font-family-base: 'Inter';
 
 // 3. Include remainder of required Bootstrap stylesheets
 @import "../node_modules/bootstrap/scss/variables";
@@ -14,13 +15,15 @@ $link-decoration: none;
 
 // 4. Include any default map overrides here
 $custom-colors: (
-	"sort": #23302A,
-	"hvid": #F3EEE5,
-	"green": #8E9476,
-	"brown": #A6764F,
-	"sage": #CECDBD,
+	"background": #EFE5DB,
+	"sage-green": #CECDBE,
+	"light-green": #8E9476,
 	"light-brown": #D9C3AC,
-	"beige": #EFE5DB,
+	"dark-green": #727C65,
+	"dark-brown": #A6764F,
+	"off-black": #0B120F,
+	"off-white": #F3EEE5,
+
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
@@ -32,10 +35,221 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	font-family: Inter, sans-serif;
 }
 
-.cormorant{
-	font-family: ;
+.cormorant{ font-family: 'Cormorant Garamond', serif;}
+
+.allura{ font-family: 'Allura', serif; }
+
+.header-image-frontpage{
+	margin-top: -60px;
 }
 
-.allura{
-	font-family: allura;
+.green-wave-front-page{
+	margin-top: -125px;
+}
+
+.velkomst-frontpage{
+	margin-top: -20px;
+}
+
+.green-wavywave-frontpage{
+
+}
+
+
+
+.header-text-allura{
+	font-size: 18px;
+}
+
+.header-text-inter-italic{
+	font-size: 12px;
+	font-style: italic;
+}
+
+.header-button-text{
+	font-size: 10px;
+}
+
+.front-page-shape-header{
+	font-size: 20px;
+}
+
+.front-page-shape-text{
+	font-size: 14px;
+}
+
+.borger-forside-header{
+	margin-top: -50px;
+}
+
+.header-image-borger{
+	margin-top: -100px;
+}
+
+.beige-big-wave-borger-forside{
+	margin-top: -120px;
+}
+
+.hverdag-shapes-borger-forside{
+	margin-top: -50px;
+}
+
+.shape-box-1 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/light-green-shape-burst.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-2 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/dark-brown-shape-walker.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-3 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/sage-green-shape-kalender.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-4 {
+	width: 250px;
+	height: 250px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/light-brown-shape-cutlery.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-content {
+	text-align: center;
+}
+
+.en-beboers-tanker-borger-forside{
+	margin-top: -50px;
+}
+
+.en-beboers-tanker-borger-forside-text-italic{
+	font-style: italic;
+}
+
+.en-beboers-tanker-borger-forside-text{
+	font-size: 12px;
+}
+
+.header-text-inter{
+	font-size: 12px;
+}
+
+.header-text-allura-underpage{
+	font-size: 35px;
+
+}
+
+.header-image-borger-fritid{
+	margin-top: -60px;
+}
+
+.beige-normal-wave-upside-down-underpage{
+	margin-top: -50px;
+}
+
+.read-to-section{
+	margin-top: -50px;
+}
+
+.read-to-header{
+	font-size: 25px;
+}
+
+.read-to-button-text{
+	font-size: 16px;
+}
+
+.header-text-allura-underpage-line-height{
+	line-height: 35px;
+}
+
+@media only screen and (min-width: 768px){
+	.header-image-frontpage{
+		margin-top: -115px;
+	}
+
+	.green-wave-front-page{
+		margin-top: -210px;
+	}
+
+	.velkomst-frontpage{
+		margin-top: -25px;
+	}
+
+	.green-wavywave-frontpage{
+		margin-top: -5px;
+	}
+
+	.header-text-allura{
+		font-size: 40px;
+	}
+
+	.header-text-cormorant{
+		font-size: 50px;
+	}
+
+	.header-text-inter-italic{
+		font-size: 20px;
+		font-style: italic;
+	}
+
+	.header-button-text{
+		font-size: 18px;
+	}
+
+
+
+	.front-page-shape-header{
+		font-size: 25px;
+	}
+
+	.front-page-shape-text{
+		font-size: 19px;
+	}
+
+
+}
+
+@media only screen and (min-width: 1024px){
+
 }
