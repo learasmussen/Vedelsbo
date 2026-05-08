@@ -181,7 +181,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
-                Tilsyn
+                Praktisk
             </button>
         </div>
 
