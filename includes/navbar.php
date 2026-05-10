@@ -116,7 +116,7 @@
 </nav>
 
 <!-- navbar til stor skærm -->
-<nav class="py-3 bg-background">
+<nav class="py-3 bg-background d-none d-lg-block">
     <div class="container">
         <div class="row justify-content-between align-items-center text-center">
 
