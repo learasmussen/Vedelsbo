@@ -15,8 +15,8 @@
 </head>
 
 <body>
-
-<nav class="navbar navbar-custom px-2 bg-background">
+<!-- navbar til lille og mellem skærm -->
+<nav class="navbar navbar-custom px-2 bg-background d-lg-none">
     <div class="container-fluid">
         <!-- Venstre kolonne -->
         <div class="col d-flex justify-content-start align-items-center"><img src="/logo/logo.png" alt="Logo"
@@ -111,8 +111,48 @@
                     </li>
                 </ul>
             </div>
+        </div>
+    </div>
+</nav>
+
+<!-- navbar til stor skærm -->
+<nav class="py-3 bg-background">
+    <div class="container">
+        <div class="row justify-content-between align-items-center text-center">
+
+            <div class="col-auto">
+                <img src="/logo/logo_stort.png"
+                     alt="Vedelsbos logo"
+                     style="width: 180px">
+            </div>
+
+            <div class="col-auto">
+                <a href="#" class="inter text-off-black">Borger</a>
+            </div>
+
+            <div class="col-auto">
+                <a href="#" class="inter text-off-black">Sagsbehandler</a>
+            </div>
+
+            <div class="col-auto">
+                <a href="#" class="inter text-off-black">Arbejdsmetoder</a>
+            </div>
+
+            <div class="col-auto">
+                <a href="#" class="inter text-off-black">Om Vedelsbo</a>
+            </div>
+
+            <div class="col-auto">
+                <button type="button"
+                        class="btn rounded-pill bg-dark-green inter px-4 text-off-white">
+                    Kontakt os
+                </button>
+            </div>
 
         </div>
+    </div>
+</nav>
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+</html>
