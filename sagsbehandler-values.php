@@ -58,7 +58,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text shadow"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#ansvarlighed"
@@ -103,7 +103,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text shadow"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#omsorg"
@@ -150,7 +150,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text shadow"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#respekt"
@@ -201,7 +201,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text shadow"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#rummelighed"
@@ -244,7 +244,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text shadow"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#udvikling"
@@ -291,7 +291,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text shadow"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#openness"
