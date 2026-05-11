@@ -16,7 +16,7 @@
 
 <body>
 <!-- navbar til lille og mellem skærm -->
-<nav class="navbar navbar-custom px-2 bg-offwhite d-lg-none">
+<nav class="navbar navbar-custom px-2 bg-off-white d-lg-none">
     <div class="container-fluid">
         <!-- Venstre kolonne -->
         <div class="col d-flex justify-content-start align-items-center"><img src="/logo/logo.png" alt="Logo"

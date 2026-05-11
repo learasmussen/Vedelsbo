@@ -184,7 +184,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/aktiviteter.php"
+            <a href="/borger-aktiviteter.php"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                Aktiviteter
