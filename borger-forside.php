@@ -59,7 +59,7 @@
                         AKTIVITETER
                     </strong>
 
-                    <p class="inter front-page-shape-text px-3 mb-0">
+                    <p class="inter px-3 mb-0 font-fourteen">
                         en masse tekst om alt muligt spændene tihi.
                         en masse tekst om alt muligt spændene tihi.
                     </p>
@@ -85,7 +85,7 @@
                         FRITID
                     </strong>
 
-                    <p class="inter front-page-shape-text px-3 mb-0">
+                    <p class="inter px-3 mb-0 font-fourteen">
                         en masse tekst om alt muligt spændene tihi.
                         en masse tekst om alt muligt spændene tihi.
                     </p>
@@ -111,7 +111,7 @@
                         ÅRETS GANG
                     </strong>
 
-                    <p class="inter front-page-shape-text px-3 mb-0">
+                    <p class="inter px-3 mb-0 font-fourteen">
                         en masse tekst om alt muligt spændene tihi.
                         en masse tekst om alt muligt spændene tihi.
                     </p>
@@ -137,7 +137,7 @@
                         MÅLTIDER
                     </strong>
 
-                    <p class="inter front-page-shape-text px-3 mb-0">
+                    <p class="inter px-3 mb-0 font-fourteen">
                         en masse tekst om alt muligt spændene tihi.
                         en masse tekst om alt muligt spændene tihi.
                     </p>
