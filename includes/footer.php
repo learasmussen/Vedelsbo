@@ -21,27 +21,27 @@
     <div class="container ps-4">
         <div class="row ps-2">
             <div class="col py-2">
-                <a href="#" class="inter text-off-white">Forside</a>
+                <a href="#" class="inter text-off-white font-fourteen">Forside</a>
             </div>
             <div class="row">
                 <div class="col py-2">
-                    <a href="#" class="inter text-off-white">Borger</a>
+                    <a href="#" class="inter text-off-white font-fourteen">Borger</a>
                 </div>
                 <div class="row">
                     <div class="col py-2">
-                        <a href="#" class="inter text-off-white">Sagsbehandler</a>
+                        <a href="#" class="inter text-off-white font-fourteen">Sagsbehandler</a>
                     </div>
                     <div class="row">
                         <div class="col py-2">
-                            <a href="#" class="inter text-off-white">Arbejdsmetoder</a>
+                            <a href="#" class="inter text-off-white font-fourteen">Arbejdsmetoder</a>
                         </div>
                         <div class="row">
                             <div class="col py-2">
-                                <a href="#" class="inter text-off-white">Om Vedelsbo</a>
+                                <a href="#" class="inter text-off-white font-fourteen">Om Vedelsbo</a>
                             </div>
                             <div class="row">
                                 <div class="col py-2">
-                                    <a href="#" class="inter text-off-white">Kontakt</a>
+                                    <a href="#" class="inter text-off-white font-fourteen">Kontakt</a>
                                 </div>
                             </div>
                         </div>
@@ -54,8 +54,8 @@
     <div class="container ps-4 pb-4">
         <div class="row pt-4 ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
-                <i class="fa-solid fa-phone pe-2"></i>
-                <a href="tel:+4555700011" class="text-off-white text-decoration-none">
+                <i class="fa-solid fa-phone pe-2 fa-xs"></i>
+                <a href="tel:+4555700011" class="text-off-white text-decoration-none font-twelve">
                     55 70 00 11
                 </a>
             </div>
@@ -63,8 +63,8 @@
 
         <div class="row ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
-                <i class="fa-solid fa-envelope pe-2"></i>
-                <a href="mailto:lrh@vedelsbo.dk" class="text-off-white text-decoration-none">
+                <i class="fa-solid fa-envelope pe-2 fa-xs"></i>
+                <a href="mailto:lrh@vedelsbo.dk" class="text-off-white text-decoration-none font-twelve">
                     lrh@vedelsbo.dk
                 </a>
             </div>
@@ -72,10 +72,10 @@
 
         <div class="row ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
-                <i class="fa-solid fa-location-dot pe-2"></i>
+                <i class="fa-solid fa-location-dot pe-2 fa-xs"></i>
 
                 <a href="https://www.google.com/maps/search/?api=1&query=Gadevang+23+4700+Næstved"
-                   target="_blank" class="text-off-white text-decoration-none">
+                   target="_blank" class="text-off-white text-decoration-none font-twelve">
                     Gadevang 23, 4700 Næstved
                 </a>
             </div>
@@ -83,7 +83,7 @@
     </div>
 
     <div class="container bg-sage-green text-center text-dark-green">
-        <p class="inter m-0 py-2">@ 2026 Vedelsbo. CVR: 37634557</p>
+        <p class="inter m-0 py-2 font-twelve">@ 2026 Vedelsbo. CVR: 37634557</p>
     </div>
 </footer>
 
