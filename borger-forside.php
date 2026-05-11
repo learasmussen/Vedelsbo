@@ -117,7 +117,7 @@
                     </p>
 
                     <div class="mt-3">
-                        <a href="/aaretsgang.php"
+                        <a href="/a-year.php"
                            class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
@@ -143,7 +143,7 @@
                     </p>
 
                     <div class="mt-3">
-                        <a href="/maaltider.php"
+                        <a href="/meals.php"
                            class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
