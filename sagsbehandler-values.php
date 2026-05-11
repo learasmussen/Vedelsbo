@@ -131,9 +131,13 @@
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
-                    <p class="mb-1">• Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og inddragelse.</p>
-                    <p class="mb-1">• Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og funktionsniveau.</p>
-                    <p class="mb-0">• Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.</p>
+                    <p class="mb-1">• Vi arbejder med at understøtte egenomsorg frem for at overtage funktioner.</p>
+                    <p class="mb-1">• Vi yder hjælp til selvhjælp ud fra individuelle behov.</p>
+                    <p class="mb-1">• Vi tilrettelægger indsatsen i henhold til samarbejdsmapper.</p>
+                    <p class="mb-1">• Vi udviser empati, nærvær og faglig opmærksomhed.</p>
+                    <p class="mb-1">• Vi observerer og handler ud fra beboerens psykiske og fysiske tilstand.</p>
+                    <p class="mb-1">• Vi handler ansvarligt ved svigt i egenomsorg eller risikosituationer.</p>
+                    <p class="mb-0">• Vi understøtter forståelse for faglige vurderinger og beslutninger.</p>
                 </div>
 
             </div>
@@ -160,11 +164,32 @@
         </h2>
 
         <div id="respekt" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
+            <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Der afholdes kreativt værksted hver tirsdag i sommerhalvåret samt tirsdag og onsdag i vinterhalvåret.</p>
-                <p class="mb-3">Her arbejdes der med kreative og praktiske aktiviteter ud fra beboernes interesser og ønsker.</p>
-                <p class="mb-3">Der er fokus på medindflydelse, motivation og mulighed for at afprøve forskellige kreative udtryk i et understøttende miljø.</p>
+                <p class="mb-3">Respekt betyder ligeværdighed, anerkendelse og accept af, at alle mennesker er unikke.</p>
+
+                <div class="mb-3">
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                    <p class="mb-1">• Vi lytter aktivt og anerkender hinandens perspektiver.</p>
+                    <p class="mb-1">• Vi giver plads til forskellighed og faglig tilgang.</p>
+                    <p class="mb-1">• Vi arbejder ud fra gensidig tillid og respekt for hinandens intentioner.</p>
+                    <p class="mb-1">• Vi arbejder med forståelse for hinandens typer og arbejdsstil (MBTI) som et fagligt redskab.</p>
+                    <p class="mb-1">• Vi kommunikerer åbent og spørger ind ved tvivl.</p>
+                    <p class="mb-1">• Vi taler med hinanden – ikke om hinanden.</p>
+                    <p class="mb-0">• Vi respekterer hinandens roller og ansvarsområder.</p>
+                </div>
+
+                <div>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <p class="mb-1">• Vi respekterer beboerens privatliv, herunder ved at banke på døren.</p>
+                    <p class="mb-1">• Vi møder beboeren i øjenhøjde og med ligeværdighed.</p>
+                    <p class="mb-1">• Vi sætter beboeren i centrum og understøtter troen på egne ressourcer.</p>
+                    <p class="mb-1">• Vi understøtter beboerens mål, ønsker og motivation.</p>
+                    <p class="mb-1">• Vi udviser ærlighed og tydelig grænsesætning.</p>
+                    <p class="mb-1">• Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.</p>
+                    <p class="mb-1">• Vi taler ikke om beboeren i dennes påhør.</p>
+                    <p class="mb-0">• Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet indsats.</p>
+                </div>
 
             </div>
         </div>
