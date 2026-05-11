@@ -16,7 +16,7 @@
 
 <body>
 <!-- navbar til lille og mellem skærm -->
-<nav class="navbar navbar-custom px-2 bg-background d-lg-none">
+<nav class="navbar navbar-custom px-2 bg-offwhite d-lg-none">
     <div class="container-fluid">
         <!-- Venstre kolonne -->
         <div class="col d-flex justify-content-start align-items-center"><img src="/logo/logo.png" alt="Logo"
@@ -48,7 +48,7 @@
                 tabindex="-1"
                 id="mobileMenu">
 
-            <div class="offcanvas-header bg-background">
+            <div class="offcanvas-header bg-off-white">
                 <button
                         type="button"
                         class="btn-close"
@@ -56,7 +56,7 @@
                 </button>
             </div>
 
-            <div class="offcanvas-body bg-background">
+            <div class="offcanvas-body bg-off-white">
                 <ul class="list-unstyled mx-4">
 
                     <!--Borger nav links-->
@@ -116,7 +116,7 @@
 </nav>
 
 <!-- navbar til stor skærm -->
-<nav class="py-3 bg-background d-none d-lg-block">
+<nav class="py-3 bg-off-white d-none d-lg-block">
     <div class="container">
         <div class="row justify-content-between align-items-center text-center">
 

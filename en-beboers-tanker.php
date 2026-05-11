@@ -15,6 +15,8 @@
 
 <body class="bg-background">
 
+<?php include 'includes/navbar.php'; ?>
+
 <div aria-hidden="true" >
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
@@ -182,27 +184,35 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
-                Aktiviteter
-            </button>
+            <a href="/aktiviteter.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
+               Aktiviteter
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
-                Årets gang
-            </button>
+            <a href="/borger-fritid.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
+               Fritid
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/meals.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Måltider
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/omvedelsbo.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Om Vedelsbo
-            </button>
+            </a>
         </div>
 
     </div>
@@ -213,6 +223,7 @@
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
+<?php include 'includes/footer.php'; ?>
 
 </body>
 </html>
