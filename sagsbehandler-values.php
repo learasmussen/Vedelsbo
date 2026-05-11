@@ -72,12 +72,26 @@
         </h2>
 
         <div id="ansvarlighed" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
+            <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
                 <p class="mb-3">Ansvarlighed handler om at tage personligt ansvar for opgaver, relationer og samarbejde med fokus på faglig kvalitet og fælles mål.</p>
-                <strong class="fw-bold"></strong>
-                <p class="mb-3">Opgaverne kan omfatte oprydning, græsslåning, såning, fejning og øvrig vedligeholdelse af udearealer.</p>
-                <p class="mb-3">Indsatsen tilrettelægges med fokus på struktur, fællesskab og mestring i hverdagen.</p>
+
+                <div class="mb-3">
+                <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                <p class="mb-1">• Vi arbejder loyalt ud fra fælles værdier, beslutninger og mål.</p>
+                <p class="mb-1">• Vi overholder aftaler mellem kollegaer og beboere.</p>
+                <p class="mb-1">• Vi tager ansvar for egne opgaver og løser dem med høj faglig standard.</p>
+                <p class="mb-1">• Vi søger sparring ved behov og erkender egne faglige grænser.</p>
+                <p class="mb-1">• Vi udviser initiativ og engagement i både fælles og individuelle opgaver.</p>
+                <p class="mb-0">• Vi handler ved forhold, der strider mod fælles værdier eller faglig praksis.</p>
+                </div>
+
+                <div>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <p class="mb-1">• Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og inddragelse.</p>
+                    <p class="mb-1">• Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og funktionsniveau.</p>
+                    <p class="mb-0">• Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.</p>
+                </div>
 
             </div>
         </div>
@@ -103,11 +117,24 @@
         </h2>
 
         <div id="omsorg" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
+            <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Vedelsbo har et dyrehold bestående af alpacaer, kat, undulater samt et akvarium.</p>
-                <p class="mb-3">Dyreholdet indgår som en del af de pædagogiske og rehabiliterende aktiviteter.</p>
-                <p class="mb-3">Opgaverne omfatter blandt andet fodring og rengøring, men der lægges samtidig vægt på samvær, nærvær og kontakt med dyrene som en del af den sociale og sansemæssige støtte.</p>
+                <p class="mb-3">Omsorg er en professionel relationel tilgang baseret på indføling, opmærksomhed og støtte til mennesker i sårbare livssituationer.</p>
+
+                <div class="mb-3">
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                    <p class="mb-1">• Vi støtter og aflaster hinanden ved behov.</p>
+                    <p class="mb-1">• Vi udviser lydhørhed og respekt for forskellig belastning.</p>
+                    <p class="mb-1">• Vi tilbyder støtte ved faglige og personlige udfordringer.</p>
+                    <p class="mb-0">• Vi har fokus på trivsel og et sundt arbejdsmiljø.</p>
+                </div>
+
+                <div>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <p class="mb-1">• Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og inddragelse.</p>
+                    <p class="mb-1">• Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og funktionsniveau.</p>
+                    <p class="mb-0">• Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.</p>
+                </div>
 
             </div>
         </div>
