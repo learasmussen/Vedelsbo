@@ -154,6 +154,51 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	align-items: center;
 }
 
+.shape-box-5 {
+	width: 230px;
+	height: 230px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/picture-shape-creative.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-6 {
+	width: 230px;
+	height: 230px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/picture-shape-alpacha.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape-box-7 {
+	width: 230px;
+	height: 230px;
+
+	margin: 0 auto;
+
+	background: url("../shapes/picture-shape-outdoors.png") center center no-repeat;
+
+	background-size: contain;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .shape-content {
 	text-align: center;
 }
@@ -232,7 +277,6 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	.header-button-text{
 		font-size: 18px;
 	}
-
 
 
 	.front-page-shape-header{
