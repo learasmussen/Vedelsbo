@@ -15,6 +15,8 @@
 
 <body class="bg-background">
 
+<?php include 'includes/navbar.php'; ?>
+
 <div aria-hidden="true" >
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
@@ -101,21 +103,27 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
-                Målgruppe
-            </button>
+            <a href="/sagsbehandler-values.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
+                Værdier
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/sagsbehandler-praktiske-oplysninger.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Praktisk
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/sagsbehandler-tilsynsrapporter.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Tilsyn
-            </button>
+            </a>
         </div>
 
     </div>
@@ -126,6 +134,7 @@
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
+<?php include 'includes/footer.php'; ?>
 
 </body>
 </html>
