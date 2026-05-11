@@ -77,7 +77,7 @@
                 <p class="mb-3">Ansvarlighed handler om at tage personligt ansvar for opgaver, relationer og samarbejde med fokus på faglig kvalitet og fælles mål.</p>
 
                 <div class="mb-3">
-                <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
                 <p class="mb-1">• Vi arbejder loyalt ud fra fælles værdier, beslutninger og mål.</p>
                 <p class="mb-1">• Vi overholder aftaler mellem kollegaer og beboere.</p>
                 <p class="mb-1">• Vi tager ansvar for egne opgaver og løser dem med høj faglig standard.</p>
@@ -87,7 +87,7 @@
                 </div>
 
                 <div>
-                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
                     <p class="mb-1">• Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og inddragelse.</p>
                     <p class="mb-1">• Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og funktionsniveau.</p>
                     <p class="mb-0">• Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.</p>
@@ -122,7 +122,7 @@
                 <p class="mb-3">Omsorg er en professionel relationel tilgang baseret på indføling, opmærksomhed og støtte til mennesker i sårbare livssituationer.</p>
 
                 <div class="mb-3">
-                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
                     <p class="mb-1">• Vi støtter og aflaster hinanden ved behov.</p>
                     <p class="mb-1">• Vi udviser lydhørhed og respekt for forskellig belastning.</p>
                     <p class="mb-1">• Vi tilbyder støtte ved faglige og personlige udfordringer.</p>
@@ -130,7 +130,7 @@
                 </div>
 
                 <div>
-                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
                     <p class="mb-1">• Vi arbejder med at understøtte egenomsorg frem for at overtage funktioner.</p>
                     <p class="mb-1">• Vi yder hjælp til selvhjælp ud fra individuelle behov.</p>
                     <p class="mb-1">• Vi tilrettelægger indsatsen i henhold til samarbejdsmapper.</p>
@@ -169,7 +169,7 @@
                 <p class="mb-3">Respekt betyder ligeværdighed, anerkendelse og accept af, at alle mennesker er unikke.</p>
 
                 <div class="mb-3">
-                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
                     <p class="mb-1">• Vi lytter aktivt og anerkender hinandens perspektiver.</p>
                     <p class="mb-1">• Vi giver plads til forskellighed og faglig tilgang.</p>
                     <p class="mb-1">• Vi arbejder ud fra gensidig tillid og respekt for hinandens intentioner.</p>
@@ -180,7 +180,7 @@
                 </div>
 
                 <div>
-                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
                     <p class="mb-1">• Vi respekterer beboerens privatliv, herunder ved at banke på døren.</p>
                     <p class="mb-1">• Vi møder beboeren i øjenhøjde og med ligeværdighed.</p>
                     <p class="mb-1">• Vi sætter beboeren i centrum og understøtter troen på egne ressourcer.</p>
@@ -220,7 +220,7 @@
                 <p class="mb-3">Rummelighed handler om at anerkende og acceptere menneskers forskellighed, livssituation og foranderlighed.</p>
 
                 <div class="mb-3">
-                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
                     <p class="mb-1">• Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt samarbejdsredskab.</p>
                     <p class="mb-1">• Vi anvender forskelligheder som en styrke i det faglige samarbejde.</p>
                     <p class="mb-1">• Vi udviser ikke fordømmelse, men nysgerrighed og respekt.</p>
@@ -228,7 +228,7 @@
                 </div>
 
                 <div>
-                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
                     <p class="mb-1">• Vi udviser høj grad af tolerance og medmenneskelighed.</p>
                     <p class="mb-1">• Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner professionelt.</p>
                     <p class="mb-0">• Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet uanset funktionsniveau og dagsform.</p>
@@ -258,12 +258,28 @@
         </h2>
 
         <div id="udvikling" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
+            <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">I sommerhalvåret arrangeres løbende aktiviteter og ture “i det grønne”. Der planlægges desuden aktiviteter i nærområdet, særligt i sommerhalvåret.</p>
-                <p class="mb-3">Beboerne har medindflydelse på planlægningen af aktiviteter og udflugter.</p>
-                <p class="mb-3">Der arrangeres både længere dagsture, eksempelvis til Tivoli eller Odense Zoo, samt kortere ture som f.eks. til Karrebæksminde med Sejlads Friheden.</p>
-                <p class="mb-3">Det kan være teltture med overnatning, vandreture med madpakker, kajakture, motionsdag m.v.</p>
+                <p class="mb-3">Udvikling handler om løbende faglig og personlig progression samt vidensdeling.</p>
+
+                <div class="mb-3">
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
+                    <p class="mb-1">• Bidrager aktivt med idéer og initiativer.</p>
+                    <p class="mb-1">• Deltager engageret i nye tiltag.</p>
+                    <p class="mb-1">• Implementerer ny viden fra kurser og praksis.</p>
+                    <p class="mb-1">• Deler faglig viden i organisationen.</p>
+                    <p class="mb-1">• Arbejder løbende med kompetenceudvikling.</p>
+                    <p class="mb-1">• Dokumenterer faglig praksis.</p>
+                    <p class="mb-0">• Arbejder systematisk med udviklingsprocesser.</p>
+                </div>
+
+                <div>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
+                    <p class="mb-1">• Arbejder med at styrke håb og mestring i hverdagen.</p>
+                    <p class="mb-1">• Udarbejder individuelle mål og handleplaner i samarbejde med beboeren.</p>
+                    <p class="mb-1">• Understøtter sociale relationer og netværk.</p>
+                    <p class="mb-0">• Synliggør udviklingsområder for at understøtte progression.</p>
+                </div>
 
             </div>
         </div>
