@@ -23,7 +23,7 @@ require "settings/init.php";
 
 <body class="bg-background">
 
-<h1 class="allura">Det virker 🥳</h1>
+<?php include 'includes/navbar.php'; ?>
 
 <div aria-hidden="true" >
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
@@ -55,9 +55,10 @@ require "settings/init.php";
         </div>
 
         <div class="mt-3">
-        <button class="bg-dark-brown rounded-pill border-0 header-button-text py-2 px-3">
-            Læs mere om Vedelsbo <i class="fa-solid fa-angle-right"></i>
-        </button>
+            <a href="#"
+               class="btn bg-dark-brown rounded-pill border-0 header-button-text py-2 px-3">
+                Læs mere om Vedelsbo <i class="fa-solid fa-angle-right"></i>
+            </a>
     </div>
     </div>
 </div>
