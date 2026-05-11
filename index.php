@@ -89,7 +89,7 @@ require "settings/init.php";
                 HVAD VI STÅR FOR
             </strong>
 
-            <p class="inter front-page-shape-text px-3">
+            <p class="inter font-fourteen px-4">
                 en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
             </p>
 
@@ -103,7 +103,7 @@ require "settings/init.php";
                 HVAD VI STÅR FOR
             </strong>
 
-            <p class="inter front-page-shape-text px-3">
+            <p class="inter font-fourteen px-4">
                 en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
             </p>
 
@@ -117,7 +117,7 @@ require "settings/init.php";
                 HVAD VI STÅR FOR
             </strong>
 
-            <p class="inter front-page-shape-text px-3">
+            <p class="inter font-fourteen px-4">
                 en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
             </p>
 
@@ -131,7 +131,7 @@ require "settings/init.php";
                 HVAD VI STÅR FOR
             </strong>
 
-            <p class="inter front-page-shape-text px-3">
+            <p class="inter font-fourteen px-4">
                 en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
             </p>
 
