@@ -305,11 +305,31 @@
         </h2>
 
         <div id="openness" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
+            <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Vedelsbo har fokus på fysisk aktivitet i hverdagen og arbejder ud fra en motionspolitik.</p>
-                <p class="mb-3">Beboerne støttes i at opretholde en aktiv livsstil gennem individuelle og fælles træningsaktiviteter, herunder gåture og planlagt motion. Der kan tilbydes individuel genoptræning ved fysioterapeut i eget hjem eller i klinik.</p>
-                <p class="mb-3">Der er desuden ugentligt tilbud om yoga i huset samt mulighed for yoga med alpacaer i sommerperioden. Yderligere aktiviteter kan omfatte gåture, løb, cykling og roning efter ønske og behov.</p>
+                <p class="mb-3">Åbenhed er en forudsætning for tillid, hvor ærlighed, loyalitet og tryghed indgår som centrale elementer.</p>
+
+                <div class="mb-3">
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
+                    <p class="mb-3">Vi arbejder ud fra en åben og direkte kommunikation, hvor vi:</p>
+                    <p class="mb-1">• Er imødekommende, lydhøre og ærlige.</p>
+                    <p class="mb-1">• Er åbne overfor nye ideer og tiltag.</p>
+                    <p class="mb-1">• Kommunikerer direkte for at forebygge misforståelser.</p>
+                    <p class="mb-1">• Udtrykker holdninger og perspektiver tydeligt.</p>
+                    <p class="mb-1">• Giver og modtager konstruktiv feedback.</p>
+                    <p class="mb-1">• Søger faglig og kollegial sparring.</p>
+                    <p class="mb-0">• Arbejder ud fra kognitive kommunikationsprincipper.</p>
+                </div>
+
+                <div>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
+                    <p class="mb-3">Vi møder beboeren med åbenhed og uden fordomme og:</p>
+                    <p class="mb-1">• Udviser empati, nærvær og aktiv lytning.</p>
+                    <p class="mb-1">• Møder beboeren uden skjult dagsorden.</p>
+                    <p class="mb-1">• Signalere tilgængelighed og støtte.</p>
+                    <p class="mb-1">• Skaber tryghed gennem respekt og anerkendelse.</p>
+                    <p class="mb-0">• Handler autentisk og tydeligt i relationen.</p>
+                </div>
 
             </div>
         </div>
