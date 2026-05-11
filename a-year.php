@@ -121,27 +121,35 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/borger-aktiviteter.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Aktiviteter
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/a-year.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Årets gang
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/meals.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Måltider
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/omvedelsbo.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Om Vedelsbo
-            </button>
+            </a>
         </div>
 
     </div>
