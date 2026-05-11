@@ -28,7 +28,7 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Måltider</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo lægges der vægt på sund,
+            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo lægges der vægt på sund,
                 varieret og velsmagende kost med afsæt i husets kostpolitik. Der er fokus på, at måltider og fælles
                 kaffestunder understøtter sociale relationer og fællesskab, hvor beboere og personale har mulighed for
                 dialog, samvær og gensidig kontakt.
@@ -68,7 +68,7 @@
                 </strong>
             </div>
 
-            <p class="inter header-text-inter px-3 mb-0">
+            <p class="font-twelve inter px-3 mb-0">
                 Beboerne i egen lejlighed forventes at indtage morgenmad i egen bolig. I boliger med fælles køkken
                 tilbydes morgenbuffet. Frokost og aftensmad indtages som udgangspunkt i fællesskab i fælleshuset på
                 faste tidspunkter.
@@ -103,14 +103,14 @@
                 </strong>
             </div>
 
-            <p class="inter header-text-inter px-3 mb-3">
+            <p class="font-twelve inter px-3 mb-3">
                 Der er altid adgang til frugt og løbende sunde mellemmåltider i hverdagen. Beboerne har adgang til en
                 espressomaskine i fælleshuset, hvor de kan tilberede kaffe efter eget valg. I weekenderne er der
                 mulighed for mere fleksible kostvaner, hvor der eksempelvis bages kage eller tilberedes desserter med
                 støtte fra personalet efter ønske.
             </p>
 
-            <p class="inter header-text-inter px-3 mb-0">
+            <p class="font-twelve inter px-3 mb-0">
                 I vinterhalvåret tilbydes deltagelse i madgruppe med fokus på sund kost, madlavning og kostforståelse.
             </p>
 
@@ -134,8 +134,8 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/aktiviteter.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="/borger-aktiviteter.php"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Aktiviteter
             </a>
@@ -143,7 +143,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/a-year.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Årets gang
             </a>
@@ -151,15 +151,15 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="/meals.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Måltider
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/omvedelsbo.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="/om-vedelsbo.php"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Om Vedelsbo
             </a>

@@ -28,7 +28,7 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Tilsynsrapporter</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">Her kan du tilgå og læse alle vores
+            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Her kan du tilgå og læse alle vores
                 tilsynsrapporter fra Socialtilsyn Øst.
             </div>
         </div>
@@ -54,7 +54,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/79_tilsynsrapport-endelig-version-website.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2025
             </a>
@@ -64,7 +64,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/78_driftsorienteret-tilsyn-2024-website.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2024
             </a>
@@ -74,7 +74,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/78_driftsorienteret-tilsyn-2024-website.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2023
             </a>
@@ -84,7 +84,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/72_endelig-tilsynsrapport-vedelsbo.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2022
             </a>
@@ -94,7 +94,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/71_endelig-tilsynsrapport-delrapport-vedelsbo.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2021
             </a>
@@ -104,7 +104,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/67_endeligtilsynsrapportvedelsbo-2020.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2020
             </a>
@@ -114,7 +114,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/39_endelig-tilsynsrapport-vedelsbo-novmeber-2019.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2019
             </a>
@@ -122,7 +122,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <button
-                    class="btn text-off-black rounded-pill fw-bold py-1 px-2 inter read-to-button-text"
+                    class="font-twelve btn text-off-black rounded-pill fw-bold py-2 px-2 inter"
                     style="width: 125px; background: transparent; border: 2px solid #1f4d3a; color: #727C65;">
                 2018
             </button>
@@ -132,7 +132,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/40_tilsynsrapport-2017-socialpsykiatriske-botilbud-vedelsbo-aps-5.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2017
             </a>
@@ -142,7 +142,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/15_vedelsbo-endelig-tilsynsrapport-okt-2016-1.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2016
             </a>
@@ -152,7 +152,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/14_vedelsbo-endelig-tilsynsrapport-2015-re-godkendelse.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2015
             </a>
@@ -162,7 +162,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/16_vedelsbo-tilsynsrapport-2014.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2014
             </a>
@@ -172,7 +172,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/10_29-uanmeldt-tilsyn-2013-vedelsbo-ballerup-kommune.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2013
             </a>
@@ -182,7 +182,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/11_30-tilsynsrapport-2012.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2012
             </a>
@@ -192,7 +192,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/12_31-tilsynsrapport-2011.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2011
             </a>
@@ -202,7 +202,7 @@
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/13_32-tilsynsrapport-2010.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 2010
             </a>
@@ -230,7 +230,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="/sagsbehandler-values.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Værdier
             </a>
@@ -238,7 +238,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/sagsbehandler-maalgruppe.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Målgruppe
             </a>
@@ -246,7 +246,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="/sagsbehandler-visitering.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Visitering
             </a>
@@ -254,7 +254,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/sagsbehandler-praktiske-oplysninger.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Praktisk
             </a>

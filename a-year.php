@@ -17,38 +17,44 @@
 
 <?php include 'includes/navbar.php'; ?>
 
-<div aria-hidden="true" >
+<div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header" >
+<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Årets gang</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo fejre vi traditioner og højtider, holder sommerfest og andre arrangermenter, hvor du og dine pårørende er inviteret. På beboermøderne har du også mulighed for at være med til at komme med ønsker og forslag til arrangementer i fremtiden!</div>
+            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo fejre vi traditioner og
+                højtider, holder sommerfest og andre arrangermenter, hvor du og dine pårørende er inviteret. På
+                beboermøderne har du også mulighed for at være med til at komme med ønsker og forslag til arrangementer
+                i fremtiden!
+            </div>
         </div>
 
     </div>
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-big-wave-borger-forside">
-    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
-    <img src="header-shapes/green-kalender.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 140px">
+    <img src="header-shapes/green-kalender.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 140px">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center mt-3">
@@ -64,27 +70,32 @@
             </div>
 
             <p class="inter header-text-inter px-3 mb-3">
-                På Vedelsbo prioriteres traditioner højt, og højtider fejres som udgangspunkt på traditionel vis, herunder jul, nytår og påske. Der afholdes årligt sommerfest og julearrangement, hvor beboere, pårørende og venner inviteres til deltagelse.
+                På Vedelsbo prioriteres traditioner højt, og højtider fejres som udgangspunkt på traditionel vis,
+                herunder jul, nytår og påske. Der afholdes årligt sommerfest og julearrangement, hvor beboere, pårørende
+                og venner inviteres til deltagelse.
             </p>
 
             <p class="inter header-text-inter px-3 mb-0">
-                Sankt Hans fejres i haven som en fast tradition, hvor de nærmeste naboer inviteres som en del af fællesskabet. Beboerne opfordres løbende til at komme med idéer og ønsker, særligt i forbindelse med beboermøder, hvor forslag til aktiviteter planlægges og drøftes.
+                Sankt Hans fejres i haven som en fast tradition, hvor de nærmeste naboer inviteres som en del af
+                fællesskabet. Beboerne opfordres løbende til at komme med idéer og ønsker, særligt i forbindelse med
+                beboermøder, hvor forslag til aktiviteter planlægges og drøftes.
             </p>
         </div>
     </div>
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-normal-wave-upside-down-underpage">
-    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center">
@@ -100,7 +111,9 @@
             </div>
 
             <p class="inter header-text-inter px-3 mb-0">
-                Fødselsdage fejres individuelt, hvor beboeren selv er med til at bestemme menu og rammer for dagen. Der er mulighed for at invitere familie og venner. Ved behov yder personalet støtte til planlægning og tilrettelæggelse af større fødselsdagsarrangementer for familie og venner.
+                Fødselsdage fejres individuelt, hvor beboeren selv er med til at bestemme menu og rammer for dagen. Der
+                er mulighed for at invitere familie og venner. Ved behov yder personalet støtte til planlægning og
+                tilrettelæggelse af større fødselsdagsarrangementer for familie og venner.
             </p>
 
         </div>
@@ -109,7 +122,7 @@
 
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
@@ -159,7 +172,7 @@
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <?php include 'includes/footer.php'; ?>

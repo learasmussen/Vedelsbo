@@ -66,10 +66,6 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	font-style: italic;
 }
 
-.header-button-text{
-	font-size: 10px;
-}
-
 .front-page-shape-header{
 	font-size: 20px;
 }
@@ -174,10 +170,6 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	font-size: 12px;
 }
 
-.header-text-inter{
-	font-size: 12px;
-}
-
 .header-text-allura-underpage{
 	font-size: 35px;
 
@@ -197,10 +189,6 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 .read-to-header{
 	font-size: 25px;
-}
-
-.read-to-button-text{
-	font-size: 16px;
 }
 
 .header-text-allura-underpage-line-height{

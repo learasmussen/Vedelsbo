@@ -56,7 +56,7 @@ require "settings/init.php";
 
         <div class="mt-3">
             <a href="#"
-               class="btn bg-dark-brown rounded-pill border-0 header-button-text py-2 px-3">
+               class="font-twelve btn bg-dark-brown rounded-pill border-0 py-2 px-3">
                 Læs mere om Vedelsbo <i class="fa-solid fa-angle-right"></i>
             </a>
     </div>

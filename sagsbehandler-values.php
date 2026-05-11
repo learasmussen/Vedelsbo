@@ -17,38 +17,42 @@
 
 <?php include 'includes/navbar.php'; ?>
 
-<div aria-hidden="true" >
+<div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header" >
+<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Vedelsbo værdier</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">Vedelsbo arbejder ud fra følgende grundlæggende værdier: ansvarlighed, omsorg, respekt, rummelighed, udvikling og åbenhed.</div>
+            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Vedelsbo arbejder ud fra følgende
+                grundlæggende værdier: ansvarlighed, omsorg, respekt, rummelighed, udvikling og åbenhed.
+            </div>
         </div>
 
     </div>
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-big-wave-borger-forside">
-    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
-    <img src="header-shapes/dark-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 140px">
+    <img src="header-shapes/dark-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 140px">
 </div>
 
 
@@ -58,7 +62,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
+            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#ansvarlighed"
@@ -74,22 +78,25 @@
         <div id="ansvarlighed" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Ansvarlighed handler om at tage personligt ansvar for opgaver, relationer og samarbejde med fokus på faglig kvalitet og fælles mål.</p>
+                <p class="mb-3">Ansvarlighed handler om at tage personligt ansvar for opgaver, relationer og samarbejde
+                    med fokus på faglig kvalitet og fælles mål.</p>
 
                 <div class="mb-3">
-                <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
-                <p class="mb-1">• Vi arbejder loyalt ud fra fælles værdier, beslutninger og mål.</p>
-                <p class="mb-1">• Vi overholder aftaler mellem kollegaer og beboere.</p>
-                <p class="mb-1">• Vi tager ansvar for egne opgaver og løser dem med høj faglig standard.</p>
-                <p class="mb-1">• Vi søger sparring ved behov og erkender egne faglige grænser.</p>
-                <p class="mb-1">• Vi udviser initiativ og engagement i både fælles og individuelle opgaver.</p>
-                <p class="mb-0">• Vi handler ved forhold, der strider mod fælles værdier eller faglig praksis.</p>
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
+                    <p class="mb-1">• Vi arbejder loyalt ud fra fælles værdier, beslutninger og mål.</p>
+                    <p class="mb-1">• Vi overholder aftaler mellem kollegaer og beboere.</p>
+                    <p class="mb-1">• Vi tager ansvar for egne opgaver og løser dem med høj faglig standard.</p>
+                    <p class="mb-1">• Vi søger sparring ved behov og erkender egne faglige grænser.</p>
+                    <p class="mb-1">• Vi udviser initiativ og engagement i både fælles og individuelle opgaver.</p>
+                    <p class="mb-0">• Vi handler ved forhold, der strider mod fælles værdier eller faglig praksis.</p>
                 </div>
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
-                    <p class="mb-1">• Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og inddragelse.</p>
-                    <p class="mb-1">• Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og funktionsniveau.</p>
+                    <p class="mb-1">• Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og
+                        inddragelse.</p>
+                    <p class="mb-1">• Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og
+                        funktionsniveau.</p>
                     <p class="mb-0">• Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.</p>
                 </div>
 
@@ -103,7 +110,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
+            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#omsorg"
@@ -119,7 +126,8 @@
         <div id="omsorg" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Omsorg er en professionel relationel tilgang baseret på indføling, opmærksomhed og støtte til mennesker i sårbare livssituationer.</p>
+                <p class="mb-3">Omsorg er en professionel relationel tilgang baseret på indføling, opmærksomhed og
+                    støtte til mennesker i sårbare livssituationer.</p>
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
@@ -150,7 +158,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
+            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#respekt"
@@ -166,14 +174,16 @@
         <div id="respekt" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Respekt betyder ligeværdighed, anerkendelse og accept af, at alle mennesker er unikke.</p>
+                <p class="mb-3">Respekt betyder ligeværdighed, anerkendelse og accept af, at alle mennesker er
+                    unikke.</p>
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
                     <p class="mb-1">• Vi lytter aktivt og anerkender hinandens perspektiver.</p>
                     <p class="mb-1">• Vi giver plads til forskellighed og faglig tilgang.</p>
                     <p class="mb-1">• Vi arbejder ud fra gensidig tillid og respekt for hinandens intentioner.</p>
-                    <p class="mb-1">• Vi arbejder med forståelse for hinandens typer og arbejdsstil (MBTI) som et fagligt redskab.</p>
+                    <p class="mb-1">• Vi arbejder med forståelse for hinandens typer og arbejdsstil (MBTI) som et
+                        fagligt redskab.</p>
                     <p class="mb-1">• Vi kommunikerer åbent og spørger ind ved tvivl.</p>
                     <p class="mb-1">• Vi taler med hinanden – ikke om hinanden.</p>
                     <p class="mb-0">• Vi respekterer hinandens roller og ansvarsområder.</p>
@@ -188,7 +198,8 @@
                     <p class="mb-1">• Vi udviser ærlighed og tydelig grænsesætning.</p>
                     <p class="mb-1">• Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.</p>
                     <p class="mb-1">• Vi taler ikke om beboeren i dennes påhør.</p>
-                    <p class="mb-0">• Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet indsats.</p>
+                    <p class="mb-0">• Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet
+                        indsats.</p>
                 </div>
 
             </div>
@@ -201,7 +212,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
+            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#rummelighed"
@@ -217,11 +228,13 @@
         <div id="rummelighed" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Rummelighed handler om at anerkende og acceptere menneskers forskellighed, livssituation og foranderlighed.</p>
+                <p class="mb-3">Rummelighed handler om at anerkende og acceptere menneskers forskellighed, livssituation
+                    og foranderlighed.</p>
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
-                    <p class="mb-1">• Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt samarbejdsredskab.</p>
+                    <p class="mb-1">• Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt
+                        samarbejdsredskab.</p>
                     <p class="mb-1">• Vi anvender forskelligheder som en styrke i det faglige samarbejde.</p>
                     <p class="mb-1">• Vi udviser ikke fordømmelse, men nysgerrighed og respekt.</p>
                     <p class="mb-0">• Vi arbejder fleksibelt og konstruktivt i opgaveløsningen.</p>
@@ -230,8 +243,10 @@
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
                     <p class="mb-1">• Vi udviser høj grad af tolerance og medmenneskelighed.</p>
-                    <p class="mb-1">• Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner professionelt.</p>
-                    <p class="mb-0">• Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet uanset funktionsniveau og dagsform.</p>
+                    <p class="mb-1">• Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner
+                        professionelt.</p>
+                    <p class="mb-0">• Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet uanset
+                        funktionsniveau og dagsform.</p>
                 </div>
 
             </div>
@@ -244,7 +259,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
+            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#udvikling"
@@ -291,7 +306,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold accordion-header-text"
+            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#openness"
@@ -307,7 +322,8 @@
         <div id="openness" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Åbenhed er en forudsætning for tillid, hvor ærlighed, loyalitet og tryghed indgår som centrale elementer.</p>
+                <p class="mb-3">Åbenhed er en forudsætning for tillid, hvor ærlighed, loyalitet og tryghed indgår som
+                    centrale elementer.</p>
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
@@ -339,9 +355,8 @@
 </div>
 
 
-
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
@@ -356,7 +371,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="/borger-fritid.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Fritid
             </a>
@@ -364,7 +379,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/a-year.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Årets gang
             </a>
@@ -372,15 +387,15 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="/meals.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Måltider
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/omvedelsbo.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="/om-vedelsbo.php"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Om Vedelsbo
             </a>
@@ -391,7 +406,7 @@
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <?php include 'includes/footer.php'; ?>

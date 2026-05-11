@@ -175,7 +175,7 @@
 
             <div>
                 <a href="/en-beboers-tanker.php"
-                   class="bg-dark-brown text-off-black rounded-pill border-0 header-button-text py-2 px-3 d-inline-block text-decoration-none">
+                   class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     En beboers tanker
                     <i class="fa-solid fa-angle-right"></i>
                 </a>

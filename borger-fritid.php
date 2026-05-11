@@ -17,34 +17,38 @@
 
 <?php include 'includes/navbar.php'; ?>
 
-<div aria-hidden="true" >
+<div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header" >
+<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Fritid</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo er der rig mulighed for, at dyrke lige præcis den interesse du har - om det er at være kreativ, aktiv, eller noget helt andet. Vi støtter dig også gerne, hvis du ønsker at deltage i noget, uden for huset.</div>
+            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo er der rig mulighed for, at
+                dyrke lige præcis den interesse du har - om det er at være kreativ, aktiv, eller noget helt andet. Vi
+                støtter dig også gerne, hvis du ønsker at deltage i noget, uden for huset.
+            </div>
         </div>
 
     </div>
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-big-wave-borger-forside">
-    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
@@ -63,11 +67,14 @@
                 </strong>
             </div>
 
-            <p class="inter header-text-inter px-3 mb-0">
+            <p class="font-twelve inter px-3 mb-0">
                 Der er gode muligheder for at beskæftige sig med individuelle interesser og fritidsaktiviteter.
-                Fritidsaktiviteter kan omfatte svømning, gå- eller cykelture, læsning, kreative aktiviteter samt øvrige interesser,
-                som den enkelte beboer ønsker at dyrke. Der er mulighed for ledsagelse af kontaktperson ved behov, eksempelvis ved aktiviteter uden for tilbuddet.
-                Der planlægges faste ATA-dage (Aktiv Tid Alene/sammen med kontaktperson), hvor beboeren kan tage på tur eller deltage i aktiviteter ud fra individuelle ønsker og behov.
+                Fritidsaktiviteter kan omfatte svømning, gå- eller cykelture, læsning, kreative aktiviteter samt øvrige
+                interesser,
+                som den enkelte beboer ønsker at dyrke. Der er mulighed for ledsagelse af kontaktperson ved behov,
+                eksempelvis ved aktiviteter uden for tilbuddet.
+                Der planlægges faste ATA-dage (Aktiv Tid Alene/sammen med kontaktperson), hvor beboeren kan tage på tur
+                eller deltage i aktiviteter ud fra individuelle ønsker og behov.
             </p>
 
         </div>
@@ -75,16 +82,17 @@
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-normal-wave-upside-down-underpage">
-    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center">
@@ -99,8 +107,11 @@
                 </strong>
             </div>
 
-            <p class="inter header-text-inter px-3 mb-0">
-                Om aftenen er der mulighed for ro og afslapning med eksempelvis fjernsyn, film, læsning, musik eller gåture. Der er desuden mulighed for fælles aktiviteter som køreture, spil eller biografture efter aftale. Der planlægges løbende sociale aftener med udgangspunkt i beboernes ønsker og medindflydelse. Aktiviteterne kan eksempelvis være fælles spil såsom banko eller andre sociale arrangementer.
+            <p class="font-twelve inter px-3 mb-0">
+                Om aftenen er der mulighed for ro og afslapning med eksempelvis fjernsyn, film, læsning, musik eller
+                gåture. Der er desuden mulighed for fælles aktiviteter som køreture, spil eller biografture efter
+                aftale. Der planlægges løbende sociale aftener med udgangspunkt i beboernes ønsker og medindflydelse.
+                Aktiviteterne kan eksempelvis være fælles spil såsom banko eller andre sociale arrangementer.
             </p>
 
         </div>
@@ -108,16 +119,17 @@
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-normal-wave-upside-down-underpage">
-    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center">
@@ -132,8 +144,13 @@
                 </strong>
             </div>
 
-            <p class="inter header-text-inter px-3 mb-0">
-                Vedelsbo tilbyder årligt fælles ferie, hvor beboerne har medindflydelse på feriemål. Ferierne kan både være rejser i udlandet og ophold i Danmark. For beboere der ikke deltager i fællesferien, planlægges der alternative aktiviteter og dags ture ud af huset med fokus på trivsel og hyggelige oplevelser. Der er desuden mulighed for individuelle rejser i ind- eller udland sammen med kontaktpersonen enten alene eller sammen med andre beboere. Ved individuelle ferier afholdt uden for fællesarrangementet afholder beboeren selv alle udgifter forbundet med rejsen, med undtagelse af personalets løn.
+            <p class="font-twelve inter px-3 mb-0">
+                Vedelsbo tilbyder årligt fælles ferie, hvor beboerne har medindflydelse på feriemål. Ferierne kan både
+                være rejser i udlandet og ophold i Danmark. For beboere der ikke deltager i fællesferien, planlægges der
+                alternative aktiviteter og dags ture ud af huset med fokus på trivsel og hyggelige oplevelser. Der er
+                desuden mulighed for individuelle rejser i ind- eller udland sammen med kontaktpersonen enten alene
+                eller sammen med andre beboere. Ved individuelle ferier afholdt uden for fællesarrangementet afholder
+                beboeren selv alle udgifter forbundet med rejsen, med undtagelse af personalets løn.
             </p>
 
         </div>
@@ -141,7 +158,7 @@
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
@@ -155,8 +172,8 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/aktiviteter.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="/borger-aktiviteter.php"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Aktiviteter
             </a>
@@ -164,7 +181,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/a-year.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Årets gang
             </a>
@@ -172,15 +189,15 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="/meals.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Måltider
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/omvedelsbo.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="/om-vedelsbo.php"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Om Vedelsbo
             </a>
@@ -191,7 +208,7 @@
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <?php include 'includes/footer.php'; ?>

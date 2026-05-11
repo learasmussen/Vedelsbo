@@ -28,7 +28,7 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Visitering</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">Kommune og Vedelsbo samarbejder om eventuel indflytning af ny beboer.</div>
+            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Kommune og Vedelsbo samarbejder om eventuel indflytning af ny beboer.</div>
         </div>
 
     </div>
@@ -57,23 +57,23 @@
 
         <div class="col-12 col-lg-8">
 
-            <p class="inter header-text-inter px-3 mb-3">
+            <p class="font-twelve inter px-3 mb-3">
                 I praksis besøger den interesserede borger, evt. pårørende, sagsbehandler fra kommunen og evt. kontaktperson Vedelsbo. Borgeren besøger Vedelsbo i princippet så mange gange der er et gensidigt behov. Under besøget vil daglig leder og evt. kommende kontaktpersoner være tilstede.
             </p>
 
-            <p class="inter header-text-inter px-3 mb-3">
+            <p class="font-twelve inter px-3 mb-3">
                 Hvis der er et ønske om det, kan en evt. kommende beboer i første omgang besøge Vedelsbo nogle timer ad gangen. Der er også mulighed for at opholde sig på Vedelsbo over længere tid, feks et par dage med overnatning, for bedre at kunne danne sig et indtryk af, hvad det vil sige at bo på Vedelsbo.
             </p>
 
-            <p class="inter header-text-inter px-3 mb-3">
+            <p class="font-twelve inter px-3 mb-3">
                 Handlekommune sørger for at Vedelsbo modtager alle relevante data og sagsakter som kan give et retvisende grundlag til vurdering om hvorvidt Vedelsbo er et passende bosted for borgeren.
             </p>
 
-            <p class="inter header-text-inter px-3 mb-3">
+            <p class="font-twelve inter px-3 mb-3">
                 Hvis  borgeren har et ønske om at flytte  ind på Vedelsbo,  og såfremt at borgeren vurderes at passe til målgruppen/beboergruppen, vil der blive udfærdiget en samarbejdsaftale imellem kommune og Vedelsbo.
             </p>
 
-            <p class="inter header-text-inter px-3 mb-0">
+            <p class="font-twelve inter px-3 mb-0">
                 Der aftales som udgangspunkt et 3 måneders prøveophold.
             </p>
         </div>
@@ -97,14 +97,14 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <button class="font-twelve bg-light-green rounded-pill fw-bold border-0 py-2 px-2 inter" style="width: 125px">
                 Værdier
             </button>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/sagsbehandler-values.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Værdier
             </a>
@@ -112,7 +112,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="/sagsbehandler-praktiske-oplysninger.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Praktisk
             </a>
@@ -120,7 +120,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/sagsbehandler-tilsynsrapporter.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Tilsyn
             </a>
