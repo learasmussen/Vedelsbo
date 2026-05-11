@@ -192,7 +192,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/borger-fritid.php.php"
+            <a href="/borger-fritid.php"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                Fritid

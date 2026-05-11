@@ -15,34 +15,41 @@
 
 <body class="bg-background">
 
-<div aria-hidden="true" >
+<?php include 'includes/navbar.php'; ?>
+
+<div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header" >
+<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
-            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Årets gang</h1>
+            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Måltider</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo fejre vi traditioner og højtider, holder sommerfest og andre arrangermenter, hvor du og dine pårørende er inviteret. På beboermøderne har du også mulighed for at være med til at komme med ønsker og forslag til arrangementer i fremtiden!</div>
+            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">På Vedelsbo lægges der vægt på sund,
+                varieret og velsmagende kost med afsæt i husets kostpolitik. Der er fokus på, at måltider og fælles
+                kaffestunder understøtter sociale relationer og fællesskab, hvor beboere og personale har mulighed for
+                dialog, samvær og gensidig kontakt.
+            </div>
         </div>
 
     </div>
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-big-wave-borger-forside">
-    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
@@ -62,23 +69,26 @@
             </div>
 
             <p class="inter header-text-inter px-3 mb-0">
-                Beboerne i egen lejlighed forventes at indtage morgenmad i egen bolig. I boliger med fælles køkken tilbydes morgenbuffet. Frokost og aftensmad indtages som udgangspunkt i fællesskab i fælleshuset på faste tidspunkter.
+                Beboerne i egen lejlighed forventes at indtage morgenmad i egen bolig. I boliger med fælles køkken
+                tilbydes morgenbuffet. Frokost og aftensmad indtages som udgangspunkt i fællesskab i fælleshuset på
+                faste tidspunkter.
             </p>
         </div>
     </div>
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <div aria-hidden="true" class="beige-normal-wave-upside-down-underpage">
-    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center">
@@ -94,7 +104,10 @@
             </div>
 
             <p class="inter header-text-inter px-3 mb-3">
-                Der er altid adgang til frugt og løbende sunde mellemmåltider i hverdagen. Beboerne har adgang til en espressomaskine i fælleshuset, hvor de kan tilberede kaffe efter eget valg. I weekenderne er der mulighed for mere fleksible kostvaner, hvor der eksempelvis bages kage eller tilberedes desserter med støtte fra personalet efter ønske.
+                Der er altid adgang til frugt og løbende sunde mellemmåltider i hverdagen. Beboerne har adgang til en
+                espressomaskine i fælleshuset, hvor de kan tilberede kaffe efter eget valg. I weekenderne er der
+                mulighed for mere fleksible kostvaner, hvor der eksempelvis bages kage eller tilberedes desserter med
+                støtte fra personalet efter ønske.
             </p>
 
             <p class="inter header-text-inter px-3 mb-0">
@@ -107,7 +120,7 @@
 
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
@@ -121,27 +134,35 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/aktiviteter.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Aktiviteter
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/a-year.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Årets gang
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/meals.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Måltider
-            </button>
+            </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button class="bg-light-green rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text" style="width: 125px">
+            <a href="/omvedelsbo.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
                 Om Vedelsbo
-            </button>
+            </a>
         </div>
 
     </div>
@@ -149,9 +170,10 @@
 </div>
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<?php include 'includes/footer.php'; ?>
 
 </body>
 </html>
