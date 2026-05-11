@@ -231,7 +231,7 @@
 
 </div>
 
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 

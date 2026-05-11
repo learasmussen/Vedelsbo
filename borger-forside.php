@@ -187,7 +187,7 @@
 
 </div>
 
-<div aria-hidden="true">
+<div class="bg-dark-green" aria-hidden="true">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
