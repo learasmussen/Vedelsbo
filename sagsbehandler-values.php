@@ -215,10 +215,24 @@
         </h2>
 
         <div id="rummelighed" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
+            <div class="accordion-body bg-light-green inter accordion-body-text mb-3">
 
-                <p class="mb-3">Der er mulighed for, at blive tilknyttet forskellige væresteder, hvor man kan møde ligestillede og på den måde udbygge sit sociale netværk.</p>
-                <p class="mb-3">På værestederne kan man deltage i mange forskellige aktiviteter såsom læderværksted, Køkkenaktiviteter, smykkeværksted og kreativt værksted.</p>
+                <p class="mb-3">Rummelighed handler om at anerkende og acceptere menneskers forskellighed, livssituation og foranderlighed.</p>
+
+                <div class="mb-3">
+                    <strong class="fw-bold fs-6 mb-3">I relation til kollegaer</strong>
+                    <p class="mb-1">• Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt samarbejdsredskab.</p>
+                    <p class="mb-1">• Vi anvender forskelligheder som en styrke i det faglige samarbejde.</p>
+                    <p class="mb-1">• Vi udviser ikke fordømmelse, men nysgerrighed og respekt.</p>
+                    <p class="mb-0">• Vi arbejder fleksibelt og konstruktivt i opgaveløsningen.</p>
+                </div>
+
+                <div>
+                    <strong class="fw-bold fs-6 mb-3">I relation til beboere</strong>
+                    <p class="mb-1">• Vi udviser høj grad af tolerance og medmenneskelighed.</p>
+                    <p class="mb-1">• Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner professionelt.</p>
+                    <p class="mb-0">• Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet uanset funktionsniveau og dagsform.</p>
+                </div>
 
             </div>
         </div>
