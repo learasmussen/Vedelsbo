@@ -15,6 +15,8 @@
 
 <body class="bg-background">
 
+<?php include 'includes/navbar.php'; ?>
+
 <div aria-hidden="true" >
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
@@ -63,9 +65,10 @@
                     </p>
 
                     <div class="mt-3">
-                        <button class="bg-off-white rounded-5 border-0  px-2 py-1 ">
+                        <a href="/aktiviteter.php"
+                           class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
-                        </button>
+                        </a>
                     </div>
                 </div>
 
@@ -88,9 +91,10 @@
                     </p>
 
                     <div class="mt-3">
-                        <button class="bg-off-white rounded-5 border-0  px-2 py-1 ">
+                        <a href="/borger-fritid.php"
+                           class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
-                        </button>
+                        </a>
                     </div>
                 </div>
 
@@ -113,9 +117,10 @@
                     </p>
 
                     <div class="mt-3">
-                        <button class="bg-off-white rounded-5 border-0  px-2 py-1 ">
+                        <a href="/aaretsgang.php"
+                           class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
-                        </button>
+                        </a>
                     </div>
                 </div>
 
@@ -138,9 +143,10 @@
                     </p>
 
                     <div class="mt-3">
-                        <button class="bg-off-white rounded-5 border-0  px-2 py-1 ">
+                        <a href="/maaltider.php"
+                           class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
-                        </button>
+                        </a>
                     </div>
                 </div>
 
@@ -168,10 +174,11 @@
             </p>
 
             <div>
-                <button class="bg-dark-brown rounded-pill border-0 header-button-text py-2 px-3">
+                <a href="/en-beboers-tanker.php"
+                   class="bg-dark-brown text-off-black rounded-pill border-0 header-button-text py-2 px-3 d-inline-block text-decoration-none">
                     En beboers tanker
                     <i class="fa-solid fa-angle-right"></i>
-                </button>
+                </a>
             </div>
 
         </div>
@@ -184,6 +191,7 @@
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
+<?php include 'includes/footer.php'; ?>
 
 </body>
 </html>
