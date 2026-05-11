@@ -20,13 +20,14 @@
     <div class="container-fluid">
         <!-- Venstre kolonne -->
         <div class="col d-flex justify-content-start align-items-center"><img src="/logo/logo.png" alt="Logo"
-                                                                              class="logo" style="width: 20%">
+                                                                              class="logo"
+                                                                              style="width: 25px; height: auto;">
         </div>
 
         <!-- Midter kolonne -->
         <div class="col text-center">
             <div class="center-text">
-                <img src="/logo/logo_text.png" alt="Vedelsbo logo" style="width: 99%">
+                <img src="/logo/logo_text.png" alt="Vedelsbo logo" style="width: 130px; height: auto;">
             </div>
         </div>
 
