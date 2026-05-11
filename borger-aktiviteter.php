@@ -15,6 +15,8 @@
 
 <body class="bg-background">
 
+<?php include 'includes/navbar.php'; ?>
+
 <div aria-hidden="true" >
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
@@ -250,18 +252,18 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/borger-aktiviteter.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
-               style="width: 125px">
-                Aktiviteter
-            </a>
-        </div>
-
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="/borger-fritid.php"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                 Fritid
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
+            <a href="/a-year.php"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               style="width: 125px">
+                Årets gang
             </a>
         </div>
 
@@ -288,6 +290,8 @@
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
+
+<?php include 'includes/footer.php'; ?>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
