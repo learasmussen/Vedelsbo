@@ -15,6 +15,8 @@
 
 <body class="bg-background">
 
+<?php include 'includes/navbar.php'; ?>
+
 <div aria-hidden="true" >
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
@@ -160,6 +162,7 @@
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
+<?php include 'includes/footer.php'; ?>
 
 </body>
 </html>
