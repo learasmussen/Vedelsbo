@@ -61,52 +61,52 @@
 
                     <!--Borger nav links-->
                     <li class="mb-3">
-                        <a href="#" class="inter fw-bold text-off-black">Borger</a>
+                        <a href="#" class="inter fw-bold text-off-black font-fourteen">Borger</a>
 
                         <ul class="list-unstyled ms-3">
-                            <li><a href="#" class="inter text-off-black">Aktiviteter</a></li>
-                            <li><a href="#" class="inter text-off-black">Fritid</a></li>
-                            <li><a href="#" class="inter text-off-black">Årets gang</a></li>
-                            <li><a href="#" class="inter text-off-black">Måltider</a></li>
-                            <li><a href="#" class="inter text-off-black">En beboers tanker</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Aktiviteter</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Fritid</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Årets gang</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Måltider</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">En beboers tanker</a></li>
                         </ul>
                     </li>
 
                     <!-- Sagsbehandler nav links -->
                     <li class="mb-3">
-                        <a href="#" class="inter fw-bold text-off-black">Sagsbehandler</a>
+                        <a href="#" class="inter fw-bold text-off-black font-fourteen">Sagsbehandler</a>
 
                         <ul class="list-unstyled ms-3">
-                            <li><a href="#" class="inter text-off-black">Værdier</a></li>
-                            <li><a href="#" class="inter text-off-black">Målgruppe</a></li>
-                            <li><a href="#" class="inter text-off-black">Visitering</a></li>
-                            <li><a href="#" class="inter text-off-black">Praktiske oplysninger</a></li>
-                            <li><a href="#" class="inter text-off-black">Tilsynsrapporter</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Værdier</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Målgruppe</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Visitering</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Praktiske oplysninger</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Tilsynsrapporter</a></li>
                         </ul>
                     </li>
 
                     <!-- Arbejdsmetoder nav links -->
                     <li class="mb-3">
-                        <a href="#" class="inter fw-bold text-off-black">Arbejdsmetoder</a>
+                        <a href="#" class="inter fw-bold text-off-black font-fourteen">Arbejdsmetoder</a>
 
                         <ul class="list-unstyled ms-3">
-                            <li><a href="#" class="inter text-off-black">Terapi</a></li>
-                            <li><a href="#" class="inter text-off-black">Kontaktperson</a></li>
-                            <li><a href="#" class="inter text-off-black">Målsætning</a></li>
-                            <li><a href="#" class="inter text-off-black">Miljøterapi</a></li>
-                            <li><a href="#" class="inter text-off-black">Coaching</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Terapi</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Kontaktperson</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Målsætning</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Miljøterapi</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Coaching</a></li>
                         </ul>
                     </li>
 
                     <!-- Om Veldesbo nav links -->
                     <li>
-                        <a href="#" class="inter fw-bold text-off-black">Om Vedelsbo</a>
+                        <a href="#" class="inter fw-bold text-off-black font-fourteen">Om Vedelsbo</a>
 
                         <ul class="list-unstyled ms-3">
-                            <li><a href="#" class="inter text-off-black">Beskrivelse</a></li>
-                            <li><a href="#" class="inter text-off-black">Personale</a></li>
-                            <li><a href="#" class="inter text-off-black">Hensyn og regler</a></li>
-                            <li><a href="#" class="inter text-off-black">Kontakt</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Beskrivelse</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Personale</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Hensyn og regler</a></li>
+                            <li><a href="#" class="inter text-off-black font-fourteen">Kontakt</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -127,24 +127,24 @@
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black">Borger</a>
+                <a href="#" class="inter text-off-black font-fourteen">Borger</a>
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black">Sagsbehandler</a>
+                <a href="#" class="inter text-off-black font-fourteen">Sagsbehandler</a>
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black">Arbejdsmetoder</a>
+                <a href="#" class="inter text-off-black font-fourteen">Arbejdsmetoder</a>
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black">Om Vedelsbo</a>
+                <a href="#" class="inter text-off-black font-fourteen">Om Vedelsbo</a>
             </div>
 
             <div class="col-auto">
                 <button type="button"
-                        class="btn rounded-pill bg-dark-green inter px-4 text-off-white">
+                        class="btn rounded-pill bg-dark-green inter px-4 text-off-white font-fourteen">
                     Kontakt os
                 </button>
             </div>
