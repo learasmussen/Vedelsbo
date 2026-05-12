@@ -61,6 +61,10 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	font-size: 18px;
 }
 
+.header-text-inter{
+	font-size: 12px;
+}
+
 .header-text-inter-italic{
 	font-size: 12px;
 	font-style: italic;
@@ -242,6 +246,14 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 .accordion-body-text{
 	font-size: 12px;
+}
+
+.maalsaetning-arbejdsmetoder{
+	margin-top: -40px;
+}
+
+.miljoterapi-arbejdsmetoder{
+	margin-top: -40px;
 }
 
 @media only screen and (min-width: 768px){
