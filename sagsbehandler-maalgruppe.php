@@ -25,11 +25,11 @@
 
     <div class="row">
         <div class="col-12 mt-5">
-            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Praktiske oplysninger</h1>
+            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Målgruppe</h1>
         </div>
         <div class="col-12">
-            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Her kan du læse om vores samarbejdspartnere
-                og om vores økonomi.
+            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en sindslidelse eller for nylig er blevet  diagnosticeret.  Fælles for målgruppen er en tilknytning til det psykiatriske system.
             </div>
         </div>
 
@@ -40,10 +40,18 @@
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<div class="container-fluid p-0 position-relative" style="z-index: -1000">
+    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
+    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger d-none d-md-block">
+</div>
 
-<div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -50px">
-    <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
-         style="width: 140px">
+<div aria-hidden="true" class="beige-big-wave-borger-forside">
+    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+</div>
+
+
+<div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
+    <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 140px">
 </div>
 
 <div class="container d-flex justify-content-center align-items-center mt-3">
@@ -54,49 +62,49 @@
 
             <div class="text-center">
                 <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
-                    Samarbejdspartnere
+                    Kriterier
                 </strong>
             </div>
 
             <p class="font-twelve inter px-3 mb-3">
-                Alle beboere på Vedelsbo har deres egen praktiserende læge. Vedelsbo samarbejder med Bostedstemaet,
-                Psykiatrien Syd i Vordingborg. Hvis der er behov for at tale med en psykiater aftales det med faste
-                intervaller eller efter behov i samråd med personalet.
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en sindslidelse eller for nylig er blevet  diagnosticeret.
             </p>
             <p class="font-twelve inter px-3 mb-3">
-                Personalet har i samarbejde med den enkelte beboer, et tæt samarbejde med Bostedsteamet. Hvis der er
-                brug for det, er det muligt at få besøg af enten sin egen læge eller psykiater.
+                Fælles for målgruppen er en tilknytning til det psykiatriske system.
             </p>
-            <p class="font-twelve inter px-3 mb-3">
-                Vedelsbo har et godt samarbejde med sagsbehandlere, visitatorer, tandlæger, psykologer, fysioterapeuter
-                mm.
-            </p>
-            <p class="font-twelve inter px-3 mb-0">
-                Hver måned er der mulighed for at blive tilknyttet vores faste fodterapeut.
-            </p>
-        </div>
-    </div>
-</div>
 
-<div class="container d-flex justify-content-center align-items-center mt-3">
+            <div class="d-flex align-items-center px-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
-    <div class="row justify-content-center px-1">
-
-        <div class="col-12 col-lg-8">
-
-            <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
-                    Økonomi
-                </strong>
+                <div class="font-twelve">
+                    Man kan ikke bo på Vedelsbo, hvis man opretholder et aktivt misbrug af alkohol, hash eller andre euforiserende stoffer, dvs. man kan bo på Vedelsbo og få hjælp, hvis man vil arbejde aktivt på at komme ud af sit misbrug.
+                </div>
             </div>
 
-            <p class="font-twelve inter px-3 mb-3">
-                Vedelsbo drives som et Anpartsselskab. (ApS)
-            </p>
-            <p class="font-twelve inter px-3 mb-0">
-                Som beboer har man en månedlig egenbetaling som indeholder bl.a. husleje, kost og kørsel.
-                ​Beboerbetalingen udregnes efter størrelsen af boligen og den månedlige indtægt.
-            </p>
+            <div class="d-flex align-items-center px-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-twelve">
+                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udad reagerende adfærd.
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center px-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-twelve">
+                    Borgeren skal vurderes til at kunne indgå i resten af beboergruppen på Vedelsbo.
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center px-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-twelve">
+                    Det er nødvendigt at være fysisk mobil, da der kun i begrænset omfang kan anvendes hjælpemidler som kørestol eller rollator.
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
@@ -128,7 +136,7 @@
             <a href="/sagsbehandler-maalgruppe.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Målgruppe
+                Visitering
             </a>
         </div>
 
@@ -136,7 +144,7 @@
             <a href="/sagsbehandler-visitering.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Visitering
+                Praktisk
             </a>
         </div>
 
@@ -157,6 +165,8 @@
 </div>
 
 <?php include 'includes/footer.php'; ?>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
