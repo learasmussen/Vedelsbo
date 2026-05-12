@@ -17,7 +17,7 @@
 <body>
 
 <!-- footer til lille skærm -->
-<footer class="bg-dark-green d-block d-md-none">
+<footer class="bg-dark-green d-block d-md-none pt-5 footer">
     <div class="container ps-4">
         <div class="row ps-2">
             <div class="col py-2">
@@ -88,8 +88,8 @@
 </footer>
 
 <!-- footer til mellem + stor skærm -->
-<footer class="bg-dark-green pt-4 pt-4 d-none d-md-block">
-    <div class="container text-center">
+<footer class="bg-dark-green pt-0 d-none footer d-md-block" >
+    <div class="container text-center footer">
         <div class="row align-items-center">
 
             <div class="col ps-0">
