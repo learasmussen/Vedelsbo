@@ -28,7 +28,9 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Arbejdsmetoder</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">Her kan du læse alt om de arbejdsmetoder vi anvender på Vedelsbo.</div>
+            <div class="inter header-text-inter pe-4 pe-md-5 me-md-5 text-center">Her kan du læse alt om de
+                arbejdsmetoder vi anvender på Vedelsbo.
+            </div>
         </div>
 
     </div>
@@ -40,7 +42,7 @@
 
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href=""
+            <a href="/arbejdsmetoder-forside.php#nav-terapi"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                 Terapi
@@ -48,7 +50,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href=""
+            <a href="/arbejdsmetoder-forside.php#nav-kontaktperson"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                 Kontaktperson
@@ -56,7 +58,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href=""
+            <a href="/arbejdsmetoder-forside.php#nav-maalsaetning"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                 Målsætning
@@ -64,7 +66,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href=""
+            <a href="/arbejdsmetoder-forside.php#nav-miljeoterapi"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                 Miljøterapi
@@ -72,7 +74,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href=""
+            <a href="/arbejdsmetoder-forside.php#nav-coaching"
                class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
                style="width: 125px">
                 Coaching
@@ -100,7 +102,7 @@
 
         <div class="col-12 col-lg-8">
 
-            <div class="text-center">
+            <div class="text-center" id="nav-terapi">
                 <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
                     Terapi
                 </strong>
@@ -113,13 +115,16 @@
                 Personalet uddannes i kognitiv miljøterapi, henholdsvis basisuddannelsen og den videregående uddannelse.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
-                I dagligdagen tilstræbes at arbejde med kognitive redskaber i samarbejde med den enkelte beboer, hvor der tages udgangspunkt i beboerens ønsker og funktionsniveau.
+                I dagligdagen tilstræbes at arbejde med kognitive redskaber i samarbejde med den enkelte beboer, hvor
+                der tages udgangspunkt i beboerens ønsker og funktionsniveau.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
-                Formålet med kognitiv miljøterapi er, at støtte den enkelte beboer i at arbejde med at ændre sin adfærd, tanker og følelser og herved finde en mere positiv og hensigtsmæssig tilgang til deres hverdag/liv.
+                Formålet med kognitiv miljøterapi er, at støtte den enkelte beboer i at arbejde med at ændre sin adfærd,
+                tanker og følelser og herved finde en mere positiv og hensigtsmæssig tilgang til deres hverdag/liv.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
-                Vi arbejder med at lære beboerne at identificere problemer og kritiske situationer, samt sætte nogle realistiske, psykologiske og sociale mål for deres hverdag.
+                Vi arbejder med at lære beboerne at identificere problemer og kritiske situationer, samt sætte nogle
+                realistiske, psykologiske og sociale mål for deres hverdag.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
                 Vi arbejder ud fra en række af kognitive metoder.
@@ -132,31 +137,33 @@
                 De centrale metoder i kognitiv adfærdsterapi er:
             </p>
             <ul>
-            <li class="inter header-text-inter pe-3 mb-1">
-                At hjælpe beboeren med at handle aktivt og udsætte sig selv for vigtige livssituationer snarere end at undgå alt.
-            </li>
-            <li class="inter header-text-inter pe-3 mb-1">
-                At hindre uhensigtsmæssige reaktioner i at finde sted.
-            </li>
-            <li class="inter header-text-inter pe-3 mb-3">
-                At ændre negative tankeprocesser til konstruktive tankeprocesser. Der anvendes sokratisk dialog, udfordring – og tankeeksperimenter.
-            </li>
+                <li class="inter header-text-inter pe-3 mb-1">
+                    At hjælpe beboeren med at handle aktivt og udsætte sig selv for vigtige livssituationer snarere end
+                    at undgå alt.
+                </li>
+                <li class="inter header-text-inter pe-3 mb-1">
+                    At hindre uhensigtsmæssige reaktioner i at finde sted.
+                </li>
+                <li class="inter header-text-inter pe-3 mb-3">
+                    At ændre negative tankeprocesser til konstruktive tankeprocesser. Der anvendes sokratisk dialog,
+                    udfordring – og tankeeksperimenter.
+                </li>
             </ul>
 
             <p class="inter header-text-inter px-3 mb-3">
-                Sokratisk dialog vil sige, at vi er empatisk/lyttende i vores tilgang til beboeren. Ud fra en dagsorden støtter vi beboeren under samtale ved at opsummere og tydeliggøre eksempelvis problemstillinger. Dette gør vi ud fra specifikke og åbne spørgsmål som skal støtte beboeren i selv at finde frem til løsninger. Vi anvender forskellige redskaber (kognitive og adfærdseksperimenter) som beboeren tilbydes at arbejde konkret med i sin hverdag med støtte fra kontaktpersonen.</p>
+                Sokratisk dialog vil sige, at vi er empatisk/lyttende i vores tilgang til beboeren. Ud fra en dagsorden
+                støtter vi beboeren under samtale ved at opsummere og tydeliggøre eksempelvis problemstillinger. Dette
+                gør vi ud fra specifikke og åbne spørgsmål som skal støtte beboeren i selv at finde frem til løsninger.
+                Vi anvender forskellige redskaber (kognitive og adfærdseksperimenter) som beboeren tilbydes at arbejde
+                konkret med i sin hverdag med støtte fra kontaktpersonen.</p>
             <p class="inter header-text-inter px-3 mb-3">Der følges op/evalueres ved de målrettede samtaler.</p>
-            <p class="inter header-text-inter px-3 mb-3">Beboeren undervises efter behov og ønske i den kognitive referenceramme for herved at tilegne sig en forståelse for metoden.</p>
-
-
+            <p class="inter header-text-inter px-3 mb-3">Beboeren undervises efter behov og ønske i den kognitive
+                referenceramme for herved at tilegne sig en forståelse for metoden.</p>
 
 
         </div>
     </div>
 </div>
-
-
-
 
 
 <div aria-hidden="true" class=" green-wavywave-frontpage">
@@ -196,21 +203,27 @@
 
         <div class="col-12 col-lg-8">
 
-            <div class="text-center">
+            <div class="text-center" id="nav-kontaktperson">
                 <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
                     Kontaktperson
                 </strong>
             </div>
 
             <p class="inter header-text-inter px-3 mb-3">
-                Beboerne støttes i hverdagen gennem et fast kontaktpersonsystem, som udgør rammen for den individuelle indsats. Hver beboer tilknyttes en første og en anden kontaktperson.
+                Beboerne støttes i hverdagen gennem et fast kontaktpersonsystem, som udgør rammen for den individuelle
+                indsats. Hver beboer tilknyttes en første og en anden kontaktperson.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
-                Disse samarbejder tæt om den samlede indsats for den enkelte beboer, herunder opfølgning på mål, daglig støtte og koordinering af indsatser. Kontaktpersonerne indgår i et fælles team, hvor der sikres løbende faglig sparring, vidensdeling og koordinering på tværs af beboerne for at understøtte en sammenhængende indsats.
+                Disse samarbejder tæt om den samlede indsats for den enkelte beboer, herunder opfølgning på mål, daglig
+                støtte og koordinering af indsatser. Kontaktpersonerne indgår i et fælles team, hvor der sikres løbende
+                faglig sparring, vidensdeling og koordinering på tværs af beboerne for at understøtte en sammenhængende
+                indsats.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
 
-                Den daglige leder er uddannet sygeplejerske og varetager den overordnede faglige ledelse samt løbende sparring med alle kontaktpersoner. Dette sikrer en systematisk sammenhæng mellem sundhedsfaglige og pædagogiske indsatser.
+                Den daglige leder er uddannet sygeplejerske og varetager den overordnede faglige ledelse samt løbende
+                sparring med alle kontaktpersoner. Dette sikrer en systematisk sammenhæng mellem sundhedsfaglige og
+                pædagogiske indsatser.
             </p>
         </div>
 
@@ -241,8 +254,11 @@
 
 
                 <div class="mb-3">
-                    <p class="mb-3">Beboeren kan modtage støtte til daglige funktioner afhængigt af individuelle behov og funktionsniveau.</p>
-                    <p class="mb-0">Det kan omfatte personlig hygiejne, rengøring, tøjvask, indkøb, håndtering af post, økonomi, medicinadministration, lægebesøg, familiekontakt samt øvrige praktiske og sociale opgaver.</p>
+                    <p class="mb-3">Beboeren kan modtage støtte til daglige funktioner afhængigt af individuelle behov
+                        og funktionsniveau.</p>
+                    <p class="mb-0">Det kan omfatte personlig hygiejne, rengøring, tøjvask, indkøb, håndtering af post,
+                        økonomi, medicinadministration, lægebesøg, familiekontakt samt øvrige praktiske og sociale
+                        opgaver.</p>
                 </div>
 
 
@@ -273,7 +289,9 @@
             <div class="accordion-body bg-light-green inter accordion-body-text">
 
                 <div class="mb-3">
-                    <p class="mb-0">I samarbejde mellem beboer og kontaktperson udarbejdes individuelle handleplaner med konkrete, realistiske og relevante mål. Indsatsen tager afsæt i både borgerens egne ønsker og visiterende myndigheds indsatsmål.</p>
+                    <p class="mb-0">I samarbejde mellem beboer og kontaktperson udarbejdes individuelle handleplaner med
+                        konkrete, realistiske og relevante mål. Indsatsen tager afsæt i både borgerens egne ønsker og
+                        visiterende myndigheds indsatsmål.</p>
                 </div>
 
             </div>
@@ -303,8 +321,11 @@
             <div class="accordion-body bg-light-green inter accordion-body-text">
 
                 <div class="mb-3">
-                    <p class="mb-1">Beboeren tilbydes som udgangspunkt ugentlige målrettede samtaler med kontaktpersonen. Beboeren er med til at fastsætte dagsordenen, og samtalerne kan omhandle handleplan, mål, trivsel samt øvrige forhold af betydning for hverdagen.</p>
-                    <p class="mb-0">Ud over de planlagte samtaler er der løbende mulighed for dialog med kontaktperson og øvrigt personale efter behov.</p>
+                    <p class="mb-1">Beboeren tilbydes som udgangspunkt ugentlige målrettede samtaler med
+                        kontaktpersonen. Beboeren er med til at fastsætte dagsordenen, og samtalerne kan omhandle
+                        handleplan, mål, trivsel samt øvrige forhold af betydning for hverdagen.</p>
+                    <p class="mb-0">Ud over de planlagte samtaler er der løbende mulighed for dialog med kontaktperson
+                        og øvrigt personale efter behov.</p>
                 </div>
 
 
@@ -335,7 +356,9 @@
             <div class="accordion-body bg-light-green inter accordion-body-text">
 
                 <div class="mb-3">
-                    <p class="mb-0">Kontaktpersonerne understøtter beboerens deltagelse i aktiviteter både i og uden for tilbuddet. Det kan eksempelvis være sociale arrangementer, sportsaktiviteter, kulturelle tilbud, foredrag, familiebesøg eller biografture.</p>
+                    <p class="mb-0">Kontaktpersonerne understøtter beboerens deltagelse i aktiviteter både i og uden for
+                        tilbuddet. Det kan eksempelvis være sociale arrangementer, sportsaktiviteter, kulturelle tilbud,
+                        foredrag, familiebesøg eller biografture.</p>
                 </div>
 
             </div>
@@ -365,7 +388,9 @@
             <div class="accordion-body bg-light-green inter accordion-body-text">
 
                 <div class="mb-3">
-                    <p class="mb-0">Indsatsen har fokus på at understøtte en struktureret, forudsigelig og meningsfuld hverdag med udgangspunkt i den enkelte beboers behov, ressourcer og mål. Der arbejdes med at skabe rammer, der fremmer tryghed, mestring og øget selvstændighed.</p>
+                    <p class="mb-0">Indsatsen har fokus på at understøtte en struktureret, forudsigelig og meningsfuld
+                        hverdag med udgangspunkt i den enkelte beboers behov, ressourcer og mål. Der arbejdes med at
+                        skabe rammer, der fremmer tryghed, mestring og øget selvstændighed.</p>
                 </div>
 
             </div>
@@ -379,7 +404,7 @@
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<div class="container bg-sage-green d-flex justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder" >
+<div class="container bg-sage-green d-flex justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder">
 
     <div class="row justify-content-center px-1">
 
@@ -399,13 +424,16 @@
                     At skabe et trygt og godt hjem.
                 </li>
                 <li class="inter header-text-inter pe-3 mb-1">
-                    At skabe et hjem hvor der er rummelighed og fleksibilitet til at kunne være sig selv som individualist, selv om man bor sammen med andre.
+                    At skabe et hjem hvor der er rummelighed og fleksibilitet til at kunne være sig selv som
+                    individualist, selv om man bor sammen med andre.
                 </li>
                 <li class="inter header-text-inter pe-3 mb-1">
-                    At give mulighed for at kunne udvikle sig personligt med de ønsker og mål for livet som man måtte have og/eller finde frem til.
+                    At give mulighed for at kunne udvikle sig personligt med de ønsker og mål for livet som man måtte
+                    have og/eller finde frem til.
                 </li>
                 <li class="inter header-text-inter pe-3 mb-3">
-                    At tilbyde en behandlingsorienteret støtte og hjælp til at igangsætte og/eller vedligeholde en udviklings– og forandringsproces af psykologisk, social og praksisrelateret karakter.
+                    At tilbyde en behandlingsorienteret støtte og hjælp til at igangsætte og/eller vedligeholde en
+                    udviklings– og forandringsproces af psykologisk, social og praksisrelateret karakter.
                 </li>
             </ul>
 
@@ -448,14 +476,15 @@
 
         <div class="col-12 col-lg-8">
 
-            <div class="text-center">
+            <div class="text-center" id="nav-miljeoterapi">
                 <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
                     Miljøterapi
                 </strong>
             </div>
 
             <p class="inter header-text-inter px-3 mb-3">
-                Beboeren støttes af kontaktpersoner og øvrigt personale i at strukturere hverdagen ud fra individuelle ønsker, mål og behov, med henblik på at skabe en sammenhængende, tryg og meningsfuld hverdag.
+                Beboeren støttes af kontaktpersoner og øvrigt personale i at strukturere hverdagen ud fra individuelle
+                ønsker, mål og behov, med henblik på at skabe en sammenhængende, tryg og meningsfuld hverdag.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
                 Der anvendes ugeplaner og månedsplaner i det omfang, det er relevant for den enkelte beboer.
@@ -489,8 +518,11 @@
 
 
                 <div class="mb-3">
-                    <p class="mb-3">Beboeren indgår aktivt i eget hverdagsliv gennem deltagelse i praktiske gøremål i det omfang, den enkelte kan og magter.</p>
-                    <p class="mb-0">Som en del af den miljøterapeutiske tilgang indgår beboerne i strukturerede fælles opgaver, som løbende planlægges og justeres i dialog med beboerne på beboermøderne. Dette sikrer medindflydelse på organisering og fordeling af opgaver i hverdagen.</p>
+                    <p class="mb-3">Beboeren indgår aktivt i eget hverdagsliv gennem deltagelse i praktiske gøremål i
+                        det omfang, den enkelte kan og magter.</p>
+                    <p class="mb-0">Som en del af den miljøterapeutiske tilgang indgår beboerne i strukturerede fælles
+                        opgaver, som løbende planlægges og justeres i dialog med beboerne på beboermøderne. Dette sikrer
+                        medindflydelse på organisering og fordeling af opgaver i hverdagen.</p>
                 </div>
 
 
@@ -521,10 +553,16 @@
             <div class="accordion-body bg-light-green inter accordion-body-text">
 
                 <div class="mb-3">
-                    <p class="mb-3">De faste praktiske opgaver er organiseret som ugentlige “tjanser”, hvor hver beboer som udgangspunkt deltager i én tjans om ugen. Tjansen starter fra kl. 16.00 til ca. kl. 19.00.</p>
-                    <p class="mb-3">En tjans omfatter det praktiske omkring aftensmåltidet, hvor maden er tilberedt på forhånd. Opgaverne består i at dække bord samt at anrette de færdige kolde og varme retter. Efter måltidet deltages der i afrydning, oprydning og opvask.</p>
-                    <p class="mb-3">Derudover indgår fodring af dyrene, sammenlægning af vasketøj samt øvrige forefaldende praktiske opgaver i hverdagen.</p>
-                    <p class="mb-0">Opgaverne udføres i samarbejde med medbeboer og personale og tilpasses den enkeltes funktionsniveau og ressourcer.</p>
+                    <p class="mb-3">De faste praktiske opgaver er organiseret som ugentlige “tjanser”, hvor hver beboer
+                        som udgangspunkt deltager i én tjans om ugen. Tjansen starter fra kl. 16.00 til ca. kl.
+                        19.00.</p>
+                    <p class="mb-3">En tjans omfatter det praktiske omkring aftensmåltidet, hvor maden er tilberedt på
+                        forhånd. Opgaverne består i at dække bord samt at anrette de færdige kolde og varme retter.
+                        Efter måltidet deltages der i afrydning, oprydning og opvask.</p>
+                    <p class="mb-3">Derudover indgår fodring af dyrene, sammenlægning af vasketøj samt øvrige
+                        forefaldende praktiske opgaver i hverdagen.</p>
+                    <p class="mb-0">Opgaverne udføres i samarbejde med medbeboer og personale og tilpasses den enkeltes
+                        funktionsniveau og ressourcer.</p>
                 </div>
 
             </div>
@@ -554,8 +592,11 @@
             <div class="accordion-body bg-light-green inter accordion-body-text">
 
                 <div class="mb-3">
-                    <p class="mb-3">I sommerhalvåret deltager beboerne i fælles aktiviteter i have- og urteområderne et par timer ugentligt. Aktiviteterne planlægges løbende fra uge til uge med udgangspunkt i beboernes ønsker og funktionsniveau.</p>
-                    <p class="mb-0">Der tages højde for individuelle forudsætninger, og alle former for deltagelse anerkendes og respekteres.</p>
+                    <p class="mb-3">I sommerhalvåret deltager beboerne i fælles aktiviteter i have- og urteområderne et
+                        par timer ugentligt. Aktiviteterne planlægges løbende fra uge til uge med udgangspunkt i
+                        beboernes ønsker og funktionsniveau.</p>
+                    <p class="mb-0">Der tages højde for individuelle forudsætninger, og alle former for deltagelse
+                        anerkendes og respekteres.</p>
                 </div>
 
 
@@ -586,8 +627,10 @@
             <div class="accordion-body bg-light-green inter accordion-body-text">
 
                 <div class="mb-3">
-                    <p class="mb-3">Det er en forudsætning for at bo på Vedelsbo, at man har motivation og forståelse for at indgå i fælles daglige gøremål i det omfang, den enkelte formår.</p>
-                    <p class="mb-0">Indsatsen tilrettelægges individuelt med respekt for beboerens funktionsniveau og ressourcer.</p>
+                    <p class="mb-3">Det er en forudsætning for at bo på Vedelsbo, at man har motivation og forståelse
+                        for at indgå i fælles daglige gøremål i det omfang, den enkelte formår.</p>
+                    <p class="mb-0">Indsatsen tilrettelægges individuelt med respekt for beboerens funktionsniveau og
+                        ressourcer.</p>
                 </div>
 
             </div>
@@ -607,14 +650,15 @@
 
         <div class="col-12 col-lg-8">
 
-            <div class="text-center">
+            <div class="text-center" id="nav-coaching">
                 <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
                     Coaching
                 </strong>
             </div>
 
             <p class="inter header-text-inter px-3 mb-3">
-                Daglig leder har kontinuerligt samtaler med beboerne hvor der anvendes erfaring/uddannelse baseret på coaching, rådgivning via Livslinjen samt kognitive adfærdsterapeutiske metoder.
+                Daglig leder har kontinuerligt samtaler med beboerne hvor der anvendes erfaring/uddannelse baseret på
+                coaching, rådgivning via Livslinjen samt kognitive adfærdsterapeutiske metoder.
             </p>
             <p class="inter header-text-inter px-3 mb-0">
                 I coaching arbejdes der med at:
@@ -635,10 +679,15 @@
             </ul>
 
             <p class="inter header-text-inter px-3 mb-3">
-                Der anvendes effektive værktøjer som beboeren kan bruge til at danne sig overblik over sine ressourcer, udfordringer og muligheder, få nye vigtige indsigter og finde nye gode alternativer. Netop fordi metoden har beboerens egne mål og ønsker i centrum, er det blottet for såvel budskab, som løftede pegefingre om hvad der er rigtigt og forkert.
+                Der anvendes effektive værktøjer som beboeren kan bruge til at danne sig overblik over sine ressourcer,
+                udfordringer og muligheder, få nye vigtige indsigter og finde nye gode alternativer. Netop fordi metoden
+                har beboerens egne mål og ønsker i centrum, er det blottet for såvel budskab, som løftede pegefingre om
+                hvad der er rigtigt og forkert.
             </p>
             <p class="inter header-text-inter px-3 mb-3">
-                Beboeren skal via åbne spørgsmål selv finde frem til sin egen sandhed som ofte ligger skjult for dem. Sandsynligheden for at beboeren handler og når sit mål er størst hvis handlingen bygger på, hvad der er vigtigt for beboeren.
+                Beboeren skal via åbne spørgsmål selv finde frem til sin egen sandhed som ofte ligger skjult for dem.
+                Sandsynligheden for at beboeren handler og når sit mål er størst hvis handlingen bygger på, hvad der er
+                vigtigt for beboeren.
             </p>
 
         </div>
@@ -671,10 +720,12 @@
 
                 <div class="mb-3">
                     <p class="mb-3">
-                        Vedelsbo er et bofællesskab, hvor dagligdagen bygger på gensidig respekt og hensyn mellem beboerne.
+                        Vedelsbo er et bofællesskab, hvor dagligdagen bygger på gensidig respekt og hensyn mellem
+                        beboerne.
                     </p>
                     <p class="mb-0">
-                        Det betyder, at alle tager ansvar for egen adfærd i fælles rammer, herunder i forhold til gæster, støjniveau og brug af musik.
+                        Det betyder, at alle tager ansvar for egen adfærd i fælles rammer, herunder i forhold til
+                        gæster, støjniveau og brug af musik.
                     </p>
                 </div>
 
@@ -707,8 +758,11 @@
 
                 <div class="mb-3">
                     <p class="mb-3">Vedelsbo har en fastlagt alkohol- og rygepolitik.</p>
-                    <p class="mb-3">Der kan i samarbejde med den enkelte beboer udarbejdes individuelle aftaler og mål vedrørende alkoholforbrug.</p>
-                    <p class="mb-0">Det er ikke tilladt at ryge i fællesarealerne. Af hensyn til indeklima og sundhed anbefales det, at rygning så vidt muligt foregår udendørs. Der arbejdes samtidig med en respektfuld balance mellem den enkeltes vaner og fællesskabets rammer.</p>
+                    <p class="mb-3">Der kan i samarbejde med den enkelte beboer udarbejdes individuelle aftaler og mål
+                        vedrørende alkoholforbrug.</p>
+                    <p class="mb-0">Det er ikke tilladt at ryge i fællesarealerne. Af hensyn til indeklima og sundhed
+                        anbefales det, at rygning så vidt muligt foregår udendørs. Der arbejdes samtidig med en
+                        respektfuld balance mellem den enkeltes vaner og fællesskabets rammer.</p>
                 </div>
 
             </div>
@@ -739,9 +793,13 @@
 
                 <div class="mb-3">
                     <p class="mb-3">Vedelsbo har et beboerråd, som afholder møde én gang månedligt. </p>
-                    <p class="mb-3">Beboerrådet fungerer som bindeled mellem beboere og personale og bringer relevante emner videre fra beboermøderne.</p>
-                    <p class="mb-3">Der afholdes desuden ugentlige beboermøder hver tirsdag. Her drøftes forhold vedrørende hverdagen på Vedelsbo, herunder ønsker, idéer og eventuelle problemstillinger. På møderne planlægges også fælles aktiviteter såsom ture, fester og ferier.</p>
-                    <p class="mb-0">Beboerdemokratiet er en central del af hverdagen og understøtter beboernes medindflydelse på fællesskabets rammer og aktiviteter.</p>
+                    <p class="mb-3">Beboerrådet fungerer som bindeled mellem beboere og personale og bringer relevante
+                        emner videre fra beboermøderne.</p>
+                    <p class="mb-3">Der afholdes desuden ugentlige beboermøder hver tirsdag. Her drøftes forhold
+                        vedrørende hverdagen på Vedelsbo, herunder ønsker, idéer og eventuelle problemstillinger. På
+                        møderne planlægges også fælles aktiviteter såsom ture, fester og ferier.</p>
+                    <p class="mb-0">Beboerdemokratiet er en central del af hverdagen og understøtter beboernes
+                        medindflydelse på fællesskabets rammer og aktiviteter.</p>
                 </div>
 
 
@@ -755,7 +813,6 @@
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
-
 
 
 <?php include 'includes/footer.php'; ?>
