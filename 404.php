@@ -23,7 +23,7 @@
     <img src="logo/404-logo.png" class="waves position-absolute mt-5 pt-3" style="width: 225px" alt="">
 </div>
 
-<div class="container-fluid mt-5 ps-4 ps-md-5 pb-md-2 d-flex justify-content-center align-items-center">
+<div class="container-fluid mt-5 ps-4 ps-md-5 pb-md-2 d-flex justify-content-center align-items-center position-relative">
 
     <div class="row">
         <div class="col-12 mt-5">
