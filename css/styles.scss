@@ -264,6 +264,10 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	margin-top: -85px;
 }
 
+.hensyn-og-regler-section{
+	margin-top: -40px;
+}
+
 @media only screen and (min-width: 768px){
 	.header-image-frontpage{
 		margin-top: -115px;
