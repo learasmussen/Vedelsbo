@@ -37,7 +37,7 @@
 
         <div class="col-12 mb-3 d-flex justify-content-center">
             <a href="/en-beboers-tanker.php"
-               class="font-twelve cormorant bg-dark-brown text-center text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none" style="width: 125px">
+               class="font-twelve fw-bold cormorant bg-dark-brown text-center text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none" style="width: 125px">
                 TILBAGE
 
             </a>
@@ -45,7 +45,7 @@
 
         <div class="col-12 d-flex justify-content-center">
             <a href="/en-beboers-tanker.php"
-               class="font-twelve cormorant border border-dark-brown border-2 text-center text-off-black rounded-pill py-2 px-3 d-inline-block text-decoration-none" style="width: 125px">
+               class="font-twelve fw-bold cormorant border border-dark-brown border-2 text-center text-off-black rounded-pill py-2 px-3 d-inline-block text-decoration-none" style="width: 125px">
                 TIL FORSIDEN
 
             </a>
