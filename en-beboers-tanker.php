@@ -17,10 +17,12 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--top-wave-->
 <div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
+<!--top-info-->
 <div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
@@ -35,24 +37,29 @@
     </div>
 </div>
 
+<!--green wavy wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--top-image-->
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
     <img src="images/header-image-tablet.jpg" alt="header-image"
          class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
+<!--beige big wave-->
 <div aria-hidden="true" class="beige-big-wave-borger-forside">
     <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--wave shape-->
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
     <img src="header-shapes/green-message.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 140px">
 </div>
 
+<!--første del af "digtet"-->
 <div class="container d-flex justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
@@ -120,10 +127,12 @@
     </div>
 </div>
 
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--citat-->
 <div class="container d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
 
     <div class="row justify-content-center text-center w-100 mt-3">
@@ -142,11 +151,12 @@
 
 </div>
 
+<!--green normal wave-->
 <div aria-hidden="true">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--sidste del af "digtet"-->
 <div class="container d-flex justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
@@ -180,11 +190,12 @@
     </div>
 </div>
 
-
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--read too section-->
 <div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center">
@@ -231,6 +242,7 @@
 
 </div>
 
+<!--bottom-wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>

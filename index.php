@@ -25,22 +25,24 @@ require "settings/init.php";
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--top-wave-->
 <div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
+<!--top-image-->
 <div class="container-fluid p-0 ">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-frontpage d-md-none">
     <img src="images/header-image-tablet.jpg" alt="header-image"
          class="img-fluid header-image-frontpage d-none d-md-block">
 </div>
 
-
+<!--green-wave-->
 <div aria-hidden="true" class="">
     <img src="waves-phone/green-wave.png" class="green-wave-front-page position-relative w-100" alt="">
 </div>
 
-
+<!--top-info-->
 <div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 velkomst-frontpage">
 
     <div class="row">
@@ -57,7 +59,7 @@ require "settings/init.php";
         </div>
 
         <div class="mt-3">
-            <a href="#"
+            <a href="om-vedelsbo.php"
                class="font-twelve btn bg-dark-brown rounded-pill border-0 py-2 px-3">
                 Læs mere om Vedelsbo <i class="fa-solid fa-angle-right"></i>
             </a>
@@ -65,20 +67,22 @@ require "settings/init.php";
     </div>
 </div>
 
+<!--green wavy wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--dekorations bobler-->
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -40px">
     <img src="images/Dekoration.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 90px">
 </div>
 
+<!--dekorations bobler tablet-->
 <div aria-hidden="true" class="text-end d-none d-md-block" style="margin-top: -120px">
     <img src="images/Dekoration.png" class="  pe-4 m-0" alt="" style="width: 150px">
 </div>
 
-
+<!--hvad står vi for sektion-->
 <div class="container mt-3 mt-md-5 d-flex justify-content-center align-items-center">
     <div class="row justify-content-center">
 
@@ -141,11 +145,15 @@ require "settings/init.php";
     </div>
 </div>
 
+<!--beige normal wave-->
 <div class="bg-sage-green" aria-hidden="true">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--shapes: aktviteter, om vedelsbo, arbejdsmetoder-->
 <div class="bg-sage-green">
+
+    <!--aktviteter-->
     <div class="shape-box-5">
 
         <div class="shape-content">
@@ -156,6 +164,7 @@ require "settings/init.php";
         </div>
     </div>
 
+    <!--om vedelsbo-->
     <div class="shape-box-6">
 
         <div class="shape-content">
@@ -166,6 +175,7 @@ require "settings/init.php";
         </div>
     </div>
 
+    <!--arbejdsmetoder-->
     <div class="shape-box-7">
 
         <div class="shape-content">
@@ -177,11 +187,12 @@ require "settings/init.php";
     </div>
 </div>
 
-
+<!--green normal wave-->
 <div class="bg-background" aria-hidden="true">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--citat + knap til "en boboers tanker"-->
 <div class="container d-flex justify-content-center align-items-center pt-5 en-beboers-tanker-borger-forside">
 
     <div class="row justify-content-center text-center w-100 mt-3">
@@ -208,10 +219,12 @@ require "settings/init.php";
     </div>
 </div>
 
+<!--beige normal wave-->
 <div class="bg-light-brown" aria-hidden="true">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--indsend spørgsmål sektion-->
 <div class="bg-light-brown">
     <div class="container d-flex justify-content-center align-items-center">
 
@@ -266,6 +279,7 @@ require "settings/init.php";
     </div>
 </div>
 
+<!--bottom-wave-->
 <div class="bg-dark-green" aria-hidden="true">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>

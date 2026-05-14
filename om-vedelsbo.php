@@ -17,10 +17,12 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--top-wave-->
 <div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
+<!--top info-->
 <div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
@@ -29,7 +31,7 @@
         </div>
         <div class="col-12">
             <div class="font-twelve inter pe-4 pe-md-5 me-md-5 pb-3 text-center">
-                Vedelsbo er et hyggeligt botilbud med ”hjemlig atmosfære” for voksne som har en  sindslidende.
+                Vedelsbo er et hyggeligt botilbud med ”hjemlig atmosfære” for voksne som har en sindslidende.
             </div>
         </div>
         <div class="col-12">
@@ -41,24 +43,30 @@
     </div>
 </div>
 
+<!--green normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--top image-->
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
+<!--beige big wave-->
 <div aria-hidden="true" class="beige-big-wave-borger-forside">
-    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--wave shape-->
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
-    <img src="header-shapes/light-brown-house.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 140px">
+    <img src="header-shapes/light-brown-house.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 140px">
 </div>
 
+<!--beskrivelse-->
 <div class="container d-flex justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
@@ -72,7 +80,8 @@
             </div>
 
             <p class="font-twelve inter px-3 mb-3">
-                Der er 5 værelser med eget bad og toilet. Tillhørende de 5 værelser er et stort fælleskøkken for beboerne. Der er 5 lejligheder med eget bad og toilet, terrasse samt mindre køkken.
+                Der er 5 værelser med eget bad og toilet. Tillhørende de 5 værelser er et stort fælleskøkken for
+                beboerne. Der er 5 lejligheder med eget bad og toilet, terrasse samt mindre køkken.
             </p>
             <div class="col-12 col-lg-8">
 
@@ -88,7 +97,8 @@
                         Kreativt værksted i gammel charmerende kampestens bygning.
                     </li>
                     <li class="inter header-text-inter pe-3 mb-1">
-                        Stor hal som er opdelt i et naturværksted, træningsområde og et afslapningsområde med billiard, bordtennis, bob, sofaer og TV samt massagestol.
+                        Stor hal som er opdelt i et naturværksted, træningsområde og et afslapningsområde med billiard,
+                        bordtennis, bob, sofaer og TV samt massagestol.
                     </li>
                     <li class="inter header-text-inter pe-3 mb-1">
                         Orangeri
@@ -106,7 +116,8 @@
                         Et vaskerum med to vaskemaskiner og tørretumblere.
                     </li>
                     <li class="inter header-text-inter pe-3 mb-3">
-                        Maskinhal, hvor der er indrettet et tømmer værksted hvor beboerne kan arbejde med håndværksmæssige opgaver
+                        Maskinhal, hvor der er indrettet et tømmer værksted hvor beboerne kan arbejde med
+                        håndværksmæssige opgaver
                     </li>
                 </ul>
 
@@ -116,22 +127,24 @@
     </div>
 </div>
 
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
-
+<!--image-->
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
     <img src="images/header-image-tablet.jpg" alt="header-image"
          class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
+<!--beige normal wave upside down-->
 <div aria-hidden="true" class="beige-normal-wave-upside-down-underpage">
     <img src="waves-phone/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--personale-->
 <div class="container d-flex justify-content-center align-items-center">
 
     <div class="row justify-content-center px-1">
@@ -145,7 +158,9 @@
             </div>
 
             <p class="font-twelve inter px-3 mb-3">
-                Arbejdsmiljø med fokus på trivsel, tillid og samarbejde, understøttet af faste møder og fælles værdier. Personalet er sundhedsfagligt uddannet med løbende kompetenceudvikling, og arbejdet organiseres med daglig planlægning, evaluering og supervision.
+                Arbejdsmiljø med fokus på trivsel, tillid og samarbejde, understøttet af faste møder og fælles værdier.
+                Personalet er sundhedsfagligt uddannet med løbende kompetenceudvikling, og arbejdet organiseres med
+                daglig planlægning, evaluering og supervision.
             </p>
 
             <div class="col-12 d-flex justify-content-center align-items-center">
@@ -160,137 +175,150 @@
     </div>
 </div>
 
-
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<div class="bg-light-brown pt-5 hensyn-og-regler-section" >
-<div class="container bg-light-brown d-flex justify-content-center align-items-center my-3">
+<!--hensyn ig regler-->
+<div class="bg-light-brown pt-5 hensyn-og-regler-section">
+    <div class="container bg-light-brown d-flex justify-content-center align-items-center my-3">
 
-    <div class="row justify-content-center px-1">
+        <div class="row justify-content-center px-1">
 
-        <div class="col-12 col-lg-8">
+            <div class="col-12 col-lg-8">
 
-            <div class="text-center" id="nav-kontaktperson">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
-                    Hensyn og regler
-                </strong>
-            </div>
-
-        </div>
-
-    </div>
-
-
-</div>
-
-
-<div class="accordion mt-0 mx-4" id="accordionExample">
-
-    <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
-
-        <h2 class="accordion-header">
-
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#dagligdagen"
-                    aria-expanded="false"
-                    aria-controls="dagligdagen">
-
-                Dagligdagen
-
-            </button>
-
-        </h2>
-
-        <div id="dagligdagen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
-
-
-                <div class="mb-3">
-                    <p class="mb-3">Vedelsbo er et bofællesskab, hvor dagligdagen bygger på gensidig respekt og hensyn mellem beboerne. </p>
-                    <p class="mb-0">Det betyder, at alle tager ansvar for egen adfærd i fælles rammer, herunder i forhold til gæster, støjniveau og brug af musik.</p>
-                </div>
-
-
-            </div>
-        </div>
-
-    </div>
-
-
-    <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
-
-        <h2 class="accordion-header">
-
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#alkohol-rygning"
-                    aria-expanded="false"
-                    aria-controls="alkohol-rygning">
-
-                Alkohol og rygning
-
-            </button>
-
-        </h2>
-
-        <div id="alkohol-rygning" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
-
-                <div class="mb-3">
-                    <p class="mb-0">Vedelsbo har en fastlagt alkohol- og rygepolitik. Der kan i samarbejde med den enkelte beboer udarbejdes individuelle aftaler og mål vedrørende alkoholforbrug. Det er ikke tilladt at ryge i fællesarealerne. Af hensyn til indeklima og sundhed anbefales det, at rygning så vidt muligt foregår udendørs. Der arbejdes samtidig med en respektfuld balance mellem den enkeltes vaner og fællesskabets rammer.</p>
+                <div class="text-center" id="nav-kontaktperson">
+                    <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                        Hensyn og regler
+                    </strong>
                 </div>
 
             </div>
+
         </div>
+
 
     </div>
 
+    <!--accordion: dagligdagen, alkohol- og rygning, beboermøder...-->
+    <div class="accordion mt-0 mx-4" id="accordionExample">
 
-    <div class="accordion-item mb-0 border-0 overflow-hidden bg-light-green rounded-5">
+        <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
-        <h2 class="accordion-header">
+            <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#beboermoder"
-                    aria-expanded="false"
-                    aria-controls="beboermoder">
+                <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#dagligdagen"
+                        aria-expanded="false"
+                        aria-controls="dagligdagen">
 
-                Beboermøder
+                    Dagligdagen
 
-            </button>
+                </button>
 
-        </h2>
+            </h2>
 
-        <div id="beboermoder" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body bg-light-green inter accordion-body-text">
+            <div id="dagligdagen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body bg-light-green inter accordion-body-text">
 
-                <div class="mb-3">
-                    <p class="mb-3">Vedelsbo har et beboerråd, som afholder møde én gang månedligt. Beboerrådet fungerer som bindeled mellem beboere og personale og bringer relevante emner videre fra beboermøderne.</p>
-                    <p class="mb-3">Der afholdes desuden ugentlige beboermøder hver tirsdag. Her drøftes forhold vedrørende hverdagen på Vedelsbo, herunder ønsker, idéer og eventuelle problemstillinger. På møderne planlægges også fælles aktiviteter såsom ture, fester og ferier.</p>
-                    <p class="mb-0">Beboerdemokratiet er en central del af hverdagen og understøtter beboernes medindflydelse på fællesskabets rammer og aktiviteter.</p>
+
+                    <div class="mb-3">
+                        <p class="mb-3">Vedelsbo er et bofællesskab, hvor dagligdagen bygger på gensidig respekt og
+                            hensyn mellem beboerne. </p>
+                        <p class="mb-0">Det betyder, at alle tager ansvar for egen adfærd i fælles rammer, herunder i
+                            forhold til gæster, støjniveau og brug af musik.</p>
+                    </div>
+
+
                 </div>
-
-
             </div>
+
+        </div>
+
+
+        <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+
+            <h2 class="accordion-header">
+
+                <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#alkohol-rygning"
+                        aria-expanded="false"
+                        aria-controls="alkohol-rygning">
+
+                    Alkohol og rygning
+
+                </button>
+
+            </h2>
+
+            <div id="alkohol-rygning" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body bg-light-green inter accordion-body-text">
+
+                    <div class="mb-3">
+                        <p class="mb-0">Vedelsbo har en fastlagt alkohol- og rygepolitik. Der kan i samarbejde med den
+                            enkelte beboer udarbejdes individuelle aftaler og mål vedrørende alkoholforbrug. Det er ikke
+                            tilladt at ryge i fællesarealerne. Af hensyn til indeklima og sundhed anbefales det, at
+                            rygning så vidt muligt foregår udendørs. Der arbejdes samtidig med en respektfuld balance
+                            mellem den enkeltes vaner og fællesskabets rammer.</p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="accordion-item mb-0 border-0 overflow-hidden bg-light-green rounded-5">
+
+            <h2 class="accordion-header">
+
+                <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#beboermoder"
+                        aria-expanded="false"
+                        aria-controls="beboermoder">
+
+                    Beboermøder
+
+                </button>
+
+            </h2>
+
+            <div id="beboermoder" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body bg-light-green inter accordion-body-text">
+
+                    <div class="mb-3">
+                        <p class="mb-3">Vedelsbo har et beboerråd, som afholder møde én gang månedligt. Beboerrådet
+                            fungerer som bindeled mellem beboere og personale og bringer relevante emner videre fra
+                            beboermøderne.</p>
+                        <p class="mb-3">Der afholdes desuden ugentlige beboermøder hver tirsdag. Her drøftes forhold
+                            vedrørende hverdagen på Vedelsbo, herunder ønsker, idéer og eventuelle problemstillinger. På
+                            møderne planlægges også fælles aktiviteter såsom ture, fester og ferier.</p>
+                        <p class="mb-0">Beboerdemokratiet er en central del af hverdagen og understøtter beboernes
+                            medindflydelse på fællesskabets rammer og aktiviteter.</p>
+                    </div>
+
+
+                </div>
+            </div>
+
         </div>
 
     </div>
-
-</div>
 </div>
 
+<!--light brown normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--kontakt-->
 <div class="container d-flex justify-content-center align-items-center">
 
     <div class="row justify-content-center px-1">
@@ -303,29 +331,33 @@
                 </strong>
             </div>
 
+            <!--profession-->
             <p class="font-twelve inter fw-bold px-3 mb-0">
                 Socialpsykiatriske botilbud Vedelsbo ApS
             </p>
+            <!--cvr-->
             <p class="font-twelve inter px-3 mb-3">
                 CVR: 37634557
             </p>
+            <!--adresse-->
             <p class="font-twelve inter px-3 mb-3">
                 <span class="fw-bold">Adresse:</span>Gadevang 23, 4700 Næstved
             </p>
+            <!--telefonnummer-->
             <p class="font-twelve inter px-3 mb-0">
                 <span class="fw-bold">Tlf.:</span>55 70 00 11
             </p>
+            <!--email-->
             <p class="font-twelve inter px-3 mb-3">
                 <span class="fw-bold">E-mail:</span>lrh@vedelsbo.dk
             </p>
-
 
 
         </div>
     </div>
 </div>
 
-
+<!--bottom-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>

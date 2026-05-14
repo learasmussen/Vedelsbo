@@ -17,10 +17,12 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--top-wave-->
 <div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
+<!--top-info-->
 <div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
@@ -36,6 +38,7 @@
     </div>
 </div>
 
+<!--top buttons-->
 <div class="container d-flex justify-content-center align-items-center bg-sage-green pt-4 read-to-section">
 
     <div class="row justify-content-center text-center mt-5">
@@ -85,17 +88,18 @@
 
 </div>
 
+<!--green normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--wave shape-->
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -50px">
     <img src="header-shapes/light-brown-jigsaw.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 140px">
 </div>
 
-
+<!--terapi-->
 <div class="container d-flex justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
@@ -165,12 +169,12 @@
     </div>
 </div>
 
-
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--andre behandlingsmetoder-->
 <div class="container bg-light-brown d-flex justify-content-center align-items-center pt-5 read-to-section">
 
     <div class="row justify-content-center px-1">
@@ -191,12 +195,12 @@
     </div>
 </div>
 
-
+<!--light brown normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--kontaktperson-->
 <div class="container d-flex justify-content-center align-items-center my-3">
 
     <div class="row justify-content-center px-1">
@@ -230,8 +234,10 @@
     </div>
 </div>
 
+<!--Accordions: individuel støtte, handleplan og målarbejde...-->
 <div class="accordion mt-0 mx-4" id="accordionExample">
 
+    <!--individuel støtte-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -267,7 +273,7 @@
 
     </div>
 
-
+    <!--handleplan og målarbejde-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -299,7 +305,7 @@
 
     </div>
 
-
+    <!--samtaler og opfølgning-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -334,7 +340,7 @@
 
     </div>
 
-
+    <!--aktiviteter og deltagelse-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -366,7 +372,7 @@
 
     </div>
 
-
+    <!--struktur og hverdagsmestring-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -400,10 +406,12 @@
 
 </div>
 
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--målsætning-->
 <div class="container bg-sage-green d-flex justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder">
 
     <div class="row justify-content-center px-1">
@@ -466,10 +474,12 @@
     </div>
 </div>
 
+<!--green normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--miljø terapi-->
 <div class="container bg-light-brown d-flex justify-content-center align-items-center pt-5 miljoterapi-arbejdsmetoder">
 
     <div class="row justify-content-center px-1">
@@ -494,8 +504,10 @@
     </div>
 </div>
 
+<!--accordion: deltagelse i hverdagsaktiviteter, fælles opgaver og struktur...-->
 <div class="accordion mt-0 px-4 bg-light-brown" id="accordionExample">
 
+    <!--deltagelse i hverdagsaktiviteter-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -531,7 +543,7 @@
 
     </div>
 
-
+    <!--fælles opgaver og struktur-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -570,7 +582,7 @@
 
     </div>
 
-
+    <!--aktiviteter i udearealer-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -605,7 +617,7 @@
 
     </div>
 
-
+    <!--forventning til deltagelse-->
     <div class="accordion-item mb-0 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -640,10 +652,12 @@
 
 </div>
 
+<!--light brown normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--coaching-->
 <div class="container d-flex justify-content-center align-items-center my-3">
 
     <div class="row justify-content-center px-1">
@@ -695,8 +709,10 @@
     </div>
 </div>
 
+<!--accordion: dagligdagen på vedelsbo, alkohol- og rygepolitik...-->
 <div class="accordion mt-0 mx-4" id="accordionExample">
 
+    <!--dagligdagen på vedelsbo-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -735,7 +751,7 @@
 
     </div>
 
-
+    <!--alkohol- og rygepolitik-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -770,7 +786,7 @@
 
     </div>
 
-
+    <!--beboerdemokrati og indflydelse-->
     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
 
         <h2 class="accordion-header">
@@ -810,12 +826,14 @@
 
 </div>
 
+<!--bottom-wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
 <?php include 'includes/footer.php'; ?>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>

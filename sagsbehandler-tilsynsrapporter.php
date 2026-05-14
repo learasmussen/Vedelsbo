@@ -17,10 +17,12 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--top wave-->
 <div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
+<!--top info-->
 <div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
@@ -36,20 +38,23 @@
     </div>
 </div>
 
+<!--green normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--wave shape-->
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -50px">
     <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 140px">
 </div>
 
+<!--tilsynsrapporterne-->
 <div class="container d-flex justify-content-center align-items-center bg-background read-to-section mt-3">
 
     <div class="row justify-content-center text-center">
 
+        <!--2025-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/79_tilsynsrapport-endelig-version-website.pdf"
                target="_blank"
@@ -60,6 +65,7 @@
             </a>
         </div>
 
+        <!--2024-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/78_driftsorienteret-tilsyn-2024-website.pdf"
                target="_blank"
@@ -70,6 +76,7 @@
             </a>
         </div>
 
+        <!--2023-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/78_driftsorienteret-tilsyn-2024-website.pdf"
                target="_blank"
@@ -80,6 +87,7 @@
             </a>
         </div>
 
+        <!--2022-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/72_endelig-tilsynsrapport-vedelsbo.pdf"
                target="_blank"
@@ -90,6 +98,7 @@
             </a>
         </div>
 
+        <!--2021-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/71_endelig-tilsynsrapport-delrapport-vedelsbo.pdf"
                target="_blank"
@@ -100,6 +109,7 @@
             </a>
         </div>
 
+        <!--2020-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/67_endeligtilsynsrapportvedelsbo-2020.pdf"
                target="_blank"
@@ -110,6 +120,7 @@
             </a>
         </div>
 
+        <!--2019-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/39_endelig-tilsynsrapport-vedelsbo-novmeber-2019.pdf"
                target="_blank"
@@ -120,14 +131,7 @@
             </a>
         </div>
 
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <button
-                    class="font-twelve btn text-off-black rounded-pill fw-bold py-2 px-2 inter"
-                    style="width: 125px; background: transparent; border: 2px solid #1f4d3a; color: #727C65;">
-                2018
-            </button>
-        </div>
-
+        <!--2017-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/40_tilsynsrapport-2017-socialpsykiatriske-botilbud-vedelsbo-aps-5.pdf"
                target="_blank"
@@ -138,6 +142,7 @@
             </a>
         </div>
 
+        <!--2016-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/15_vedelsbo-endelig-tilsynsrapport-okt-2016-1.pdf"
                target="_blank"
@@ -148,6 +153,7 @@
             </a>
         </div>
 
+        <!--2015-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/14_vedelsbo-endelig-tilsynsrapport-2015-re-godkendelse.pdf"
                target="_blank"
@@ -158,6 +164,7 @@
             </a>
         </div>
 
+        <!--2014-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/16_vedelsbo-tilsynsrapport-2014.pdf"
                target="_blank"
@@ -168,6 +175,7 @@
             </a>
         </div>
 
+        <!--2013-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/10_29-uanmeldt-tilsyn-2013-vedelsbo-ballerup-kommune.pdf"
                target="_blank"
@@ -178,6 +186,7 @@
             </a>
         </div>
 
+        <!--2012-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/11_30-tilsynsrapport-2012.pdf"
                target="_blank"
@@ -188,6 +197,7 @@
             </a>
         </div>
 
+        <!--2011-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/12_31-tilsynsrapport-2011.pdf"
                target="_blank"
@@ -198,6 +208,7 @@
             </a>
         </div>
 
+        <!--2010-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/13_32-tilsynsrapport-2010.pdf"
                target="_blank"
@@ -212,12 +223,12 @@
 
 </div>
 
-
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--read too section-->
 <div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center">
@@ -264,6 +275,7 @@
 
 </div>
 
+<!--bottom wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>

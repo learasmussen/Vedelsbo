@@ -17,10 +17,12 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--top wave-->
 <div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
+<!--top info-->
 <div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
@@ -29,31 +31,39 @@
         </div>
         <div class="col-12">
             <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">
-                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en sindslidelse eller for nylig er blevet  diagnosticeret.  Fælles for målgruppen er en tilknytning til det psykiatriske system.
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en
+                sindslidelse eller for nylig er blevet diagnosticeret. Fælles for målgruppen er en tilknytning til det
+                psykiatriske system.
             </div>
         </div>
 
     </div>
 </div>
 
+<!--green normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--top image-->
 <div class="container-fluid p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/header-image-tablet.jpg" alt="header-image"
+         class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
+<!--beige big wave-->
 <div aria-hidden="true" class="beige-big-wave-borger-forside">
-    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--wave shape-->
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
-    <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 140px">
+    <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 140px">
 </div>
 
+<!--kriterier-->
 <div class="container d-flex justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
@@ -67,7 +77,8 @@
             </div>
 
             <p class="font-twelve inter px-3 mb-3">
-                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en sindslidelse eller for nylig er blevet  diagnosticeret.
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en
+                sindslidelse eller for nylig er blevet diagnosticeret.
             </p>
             <p class="font-twelve inter px-3 mb-3">
                 Fælles for målgruppen er en tilknytning til det psykiatriske system.
@@ -77,7 +88,9 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-twelve">
-                    Man kan ikke bo på Vedelsbo, hvis man opretholder et aktivt misbrug af alkohol, hash eller andre euforiserende stoffer, dvs. man kan bo på Vedelsbo og få hjælp, hvis man vil arbejde aktivt på at komme ud af sit misbrug.
+                    Man kan ikke bo på Vedelsbo, hvis man opretholder et aktivt misbrug af alkohol, hash eller andre
+                    euforiserende stoffer, dvs. man kan bo på Vedelsbo og få hjælp, hvis man vil arbejde aktivt på at
+                    komme ud af sit misbrug.
                 </div>
             </div>
 
@@ -101,7 +114,8 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-twelve">
-                    Det er nødvendigt at være fysisk mobil, da der kun i begrænset omfang kan anvendes hjælpemidler som kørestol eller rollator.
+                    Det er nødvendigt at være fysisk mobil, da der kun i begrænset omfang kan anvendes hjælpemidler som
+                    kørestol eller rollator.
                 </div>
             </div>
 
@@ -109,11 +123,12 @@
     </div>
 </div>
 
+<!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
+<!--read too section-->
 <div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center">
@@ -160,6 +175,7 @@
 
 </div>
 
+<!--bottom wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
