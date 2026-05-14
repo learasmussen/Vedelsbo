@@ -48,48 +48,48 @@
 
     <div class="row justify-content-center text-center py-5">
 
-        <!--terapi-->
+        <!--værider-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href=""
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#values"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
-                Terapi
+                Værdier
             </a>
         </div>
 
-        <!--kontaktperson-->
+        <!--Målgruppe-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href=""
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#maalgruppe"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
-                Kontaktperson
+                Målgruppe
             </a>
         </div>
 
-        <!--målsætning-->
+        <!--Visitering-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href=""
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#visitering"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
-                Målsætning
+                Visitering
             </a>
         </div>
 
-        <!--miljøterapi-->
+        <!--Praktisk-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href=""
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#praktisk"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
-                Miljøterapi
+                Praktisk
             </a>
         </div>
 
-        <!--coaching-->
+        <!--Tilsynsrapporter-->
         <div class="col-6 d-flex justify-content-center mb-4 pe-4">
-            <a href=""
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#tilsynsrapporter"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
-                Coaching
+                Tilsynsrapporter
             </a>
         </div>
 
@@ -109,7 +109,7 @@
 </div>
 
 <!--values header-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex justify-content-center align-items-center mt-3" id="values">
 
     <div class="row justify-content-center px-1">
 
@@ -168,6 +168,15 @@
             <strong class="cormorant font-fourteen mb-3">ÅBENHED</strong>
         </div>
 
+        <!--læs mere knap-->
+        <div class="col-12 d-flex justify-content-center align-items-center">
+            <a href="sagsbehandler-values.php"
+               class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                Læs mere om værdier
+                <i class="fa-solid fa-angle-right"></i>
+            </a>
+        </div>
+
     </div>
 
 </div>
@@ -178,7 +187,7 @@
 </div>
 
 <!--målgruppe-->
-<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside">
+<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside" id="maalgruppe">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -235,7 +244,7 @@
 
         <!--læs mere knap-->
         <div class="col-12 d-flex justify-content-center align-items-center">
-            <a href="/en-beboers-tanker.php"
+            <a href="sagsbehandler-maalgruppe.php"
                class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                 Læs mere om målgruppe
                 <i class="fa-solid fa-angle-right"></i>
@@ -252,7 +261,7 @@
 </div>
 
 <!--visitering-->
-<div class="container d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
+<div class="container d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside" id="visitering">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -272,7 +281,7 @@
 
             <!--læs mere knap-->
             <div class="col-12 d-flex justify-content-center align-items-center">
-                <a href="/en-beboers-tanker.php"
+                <a href="sagsbehandler-visitering.php"
                    class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     Læs mere om visitering
                     <i class="fa-solid fa-angle-right"></i>
@@ -291,7 +300,7 @@
 </div>
 
 <!--praktiske oplysninger-->
-<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside">
+<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside" id="praktisk">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -313,7 +322,7 @@
 
             <!--læs mere knap-->
             <div class="col-12 d-flex justify-content-center align-items-center">
-                <a href="/en-beboers-tanker.php"
+                <a href="sagsbehandler-praktiske-oplysninger.php"
                    class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     Læs mere her
                     <i class="fa-solid fa-angle-right"></i>
@@ -332,7 +341,7 @@
 </div>
 
 <!--tilsynsrapporter-->
-<div class="container d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
+<div class="container d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside" id="tilsynsrapporter">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -350,7 +359,7 @@
 
             <!--læs mere knap-->
             <div class="col-12 d-flex justify-content-center align-items-center">
-                <a href="/en-beboers-tanker.php"
+                <a href="sagsbehandler-tilsynsrapporter.php"
                    class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     Se vores tilsynsrapporter
                     <i class="fa-solid fa-angle-right"></i>
@@ -380,34 +389,34 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/borger-aktiviteter.php"
+            <a href="sagsbehandler-maalgruppe.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Aktiviteter
+                Målgruppe
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/borger-fritid.php"
+            <a href="sagsbehandler-visitering.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Fritid
+                Visitering
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/meals.php"
+            <a href="sagsbehandler-praktiske-oplysninger.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Måltider
+                Praktisk
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/om-vedelsbo.php"
+            <a href="sagsbehandler-tilsynsrapporter.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Om Vedelsbo
+                Tilsyn
             </a>
         </div>
 

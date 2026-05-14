@@ -17,7 +17,7 @@
 <body>
 
 <!-- footer til lille skærm -->
-<footer class="bg-dark-green d-block d-md-none pt-5 footer position-relative">
+<footer class="bg-dark-green d-block d-md-none pt-5 footer position-relative" style="z-index: -100">
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">

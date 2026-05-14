@@ -75,7 +75,7 @@
                     </p>
 
                     <div class="mt-3">
-                        <a href="/aktiviteter.php"
+                        <a href="borger-aktiviteter.php"
                            class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
@@ -102,7 +102,7 @@
                     </p>
 
                     <div class="mt-3">
-                        <a href="/borger-fritid.php"
+                        <a href="borger-fritid.php"
                            class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
@@ -129,7 +129,7 @@
                     </p>
 
                     <div class="mt-3">
-                        <a href="/a-year.php"
+                        <a href="a-year.php"
                            class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
@@ -156,7 +156,7 @@
                     </p>
 
                     <div class="mt-3">
-                        <a href="/meals.php"
+                        <a href="meals.php"
                            class="btn bg-off-white rounded-5 px-2 py-1">
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
@@ -190,7 +190,7 @@
             </p>
 
             <div>
-                <a href="/en-beboers-tanker.php"
+                <a href="en-beboers-tanker.php"
                    class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     En beboers tanker
                     <i class="fa-solid fa-angle-right"></i>

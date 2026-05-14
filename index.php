@@ -157,7 +157,7 @@ require "settings/init.php";
     <div class="shape-box-5">
 
         <div class="shape-content">
-            <a href="/borger-aktiviteter.php"
+            <a href="borger-aktiviteter.php"
                class="font-twelve btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
                 Aktiviteter <i class="fa-solid fa-angle-right"></i>
             </a>
@@ -168,7 +168,7 @@ require "settings/init.php";
     <div class="shape-box-6">
 
         <div class="shape-content">
-            <a href="/om-vedelsbo.php"
+            <a href="om-vedelsbo.php"
                class="font-twelve btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
                 Om Vedelsbo <i class="fa-solid fa-angle-right"></i>
             </a>
@@ -179,7 +179,7 @@ require "settings/init.php";
     <div class="shape-box-7">
 
         <div class="shape-content">
-            <a href="/arbejdsmetoder-forside.php"
+            <a href="arbejdsmetoder-forside.php"
                class="font-twelve btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
                 Arbejdsmetoder <i class="fa-solid fa-angle-right"></i>
             </a>
@@ -209,7 +209,7 @@ require "settings/init.php";
             </p>
 
             <div>
-                <a href="/en-beboers-tanker.php"
+                <a href="en-beboers-tanker.php"
                    class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     En beboers tanker
                     <i class="fa-solid fa-angle-right"></i>

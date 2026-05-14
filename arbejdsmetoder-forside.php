@@ -45,40 +45,40 @@
 
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/arbejdsmetoder-forside.php#nav-terapi"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#terapi"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Terapi
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/arbejdsmetoder-forside.php#nav-kontaktperson"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#kontaktperson"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Kontaktperson
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/arbejdsmetoder-forside.php#nav-maalsaetning"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#maalsaetning"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Målsætning
             </a>
         </div>
 
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/arbejdsmetoder-forside.php#nav-miljeoterapi"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+        <div class="col-6 d-flex justify-content-center mb-3 pe-4" >
+            <a href="#miljoterapi"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Miljøterapi
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/arbejdsmetoder-forside.php#nav-coaching"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+            <a href="#coaching"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Coaching
             </a>
@@ -100,7 +100,7 @@
 </div>
 
 <!--terapi-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex justify-content-center align-items-center mt-3" id="terapi">
 
     <div class="row justify-content-center px-1">
 
@@ -201,7 +201,7 @@
 </div>
 
 <!--kontaktperson-->
-<div class="container d-flex justify-content-center align-items-center my-3">
+<div class="container d-flex justify-content-center align-items-center my-3" id="kontaktperson">
 
     <div class="row justify-content-center px-1">
 
@@ -412,7 +412,7 @@
 </div>
 
 <!--målsætning-->
-<div class="container bg-sage-green d-flex justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder">
+<div class="container bg-sage-green d-flex justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder" id="maalsaetning">
 
     <div class="row justify-content-center px-1">
 
@@ -480,7 +480,7 @@
 </div>
 
 <!--miljø terapi-->
-<div class="container bg-light-brown d-flex justify-content-center align-items-center pt-5 miljoterapi-arbejdsmetoder">
+<div class="container bg-light-brown d-flex justify-content-center align-items-center pt-5 miljoterapi-arbejdsmetoder" id="miljoterapi">
 
     <div class="row justify-content-center px-1">
 
@@ -658,7 +658,7 @@
 </div>
 
 <!--coaching-->
-<div class="container d-flex justify-content-center align-items-center my-3">
+<div class="container d-flex justify-content-center align-items-center my-3" id="coaching">
 
     <div class="row justify-content-center px-1">
 

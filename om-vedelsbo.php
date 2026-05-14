@@ -164,7 +164,7 @@
             </p>
 
             <div class="col-12 d-flex justify-content-center align-items-center">
-                <a href="/vedelsbo-personale.php"
+                <a href="vedelsbo-personale.php"
                    class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     Læs mere om personale
                     <i class="fa-solid fa-angle-right"></i>

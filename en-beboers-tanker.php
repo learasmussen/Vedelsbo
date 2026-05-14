@@ -207,7 +207,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/borger-aktiviteter.php"
+            <a href="borger-aktiviteter.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Aktiviteter
@@ -215,7 +215,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/borger-fritid.php"
+            <a href="borger-fritid.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Fritid
@@ -223,18 +223,18 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/meals.php"
+            <a href="a-year.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Måltider
+                Årets gang
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/om-vedelsbo.php"
+            <a href="meals.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Om Vedelsbo
+                Måltider
             </a>
         </div>
 

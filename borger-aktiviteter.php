@@ -280,7 +280,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/borger-fritid.php"
+            <a href="borger-fritid.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Fritid
@@ -288,7 +288,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/a-year.php"
+            <a href="a-year.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Årets gang
@@ -296,7 +296,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/meals.php"
+            <a href="meals.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Måltider
@@ -304,7 +304,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/om-vedelsbo.php"
+            <a href="om-vedelsbo.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Om Vedelsbo

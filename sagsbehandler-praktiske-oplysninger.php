@@ -123,7 +123,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/sagsbehandler-values.php"
+            <a href="sagsbehandler-values.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Værdier
@@ -131,7 +131,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/sagsbehandler-maalgruppe.php"
+            <a href="sagsbehandler-maalgruppe.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Målgruppe
@@ -139,7 +139,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/sagsbehandler-visitering.php"
+            <a href="sagsbehandler-visitering.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Visitering
@@ -147,7 +147,7 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/sagsbehandler-tilsynsrapporter.php"
+            <a href="sagsbehandler-tilsynsrapporter.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Tilsyn

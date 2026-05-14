@@ -412,34 +412,34 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/borger-fritid.php"
+            <a href="sagsbehandler-maalgruppe.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Fritid
+                Målgruppe
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/a-year.php"
+            <a href="sagsbehandler-visitering.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Årets gang
+                Visitering
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="/meals.php"
+            <a href="sagsbehandler-praktiske-oplysninger.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Måltider
+                Praktisk
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
-            <a href="/om-vedelsbo.php"
+            <a href="sagsbehandler-tilsynsrapporter.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
-                Om Vedelsbo
+                Tilsyn
             </a>
         </div>
 
