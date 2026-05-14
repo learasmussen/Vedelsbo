@@ -90,21 +90,32 @@
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
-                    <p class="mb-1">• Vi arbejder loyalt ud fra fælles værdier, beslutninger og mål.</p>
-                    <p class="mb-1">• Vi overholder aftaler mellem kollegaer og beboere.</p>
-                    <p class="mb-1">• Vi tager ansvar for egne opgaver og løser dem med høj faglig standard.</p>
-                    <p class="mb-1">• Vi søger sparring ved behov og erkender egne faglige grænser.</p>
-                    <p class="mb-1">• Vi udviser initiativ og engagement i både fælles og individuelle opgaver.</p>
-                    <p class="mb-0">• Vi handler ved forhold, der strider mod fælles værdier eller faglig praksis.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Vi arbejder loyalt ud fra fælles værdier, beslutninger og mål.</li>
+                        <li class="mb-1">Vi overholder aftaler mellem kollegaer og beboere.</li>
+                        <li class="mb-1">Vi tager ansvar for egne opgaver og løser dem med høj faglig standard.</li>
+                        <li class="mb-1">Vi søger sparring ved behov og erkender egne faglige grænser.</li>
+                        <li class="mb-1">Vi udviser initiativ og engagement i både fælles og individuelle opgaver.</li>
+                        <li class="mb-0">Vi handler ved forhold, der strider mod fælles værdier eller faglig praksis.
+                        </li>
+                    </ul>
                 </div>
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
-                    <p class="mb-1">• Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og
-                        inddragelse.</p>
-                    <p class="mb-1">• Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og
-                        funktionsniveau.</p>
-                    <p class="mb-0">• Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">
+                            Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og
+                            inddragelse.
+                        </li>
+                        <li class="mb-1">
+                            Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og
+                            funktionsniveau.
+                        </li>
+                        <li class="mb-0">
+                            Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.
+                        </li>
+                    </ul>
                 </div>
 
             </div>
@@ -138,21 +149,25 @@
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
-                    <p class="mb-1">• Vi støtter og aflaster hinanden ved behov.</p>
-                    <p class="mb-1">• Vi udviser lydhørhed og respekt for forskellig belastning.</p>
-                    <p class="mb-1">• Vi tilbyder støtte ved faglige og personlige udfordringer.</p>
-                    <p class="mb-0">• Vi har fokus på trivsel og et sundt arbejdsmiljø.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Vi støtter og aflaster hinanden ved behov.</li>
+                        <li class="mb-1">Vi udviser lydhørhed og respekt for forskellig belastning.</li>
+                        <li class="mb-1">Vi tilbyder støtte ved faglige og personlige udfordringer.</li>
+                        <li class="mb-0">Vi har fokus på trivsel og et sundt arbejdsmiljø.</li>
+                    </ul>
                 </div>
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
-                    <p class="mb-1">• Vi arbejder med at understøtte egenomsorg frem for at overtage funktioner.</p>
-                    <p class="mb-1">• Vi yder hjælp til selvhjælp ud fra individuelle behov.</p>
-                    <p class="mb-1">• Vi tilrettelægger indsatsen i henhold til samarbejdsmapper.</p>
-                    <p class="mb-1">• Vi udviser empati, nærvær og faglig opmærksomhed.</p>
-                    <p class="mb-1">• Vi observerer og handler ud fra beboerens psykiske og fysiske tilstand.</p>
-                    <p class="mb-1">• Vi handler ansvarligt ved svigt i egenomsorg eller risikosituationer.</p>
-                    <p class="mb-0">• Vi understøtter forståelse for faglige vurderinger og beslutninger.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Vi arbejder med at understøtte egenomsorg frem for at overtage funktioner.</li>
+                        <li class="mb-1">Vi yder hjælp til selvhjælp ud fra individuelle behov.</li>
+                        <li class="mb-1">Vi tilrettelægger indsatsen i henhold til samarbejdsmapper.</li>
+                        <li class="mb-1">Vi udviser empati, nærvær og faglig opmærksomhed.</li>
+                        <li class="mb-1">Vi observerer og handler ud fra beboerens psykiske og fysiske tilstand.</li>
+                        <li class="mb-1">Vi handler ansvarligt ved svigt i egenomsorg eller risikosituationer.</li>
+                        <li class="mb-0">Vi understøtter forståelse for faglige vurderinger og beslutninger.</li>
+                    </ul>
                 </div>
 
             </div>
@@ -186,27 +201,31 @@
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
-                    <p class="mb-1">• Vi lytter aktivt og anerkender hinandens perspektiver.</p>
-                    <p class="mb-1">• Vi giver plads til forskellighed og faglig tilgang.</p>
-                    <p class="mb-1">• Vi arbejder ud fra gensidig tillid og respekt for hinandens intentioner.</p>
-                    <p class="mb-1">• Vi arbejder med forståelse for hinandens typer og arbejdsstil (MBTI) som et
-                        fagligt redskab.</p>
-                    <p class="mb-1">• Vi kommunikerer åbent og spørger ind ved tvivl.</p>
-                    <p class="mb-1">• Vi taler med hinanden – ikke om hinanden.</p>
-                    <p class="mb-0">• Vi respekterer hinandens roller og ansvarsområder.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Vi lytter aktivt og anerkender hinandens perspektiver.</li>
+                        <li class="mb-1">Vi giver plads til forskellighed og faglig tilgang.</li>
+                        <li class="mb-1">Vi arbejder ud fra gensidig tillid og respekt for hinandens intentioner.</li>
+                        <li class="mb-1">Vi arbejder med forståelse for hinandens typer og arbejdsstil (MBTI) som et
+                            fagligt redskab.
+                        </li>
+                        <li class="mb-1">Vi kommunikerer åbent og spørger ind ved tvivl.</li>
+                        <li class="mb-1">Vi taler med hinanden – ikke om hinanden.</li>
+                        <li class="mb-0">Vi respekterer hinandens roller og ansvarsområder.</li>
+                    </ul>
                 </div>
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
-                    <p class="mb-1">• Vi respekterer beboerens privatliv, herunder ved at banke på døren.</p>
-                    <p class="mb-1">• Vi møder beboeren i øjenhøjde og med ligeværdighed.</p>
-                    <p class="mb-1">• Vi sætter beboeren i centrum og understøtter troen på egne ressourcer.</p>
-                    <p class="mb-1">• Vi understøtter beboerens mål, ønsker og motivation.</p>
-                    <p class="mb-1">• Vi udviser ærlighed og tydelig grænsesætning.</p>
-                    <p class="mb-1">• Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.</p>
-                    <p class="mb-1">• Vi taler ikke om beboeren i dennes påhør.</p>
-                    <p class="mb-0">• Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet
-                        indsats.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Vi respekterer beboerens privatliv, herunder ved at banke på døren.</li>
+                        <li class="mb-1">Vi møder beboeren i øjenhøjde og med ligeværdighed.</li>
+                        <li class="mb-1">Vi sætter beboeren i centrum og understøtter troen på egne ressourcer.</li>
+                        <li class="mb-1">Vi understøtter beboerens mål, ønsker og motivation.</li>
+                        <li class="mb-1">Vi udviser ærlighed og tydelig grænsesætning.</li>
+                        <li class="mb-1">Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.</li>
+                        <li class="mb-1">Vi taler ikke om beboeren i dennes påhør.</li>
+                        <li class="mb-0">Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet indsats.</li>
+                    </ul>
                 </div>
 
             </div>
@@ -240,20 +259,27 @@
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
-                    <p class="mb-1">• Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt
-                        samarbejdsredskab.</p>
-                    <p class="mb-1">• Vi anvender forskelligheder som en styrke i det faglige samarbejde.</p>
-                    <p class="mb-1">• Vi udviser ikke fordømmelse, men nysgerrighed og respekt.</p>
-                    <p class="mb-0">• Vi arbejder fleksibelt og konstruktivt i opgaveløsningen.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt
+                            samarbejdsredskab.
+                        </li>
+                        <li class="mb-1">Vi anvender forskelligheder som en styrke i det faglige samarbejde.</li>
+                        <li class="mb-1">Vi udviser ikke fordømmelse, men nysgerrighed og respekt.</li>
+                        <li class="mb-0">Vi arbejder fleksibelt og konstruktivt i opgaveløsningen.</li>
+                    </ul>
                 </div>
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
-                    <p class="mb-1">• Vi udviser høj grad af tolerance og medmenneskelighed.</p>
-                    <p class="mb-1">• Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner
-                        professionelt.</p>
-                    <p class="mb-0">• Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet uanset
-                        funktionsniveau og dagsform.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Vi udviser høj grad af tolerance og medmenneskelighed.</li>
+                        <li class="mb-1">Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner
+                            professionelt.
+                        </li>
+                        <li class="mb-0">Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet uanset
+                            funktionsniveau og dagsform.
+                        </li>
+                    </ul>
                 </div>
 
             </div>
@@ -286,21 +312,25 @@
 
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
-                    <p class="mb-1">• Bidrager aktivt med idéer og initiativer.</p>
-                    <p class="mb-1">• Deltager engageret i nye tiltag.</p>
-                    <p class="mb-1">• Implementerer ny viden fra kurser og praksis.</p>
-                    <p class="mb-1">• Deler faglig viden i organisationen.</p>
-                    <p class="mb-1">• Arbejder løbende med kompetenceudvikling.</p>
-                    <p class="mb-1">• Dokumenterer faglig praksis.</p>
-                    <p class="mb-0">• Arbejder systematisk med udviklingsprocesser.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Bidrager aktivt med idéer og initiativer.</li>
+                        <li class="mb-1">Deltager engageret i nye tiltag.</li>
+                        <li class="mb-1">Implementerer ny viden fra kurser og praksis.</li>
+                        <li class="mb-1">Deler faglig viden i organisationen.</li>
+                        <li class="mb-1">Arbejder løbende med kompetenceudvikling.</li>
+                        <li class="mb-1">Dokumenterer faglig praksis.</li>
+                        <li class="mb-0">Arbejder systematisk med udviklingsprocesser.</li>
+                    </ul>
                 </div>
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
-                    <p class="mb-1">• Arbejder med at styrke håb og mestring i hverdagen.</p>
-                    <p class="mb-1">• Udarbejder individuelle mål og handleplaner i samarbejde med beboeren.</p>
-                    <p class="mb-1">• Understøtter sociale relationer og netværk.</p>
-                    <p class="mb-0">• Synliggør udviklingsområder for at understøtte progression.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Arbejder med at styrke håb og mestring i hverdagen.</li>
+                        <li class="mb-1">Udarbejder individuelle mål og handleplaner i samarbejde med beboeren.</li>
+                        <li class="mb-1">Understøtter sociale relationer og netværk.</li>
+                        <li class="mb-0">Synliggør udviklingsområder for at understøtte progression.</li>
+                    </ul>
                 </div>
 
             </div>
@@ -335,23 +365,27 @@
                 <div class="mb-3">
                     <strong class="fw-bold fs-6 mb-3">I relation til kollegaer:</strong>
                     <p class="mb-3">Vi arbejder ud fra en åben og direkte kommunikation, hvor vi:</p>
-                    <p class="mb-1">• Er imødekommende, lydhøre og ærlige.</p>
-                    <p class="mb-1">• Er åbne overfor nye ideer og tiltag.</p>
-                    <p class="mb-1">• Kommunikerer direkte for at forebygge misforståelser.</p>
-                    <p class="mb-1">• Udtrykker holdninger og perspektiver tydeligt.</p>
-                    <p class="mb-1">• Giver og modtager konstruktiv feedback.</p>
-                    <p class="mb-1">• Søger faglig og kollegial sparring.</p>
-                    <p class="mb-0">• Arbejder ud fra kognitive kommunikationsprincipper.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Er imødekommende, lydhøre og ærlige.</li>
+                        <li class="mb-1">Er åbne overfor nye ideer og tiltag.</li>
+                        <li class="mb-1">Kommunikerer direkte for at forebygge misforståelser.</li>
+                        <li class="mb-1">Udtrykker holdninger og perspektiver tydeligt.</li>
+                        <li class="mb-1">Giver og modtager konstruktiv feedback.</li>
+                        <li class="mb-1">Søger faglig og kollegial sparring.</li>
+                        <li class="mb-0">Arbejder ud fra kognitive kommunikationsprincipper.</li>
+                    </ul>
                 </div>
 
                 <div>
                     <strong class="fw-bold fs-6 mb-3">I relation til beboere:</strong>
                     <p class="mb-3">Vi møder beboeren med åbenhed og uden fordomme og:</p>
-                    <p class="mb-1">• Udviser empati, nærvær og aktiv lytning.</p>
-                    <p class="mb-1">• Møder beboeren uden skjult dagsorden.</p>
-                    <p class="mb-1">• Signalere tilgængelighed og støtte.</p>
-                    <p class="mb-1">• Skaber tryghed gennem respekt og anerkendelse.</p>
-                    <p class="mb-0">• Handler autentisk og tydeligt i relationen.</p>
+                    <ul class="ps-3">
+                        <li class="mb-1">Udviser empati, nærvær og aktiv lytning.</li>
+                        <li class="mb-1">Møder beboeren uden skjult dagsorden.</li>
+                        <li class="mb-1">Signalere tilgængelighed og støtte.</li>
+                        <li class="mb-1">Skaber tryghed gennem respekt og anerkendelse.</li>
+                        <li class="mb-0">Handler autentisk og tydeligt i relationen.</li>
+                    </ul>
                 </div>
 
             </div>
