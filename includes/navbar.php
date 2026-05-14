@@ -102,11 +102,11 @@
                         <a href="/arbejdsmetoder-forside.php" class="inter fw-bold text-off-black font-fourteen">Arbejdsmetoder</a>
 
                         <ul class="list-unstyled ms-3">
-                            <li><a href="/arbejdsmetoder-forside.php#nav-terapi" class="inter text-off-black font-fourteen">Terapi</a></li>
-                            <li><a href="/arbejdsmetoder-forside.php#nav-kontaktperson" class="inter text-off-black font-fourteen">Kontaktperson</a></li>
-                            <li><a href="/arbejdsmetoder-forside.php#nav-maalsaetning" class="inter text-off-black font-fourteen">Målsætning</a></li>
-                            <li><a href="/arbejdsmetoder-forside.php#nav-miljeoterapi" class="inter text-off-black font-fourteen">Miljøterapi</a></li>
-                            <li><a href="/arbejdsmetoder-forside.php#nav-coaching" class="inter text-off-black font-fourteen">Coaching</a></li>
+                            <li><a href="/arbejdsmetoder-forside.php#terapi" class="inter text-off-black font-fourteen">Terapi</a></li>
+                            <li><a href="/arbejdsmetoder-forside.php#kontaktperson" class="inter text-off-black font-fourteen">Kontaktperson</a></li>
+                            <li><a href="/arbejdsmetoder-forside.php#maalsaetning" class="inter text-off-black font-fourteen">Målsætning</a></li>
+                            <li><a href="/arbejdsmetoder-forside.php#miljoterapi" class="inter text-off-black font-fourteen">Miljøterapi</a></li>
+                            <li><a href="/arbejdsmetoder-forside.php#coaching" class="inter text-off-black font-fourteen">Coaching</a></li>
                         </ul>
                     </li>
 
@@ -116,9 +116,9 @@
 
                         <ul class="list-unstyled ms-3">
                             <li><a href="/om-vedelsbo.php#nav-beskrivelse" class="inter text-off-black font-fourteen">Beskrivelse</a></li>
-                            <li><a href="/om-vedelsbo.php#nav-personale" class="inter text-off-black font-fourteen">Personale</a></li>
                             <li><a href="/om-vedelsbo.php#nav-hensynogregler" class="inter text-off-black font-fourteen">Hensyn og regler</a></li>
                             <li><a href="/om-vedelsbo.php#nav-kontakt" class="inter text-off-black font-fourteen">Kontakt</a></li>
+                            <li><a href="/vedelsbo-personale.php" class="inter text-off-black font-fourteen">Personale</a></li>
                         </ul>
                     </li>
                 </ul>

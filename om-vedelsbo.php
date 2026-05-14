@@ -67,7 +67,7 @@
 </div>
 
 <!--beskrivelse-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex justify-content-center align-items-center mt-3" id="nav-beskrivelse">
 
     <div class="row justify-content-center px-1">
 
@@ -181,7 +181,7 @@
 </div>
 
 <!--hensyn ig regler-->
-<div class="bg-light-brown pt-5 hensyn-og-regler-section">
+<div class="bg-light-brown pt-5 hensyn-og-regler-section" id="nav-hensynogregler">
     <div class="container bg-light-brown d-flex justify-content-center align-items-center my-3">
 
         <div class="row justify-content-center px-1">
@@ -319,7 +319,7 @@
 </div>
 
 <!--kontakt-->
-<div class="container d-flex justify-content-center align-items-center">
+<div class="container d-flex justify-content-center align-items-center" id="nav-kontakt">
 
     <div class="row justify-content-center px-1">
 
