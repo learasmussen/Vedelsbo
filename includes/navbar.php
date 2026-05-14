@@ -55,6 +55,11 @@
                 tabindex="-1"
                 id="mobileMenu">
 
+            <!--background logo-->
+            <div aria-hidden="true" class="d-flex justify-content-end">
+                <img src="/logo/404-logo.png" class="waves position-absolute end-0 bottom-0 mt-5 pt-3" style="width: 250px" alt="">
+            </div>
+
             <div class="offcanvas-header bg-off-white">
                 <button
                         type="button"

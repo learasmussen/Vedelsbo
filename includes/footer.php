@@ -17,8 +17,14 @@
 <body>
 
 <!-- footer til lille skærm -->
-<footer class="bg-dark-green d-block d-md-none pt-5 footer">
-    <div class="container ps-4">
+<footer class="bg-dark-green d-block d-md-none pt-5 footer position-relative">
+
+    <!--background logo-->
+    <div aria-hidden="true" class="d-flex justify-content-end">
+        <img src="/logo/404-logo.png" class="waves position-absolute end-0 bottom-0 mt-5 pt-3" style="width: 250px" alt="">
+    </div>
+
+    <div class="container ps-4 position-relative" >
         <div class="row ps-2">
             <div class="col py-2">
                 <a href="#" class="inter text-off-white font-fourteen">Forside</a>
@@ -51,7 +57,7 @@
         </div>
     </div>
 
-    <div class="container ps-4 pb-4">
+    <div class="container ps-4 pb-4 position-relative">
         <div class="row pt-4 ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
                 <i class="fa-solid fa-phone pe-2 fa-xs"></i>
@@ -82,14 +88,20 @@
         </div>
     </div>
 
-    <div class="container bg-sage-green text-center text-dark-green">
+    <div class="container bg-sage-green text-center text-dark-green position-relative">
         <p class="inter m-0 py-2 font-twelve">@ 2026 Vedelsbo. CVR: 37634557</p>
     </div>
 </footer>
 
 <!-- footer til mellem + stor skærm -->
-<footer class="bg-dark-green pt-0 d-none footer d-md-block" >
-    <div class="container text-center footer">
+<footer class="bg-dark-green pt-0 d-none footer d-md-block position-relative" >
+
+    <!--background logo-->
+    <div aria-hidden="true" class="d-flex justify-content-end">
+        <img src="/logo/404-logo.png" class="waves position-absolute end-0 bottom-0 mt-5 pt-3" style="width: 250px" alt="">
+    </div>
+
+    <div class="container text-center footer position-relative">
         <div class="row align-items-center">
 
             <div class="col ps-0">
@@ -162,7 +174,7 @@
         </div>
     </div>
 
-    <div class="container-fluid bg-sage-green text-center mt-4">
+    <div class="container-fluid bg-sage-green text-center mt-4 position-relative">
         <p class="inter m-0 py-2 text-dark-green">
             © 2026 Vedelsbo. CVR: 37634557
         </p>
