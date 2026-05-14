@@ -272,10 +272,10 @@ require "settings/init.php";
     </div>
 
     <div class="container d-flex justify-content-center align-items-center pt-2 pb-2">
-        <button type="button"
+        <a href="tak-for-bidrag.php" type="button"
                 class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
             Send
-            <i class="fa-solid fa-angle-right"></i></button>
+            <i class="fa-solid fa-angle-right"></i></a>
     </div>
 </div>
 
