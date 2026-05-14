@@ -132,7 +132,7 @@
         </div>
 
         <!--2017-->
-        <div class="col-6 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/40_tilsynsrapport-2017-socialpsykiatriske-botilbud-vedelsbo-aps-5.pdf"
                target="_blank"
                rel="noopener noreferrer"
@@ -143,7 +143,7 @@
         </div>
 
         <!--2016-->
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/15_vedelsbo-endelig-tilsynsrapport-okt-2016-1.pdf"
                target="_blank"
                rel="noopener noreferrer"
@@ -154,7 +154,7 @@
         </div>
 
         <!--2015-->
-        <div class="col-6 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/14_vedelsbo-endelig-tilsynsrapport-2015-re-godkendelse.pdf"
                target="_blank"
                rel="noopener noreferrer"
@@ -165,7 +165,7 @@
         </div>
 
         <!--2014-->
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/16_vedelsbo-tilsynsrapport-2014.pdf"
                target="_blank"
                rel="noopener noreferrer"
@@ -176,7 +176,7 @@
         </div>
 
         <!--2013-->
-        <div class="col-6 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/10_29-uanmeldt-tilsyn-2013-vedelsbo-ballerup-kommune.pdf"
                target="_blank"
                rel="noopener noreferrer"
@@ -187,7 +187,7 @@
         </div>
 
         <!--2012-->
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/11_30-tilsynsrapport-2012.pdf"
                target="_blank"
                rel="noopener noreferrer"
@@ -198,7 +198,7 @@
         </div>
 
         <!--2011-->
-        <div class="col-6 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/12_31-tilsynsrapport-2011.pdf"
                target="_blank"
                rel="noopener noreferrer"
@@ -209,7 +209,7 @@
         </div>
 
         <!--2010-->
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 d-flex justify-content-center mb-3 px-0">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/13_32-tilsynsrapport-2010.pdf"
                target="_blank"
                rel="noopener noreferrer"
