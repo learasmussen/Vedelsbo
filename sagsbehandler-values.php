@@ -69,7 +69,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#ansvarlighed"
@@ -128,7 +128,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#omsorg"
@@ -180,7 +180,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#respekt"
@@ -238,7 +238,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#rummelighed"
@@ -292,7 +292,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#udvikling"
@@ -343,7 +343,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#openness"

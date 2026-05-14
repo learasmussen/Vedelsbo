@@ -242,7 +242,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#individuel-suport"
@@ -278,7 +278,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#handleplan"
@@ -310,7 +310,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#samtaler"
@@ -345,7 +345,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#aktiviteter-deltagelse"
@@ -377,7 +377,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#struktur-hverdagsmestring"
@@ -512,7 +512,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#deltagelse-hverdagsaktiviteter"
@@ -548,7 +548,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#opgaver-struktur"
@@ -587,7 +587,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#aktiviteter-udearealer"
@@ -622,7 +622,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#forventning-deltagelse"
@@ -717,7 +717,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#dagligdagen-Vedelsbo"
@@ -756,7 +756,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#alkohol-rygepolitik"
@@ -791,7 +791,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#beboerdemokrati-indflydelse"

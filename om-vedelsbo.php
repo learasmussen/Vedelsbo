@@ -208,7 +208,7 @@
 
             <h2 class="accordion-header">
 
-                <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#dagligdagen"
@@ -243,7 +243,7 @@
 
             <h2 class="accordion-header">
 
-                <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#alkohol-rygning"
@@ -277,7 +277,7 @@
 
             <h2 class="accordion-header">
 
-                <button class="font-fourteen accordion-button collapsed bg-light-green inter fw-bold"
+                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#beboermoder"

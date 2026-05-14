@@ -69,7 +69,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold font-fourteen"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold font-twelve"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#naturholdet"
@@ -102,7 +102,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold font-fourteen"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold font-twelve"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#dyreholdet"
@@ -133,7 +133,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold font-fourteen"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold font-twelve"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#creativeSpace"
@@ -166,7 +166,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold font-fourteen"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold font-twelve"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#places"
@@ -197,7 +197,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold font-fourteen"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold font-twelve"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#udflugter"
@@ -231,7 +231,7 @@
 
         <h2 class="accordion-header">
 
-            <button class="accordion-button collapsed bg-light-green inter fw-bold font-fourteen"
+            <button class="accordion-button collapsed bg-light-green inter fw-bold font-twelve"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#training"
