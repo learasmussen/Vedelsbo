@@ -134,37 +134,37 @@
 
         <!--ansvarlighed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-heart.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-hand.png" class="mb-1" alt="shape" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">ANSVARLIGHED</strong>
         </div>
 
         <!--omsorg-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-people.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-heart.png" class="mb-1" alt="shape" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">OMSORG</strong>
         </div>
 
         <!--respekt-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-hand.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-people-standing.png" class="mb-1" alt="shape" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">RESPEKT</strong>
         </div>
 
         <!--rummelighed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-house.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-people.png" class="mb-1" alt="shape" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">RUMMELIGHED</strong>
         </div>
 
         <!--udvikling-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-people.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-seed.png" class="mb-1" alt="shape" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">UDVIKLING</strong>
         </div>
 
         <!--åbenhed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-hand.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-two-hands.png" class="mb-1" alt="shape" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">ÅBENHED</strong>
         </div>
 
