@@ -147,13 +147,13 @@ require "settings/init.php";
 
 <!--beige normal wave-->
 <div class="bg-sage-green" aria-hidden="true">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--shapes: aktviteter, om vedelsbo, arbejdsmetoder-->
-<div class="bg-sage-green">
+<!--shapes-->
+<div class="bg-sage-green shape-wrapper">
 
-    <!--aktviteter-->
+    <!--aktiviteter-->
     <div class="shape-box-5">
 
         <div class="shape-content">
@@ -176,7 +176,7 @@ require "settings/init.php";
     </div>
 
     <!--arbejdsmetoder-->
-    <div class="shape-box-7">
+    <div class="shape-box-7 mb-0">
 
         <div class="shape-content">
             <a href="arbejdsmetoder-forside.php"
@@ -185,15 +185,16 @@ require "settings/init.php";
             </a>
         </div>
     </div>
+
 </div>
 
 <!--green normal wave-->
-<div class="bg-background" aria-hidden="true">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+<div class="bg-background wave-minus-two-px" aria-hidden="true">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--citat + knap til "en boboers tanker"-->
-<div class="container d-flex justify-content-center align-items-center pt-5 en-beboers-tanker-borger-forside">
+<div class="container d-flex justify-content-center align-items-center pt-5 en-beboers-tanker-borger-forside mt-md-2">
 
     <div class="row justify-content-center text-center w-100 mt-3">
 
@@ -221,14 +222,14 @@ require "settings/init.php";
 
 <!--beige normal wave-->
 <div class="bg-light-brown" aria-hidden="true">
-    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--indsend spørgsmål sektion-->
-<div class="bg-light-brown">
+<div class="bg-light-brown ">
     <div class="container d-flex justify-content-center align-items-center">
 
-        <div class="row justify-content-center px-1">
+        <div class="row justify-content-center px-1 px-md-5 pb-md-3">
 
             <div class="col-12 col-lg-8">
 
@@ -246,8 +247,8 @@ require "settings/init.php";
         </div>
     </div>
 
-    <div class="px-4">
-        <div class="row">
+    <div class="px-4 px-md-5 mx-md-5 pb-md-3">
+        <div class="row ">
             <div class="col pb-2 pt-2">
                 <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Fornavn"
                        aria-label="Fornavn">
@@ -280,8 +281,8 @@ require "settings/init.php";
 </div>
 
 <!--bottom-wave-->
-<div class="bg-dark-green" aria-hidden="true">
-    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+<div class="bg-dark-green wave-minus-two-px" aria-hidden="true" style="margin-top: -2px">
+    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
 </div>
 
 <?php include 'includes/footer.php'; ?>

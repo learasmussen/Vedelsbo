@@ -115,7 +115,7 @@
 </footer>
 
 <!-- footer til mellem skærm -->
-<footer class="bg-dark-green pt-0 d-none footer d-md-block d-lg-none position-relative" >
+<footer class="bg-dark-green pt-5 mt-0 d-none footer wave-minus-two-px d-md-block d-lg-none position-relative" style="z-index: -100;">
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
@@ -214,7 +214,7 @@
 
 
 <!-- footer til stor skærm -->
-<footer class="bg-dark-green pt-0 d-none footer d-lg-block position-relative" >
+<footer class="bg-dark-green pt-0 d-none footer d-lg-block position-relative" style="z-index: -100">
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
