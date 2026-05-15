@@ -94,8 +94,8 @@ require "settings/init.php";
                 HVAD VI STÅR FOR
             </strong>
 
-            <p class="inter font-fourteen px-4">
-                en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
+            <p class="inter font-twelve px-4">
+                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
             </p>
 
         </div>
@@ -105,11 +105,11 @@ require "settings/init.php";
             <img src="shapes/dark-brown-shape-people.png" alt="light-green-shape" class="mb-3" style="width: 100px">
 
             <strong class="cormorant d-block mb-2 front-page-shape-header">
-                HVAD VI STÅR FOR
+                HVEM HJÆLPER VI
             </strong>
 
-            <p class="inter font-fourteen px-4">
-                en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
+            <p class="inter font-twelve px-4">
+                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i hverdagen.
             </p>
 
         </div>
@@ -119,11 +119,11 @@ require "settings/init.php";
             <img src="shapes/sage-green-shape-hand.png" alt="light-green-shape" class="mb-3" style="width: 100px">
 
             <strong class="cormorant d-block mb-2 front-page-shape-header">
-                HVAD VI STÅR FOR
+                HVORDAN ARBEJDER VI
             </strong>
 
-            <p class="inter font-fourteen px-4">
-                en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
+            <p class="inter font-twelve px-4">
+                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og udvikling.
             </p>
 
         </div>
@@ -133,11 +133,11 @@ require "settings/init.php";
             <img src="shapes/light-brown-shape-house.png" alt="light-green-shape" class="mb-3" style="width: 100px">
 
             <strong class="cormorant d-block mb-2 front-page-shape-header">
-                HVAD VI STÅR FOR
+                VORES ORGANISATION
             </strong>
 
-            <p class="inter font-fourteen px-4">
-                en masse tekst om alt muligt spændene tihi. en masse tekst om alt muligt spændene tihi.
+            <p class="inter font-twelve px-4">
+                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale.
             </p>
 
         </div>

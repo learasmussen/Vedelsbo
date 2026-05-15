@@ -69,9 +69,8 @@
                         AKTIVITETER
                     </strong>
 
-                    <p class="inter px-3 mb-0 font-fourteen">
-                        en masse tekst om alt muligt spændene tihi.
-                        en masse tekst om alt muligt spændene tihi.
+                    <p class="inter px-4 mx-2 mb-0 font-twelve">
+                        På Vedelsbo er aktiviteter en vigtig del af hverdagen. Læs om alle vores aktiviteter herunder.
                     </p>
 
                     <div class="mt-3">
@@ -96,9 +95,8 @@
                         FRITID
                     </strong>
 
-                    <p class="inter px-3 mb-0 font-fourteen">
-                        en masse tekst om alt muligt spændene tihi.
-                        en masse tekst om alt muligt spændene tihi.
+                    <p class="inter px-4 mx-2 mb-0 font-twelve">
+                        Vi støtter beboerne i at skabe en meningsfuld fritid med plads til både interesser, afslapning og sociale oplevelser.
                     </p>
 
                     <div class="mt-3">
@@ -123,9 +121,8 @@
                         ÅRETS GANG
                     </strong>
 
-                    <p class="inter px-3 mb-0 font-fourteen">
-                        en masse tekst om alt muligt spændene tihi.
-                        en masse tekst om alt muligt spændene tihi.
+                    <p class="inter px-4 mx-2 mb-0 font-twelve">
+                        Traditioner og fællesskab er en vigtig del af livet på Vedelsbo. Vi fejrer højtider og arrangerer aktiviteter året rundt sammen med beboerne.
                     </p>
 
                     <div class="mt-3">
@@ -150,9 +147,8 @@
                         MÅLTIDER
                     </strong>
 
-                    <p class="inter px-3 mb-0 font-fourteen">
-                        en masse tekst om alt muligt spændene tihi.
-                        en masse tekst om alt muligt spændene tihi.
+                    <p class="inter px-4 mx-2 mb-0 font-twelve">
+                        Måltiderne på Vedelsbo handler om både sund kost og hyggeligt samvær. Vi skaber trygge rammer omkring fællesskab og gode madoplevelser.
                     </p>
 
                     <div class="mt-3">
