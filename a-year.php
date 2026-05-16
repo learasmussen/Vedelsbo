@@ -149,7 +149,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="borger-aktiviteter.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Aktiviteter
             </a>
@@ -157,7 +157,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="borger-fritid.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Fritid
             </a>
@@ -165,7 +165,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="meals.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Måltider
             </a>
@@ -173,7 +173,7 @@
 
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="om-vedelsbo.php"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter read-to-button-text d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Om Vedelsbo
             </a>
