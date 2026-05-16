@@ -51,7 +51,7 @@
         <!--værider-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="#values"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Værdier
             </a>
@@ -60,7 +60,7 @@
         <!--Målgruppe-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="#maalgruppe"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Målgruppe
             </a>
@@ -69,7 +69,7 @@
         <!--Visitering-->
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
             <a href="#visitering"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Visitering
             </a>
@@ -78,7 +78,7 @@
         <!--Praktisk-->
         <div class="col-6 d-flex justify-content-center mb-3 pe-4">
             <a href="#praktisk"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Praktisk
             </a>
@@ -87,7 +87,7 @@
         <!--Tilsynsrapporter-->
         <div class="col-6 d-flex justify-content-center mb-4 pe-4">
             <a href="#tilsynsrapporter"
-               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-1 px-2 inter font-twelve d-inline-block text-decoration-none"
+               class="bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-twelve d-inline-block text-decoration-none"
                style="width: 125px">
                 Tilsynsrapporter
             </a>
