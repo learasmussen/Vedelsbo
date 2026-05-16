@@ -34,16 +34,16 @@
         </div>
         <div class="col-12">
             <div class="font-twelve inter px-5 pe-md-5 me-md-5 pb-3 text-center">
-                Tak for din besked. Vi svarer hurtigst muligt
+                Tak for din besked. Vi svarer tilbage så hurtigt vi kan!
             </div>
         </div>
 
         <!--Tilbage knap-->
         <div class="col-12 mb-3 d-flex justify-content-center">
             <a onclick="history.back()"
-               class="font-twelve fw-bold cormorant bg-dark-green text-center text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none"
+               class="font-twelve inter bg-dark-green text-center text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none"
                style="width: 125px">
-                TILBAGE
+                Tilbage
 
             </a>
         </div>
