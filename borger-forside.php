@@ -30,8 +30,8 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant">En hverdag med mening og muligheder</h1>
         </div>
         <div class="col-12">
-            <div class="inter header-text-inter-italic pe-4 pe-md-5 me-md-5">En eller anden menigsfuld, men kort,
-                sætning.
+            <div class="inter font-twelve pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg og
+                meningsfuld hverdag med fællesskab, aktiviteter, nærvær og plads til personlig udvikling.
             </div>
         </div>
 
@@ -69,7 +69,7 @@
                         AKTIVITETER
                     </strong>
 
-                    <p class="inter px-4 mx-2 mb-0 font-twelve">
+                    <p class="inter px-4 mx-2 mb-0 font-fourteen">
                         På Vedelsbo er aktiviteter en vigtig del af hverdagen. Læs om alle vores aktiviteter herunder.
                     </p>
 
@@ -95,8 +95,9 @@
                         FRITID
                     </strong>
 
-                    <p class="inter px-4 mx-2 mb-0 font-twelve">
-                        Vi støtter beboerne i at skabe en meningsfuld fritid med plads til både interesser, afslapning og sociale oplevelser.
+                    <p class="inter px-4 mx-2 mb-0 font-fourteen">
+                        Vi støtter beboerne i at skabe en meningsfuld fritid med plads til både interesser, afslapning
+                        og sociale oplevelser.
                     </p>
 
                     <div class="mt-3">
@@ -121,8 +122,9 @@
                         ÅRETS GANG
                     </strong>
 
-                    <p class="inter px-4 mx-2 mb-0 font-twelve">
-                        Traditioner og fællesskab er en vigtig del af livet på Vedelsbo. Vi fejrer højtider og arrangerer aktiviteter året rundt sammen med beboerne.
+                    <p class="inter px-4 mx-2 mb-0 font-fourteen">
+                        Traditioner og fællesskab er en vigtig del af livet på Vedelsbo. Vi fejrer højtider og
+                        arrangerer aktiviteter året rundt sammen med beboerne.
                     </p>
 
                     <div class="mt-3">
@@ -147,8 +149,9 @@
                         MÅLTIDER
                     </strong>
 
-                    <p class="inter px-4 mx-2 mb-0 font-twelve">
-                        Måltiderne på Vedelsbo handler om både sund kost og hyggeligt samvær. Vi skaber trygge rammer omkring fællesskab og gode madoplevelser.
+                    <p class="inter px-4 mx-2 mb-0 font-fourteen">
+                        Måltiderne på Vedelsbo handler om både sund kost og hyggeligt samvær. Vi skaber trygge rammer
+                        omkring fællesskab og gode madoplevelser.
                     </p>
 
                     <div class="mt-3">
