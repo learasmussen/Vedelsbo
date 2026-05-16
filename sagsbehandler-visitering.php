@@ -114,8 +114,9 @@
         </div>
 
         <div class="col-6 d-flex justify-content-center mb-3 ps-4">
-            <a href="sagsbehandler-values.php" class="font-twelve bg-light-green rounded-pill fw-bold border-0 py-2 px-2 inter"
-                    style="width: 125px">
+            <a href="sagsbehandler-values.php"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 125px">
                 Værdier
             </a>
         </div>
