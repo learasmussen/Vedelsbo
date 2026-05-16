@@ -41,9 +41,9 @@
         <!--Tilbage knap-->
         <div class="col-12 mb-3 d-flex justify-content-center">
             <a onclick="history.back()"
-               class="font-twelve fw-bold cormorant bg-dark-brown text-center text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none"
+               class="font-twelve inter bg-dark-brown text-center text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none"
                style="width: 125px">
-                TILBAGE
+                Tilbage
 
             </a>
         </div>
@@ -51,9 +51,9 @@
         <!--Til forsiden knap-->
         <div class="col-12 d-flex justify-content-center">
             <a href="index.php"
-               class="font-twelve fw-bold cormorant border border-dark-brown border-2 text-center text-off-black rounded-pill py-2 px-3 d-inline-block text-decoration-none"
+               class="font-twelve inter border border-dark-brown border-2 text-center text-off-black rounded-pill py-2 px-3 d-inline-block text-decoration-none"
                style="width: 125px">
-                TIL FORSIDEN
+                Til forsiden
 
             </a>
         </div>
