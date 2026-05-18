@@ -22,7 +22,6 @@ require "settings/init.php";
     <link rel="icon" href="logo/fav-icon.png" type="image/x-icon" media="(prefers-color-scheme: light)">
     <!-- Dark mode favicon -->
     <link rel="icon" href="logo/fav-icon-dark-mode.png" type="image/x-icon" media="(prefers-color-scheme: dark)">
-
     <script src="https://kit.fontawesome.com/4e7ccd0dde.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -66,7 +65,7 @@ require "settings/init.php";
 
         <div class="mt-3">
             <a href="om-vedelsbo.php"
-               class="font-twelve btn bg-dark-brown rounded-pill border-0 py-2 px-3">
+               class="font-twelve font-sixteen btn bg-dark-brown rounded-pill border-0 py-2 px-3">
                 Læs mere om Vedelsbo <i class="fa-solid fa-angle-right"></i>
             </a>
         </div>
@@ -89,18 +88,18 @@ require "settings/init.php";
 </div>
 
 <!--hvad står vi for sektion-->
-<div class="container mt-3 mt-md-5 d-flex justify-content-center align-items-center">
+<div class="container  mt-3 mt-md-5 d-flex justify-content-center align-items-center">
     <div class="row justify-content-center">
 
         <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
-            <img src="shapes/light-green-shape-heart.png" alt="light-green-shape" class="mb-3" style="width: 100px">
+            <img src="shapes/light-green-shape-heart.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
             <strong class="cormorant d-block mb-2 front-page-shape-header">
                 HVAD VI STÅR FOR
             </strong>
 
-            <p class="inter font-twelve px-4">
+            <p class="inter font-twelve px-4 mb-md-0 px-md-3">
                 På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
             </p>
 
@@ -108,13 +107,13 @@ require "settings/init.php";
 
         <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
-            <img src="shapes/dark-brown-shape-people.png" alt="light-green-shape" class="mb-3" style="width: 100px">
+            <img src="shapes/dark-brown-shape-people.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
             <strong class="cormorant d-block mb-2 front-page-shape-header">
                 HVEM HJÆLPER VI
             </strong>
 
-            <p class="inter font-twelve px-4">
+            <p class="inter font-twelve px-4 mb-md-0 px-md-3">
                 Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i hverdagen.
             </p>
 
@@ -122,13 +121,13 @@ require "settings/init.php";
 
         <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
-            <img src="shapes/sage-green-shape-hand.png" alt="light-green-shape" class="mb-3" style="width: 100px">
+            <img src="shapes/sage-green-shape-hand.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
             <strong class="cormorant d-block mb-2 front-page-shape-header">
                 HVORDAN ARBEJDER VI
             </strong>
 
-            <p class="inter font-twelve px-4">
+            <p class="inter font-twelve px-4 mb-md-0 px-md-3">
                 Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og udvikling.
             </p>
 
@@ -136,20 +135,22 @@ require "settings/init.php";
 
         <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
 
-            <img src="shapes/light-brown-shape-house.png" alt="light-green-shape" class="mb-3" style="width: 100px">
+            <img src="shapes/light-brown-shape-house.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
             <strong class="cormorant d-block mb-2 front-page-shape-header">
                 VORES ORGANISATION
             </strong>
 
-            <p class="inter font-twelve px-4">
-                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale.
+            <p class="inter font-twelve px-4 mb-md-0 px-md-3">
+                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med fokus på struktur og fælles trivsel i hverdagen.
             </p>
 
         </div>
 
     </div>
 </div>
+
+
 
 <!--beige normal wave-->
 <div class="bg-sage-green" aria-hidden="true">
@@ -164,7 +165,7 @@ require "settings/init.php";
 
         <div class="shape-content">
             <a href="borger-aktiviteter.php"
-               class="font-twelve btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
+               class="font-twelve font-sixteen btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
                 Aktiviteter <i class="fa-solid fa-angle-right"></i>
             </a>
         </div>
@@ -175,7 +176,7 @@ require "settings/init.php";
 
         <div class="shape-content">
             <a href="om-vedelsbo.php"
-               class="font-twelve btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
+               class="font-twelve font-sixteen btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
                 Om Vedelsbo <i class="fa-solid fa-angle-right"></i>
             </a>
         </div>
@@ -186,7 +187,7 @@ require "settings/init.php";
 
         <div class="shape-content">
             <a href="arbejdsmetoder-forside.php"
-               class="font-twelve btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
+               class="font-twelve font-sixteen btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
                 Arbejdsmetoder <i class="fa-solid fa-angle-right"></i>
             </a>
         </div>
@@ -217,7 +218,7 @@ require "settings/init.php";
 
             <div>
                 <a href="en-beboers-tanker.php"
-                   class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                   class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     En beboers tanker
                     <i class="fa-solid fa-angle-right"></i>
                 </a>
@@ -245,7 +246,7 @@ require "settings/init.php";
                     </strong>
                 </div>
 
-                <p class="font-twelve inter px-3 mb-0">
+                <p class="font-twelve font-sixteen inter px-3 mb-0">
                     Du er altid meget velkommen til at skrive os en mail eller ringe til os.
                 </p>
 
@@ -256,23 +257,23 @@ require "settings/init.php";
     <div class="px-4 px-md-5 mx-md-5 pb-md-3">
         <div class="row ">
             <div class="col pb-2 pt-2">
-                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Fornavn"
+                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Fornavn*"
                        aria-label="Fornavn">
             </div>
             <div class="col pb-2 pt-2">
-                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Efternavn"
+                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Efternavn*"
                        aria-label="Efternavn">
             </div>
         </div>
         <div class="row">
             <div class="col pb-2">
-                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="E-mail"
+                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="E-mail*"
                        aria-label="E-mail">
             </div>
         </div>
         <div class="row">
             <div class="col">
-                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Skriv din besked..."
+                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Skriv din besked...*"
                        aria-label="Skriv din besked her">
             </div>
         </div>
@@ -280,7 +281,7 @@ require "settings/init.php";
 
     <div class="container d-flex justify-content-center align-items-center pt-2 pb-2">
         <a href="tak-for-bidrag.php" type="button"
-                class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
             Send
             <i class="fa-solid fa-angle-right"></i></a>
     </div>

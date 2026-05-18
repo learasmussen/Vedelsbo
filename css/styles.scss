@@ -313,7 +313,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 
 	.shape-wrapper {
-		min-height: 650px;
+		min-height: 575px;
 		margin-top: -2px;
 	}
 
@@ -322,8 +322,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	.shape-box-7 {
 		position: absolute;
 		margin: 0;
-		width: 300px;
-		height: 300px;
+		width: 285px;
+		height: 285px;
 	}
 
 	/* aktiviteter */
@@ -342,6 +342,24 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	.shape-box-7 {
 		top: 320px;
 		left: 120px;
+	}
+
+
+
+	.en-beboers-tanker-borger-forside-text-italic{
+		font-size: 24px;
+	}
+
+	.en-beboers-tanker-borger-forside-text{
+		font-size: 16px;
+	}
+
+	.header-text-allura-underpage{
+		font-size: 45px;
+	}
+
+	.font-sixteen{
+		font-size: 16px;
 	}
 
 	.wave-minus-two-px{
