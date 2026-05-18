@@ -23,19 +23,55 @@
 <?php include 'includes/navbar.php'; ?>
 
 <!--top-wave-->
-<div aria-hidden="true">
+<div aria-hidden="true" class="d-md-none">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<!--top-info-->
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+<!--top-wave md-->
+<div aria-hidden="true" class="d-none d-md-block">
+    <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
 
-    <div class="row">
+<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--green normal wave-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+    <img src="waves-tablet/green-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--wave shape-->
+<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+    <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+</div>
+
+<!--top-info-->
+<div class="container-fluid d-md-none d-flex justify-content-center align-items-center bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+
+    <div class="row d-flex justify-content-center align-items-center">
         <div class="col-12 mt-5">
-            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Aktiviteter</h1>
+            <h1 class="cormorant  pt-3 fw-bold header-text-cormorant text-center">Aktiviteter</h1>
         </div>
         <div class="col-12">
-            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Som beboer på Vedelsbo forventes der
+            <div class="font-twelve inter  pe-md-5 me-md-5 text-center">Som beboer på Vedelsbo forventes der
+                at du deltager i hverdagens fælles opgaver i det omfang, du kan. Vi tilpasser sammen omfanget af din
+                deltagelse, til dit funktionsniveau og ud fra dine individuelle behov.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--top-info md-->
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
+
+    <div class="row d-md-flex justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant  fw-bold header-text-cormorant text-center">Aktiviteter</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center">Som beboer på Vedelsbo forventes der
                 at du deltager i hverdagens fælles opgaver i det omfang, du kan. Vi tilpasser sammen omfanget af din
                 deltagelse, til dit funktionsniveau og ud fra dine individuelle behov.
             </div>
@@ -50,14 +86,12 @@
 </div>
 
 <!--top image-->
-<div class="container-fluid p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid p-0 position-relative d-md-none" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
 <!--beige big wave-->
-<div aria-hidden="true" class="beige-big-wave-borger-forside">
+<div aria-hidden="true" class="beige-big-wave-borger-forside d-md-none">
     <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 

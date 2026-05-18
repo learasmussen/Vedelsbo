@@ -31,8 +31,13 @@ require "settings/init.php";
 <?php include 'includes/navbar.php'; ?>
 
 <!--top-wave-->
-<div aria-hidden="true">
+<div aria-hidden="true" class="d-md-none">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--top-wave md-->
+<div aria-hidden="true" class="d-none d-md-block">
+    <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--top-image-->
