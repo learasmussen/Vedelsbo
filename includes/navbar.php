@@ -21,19 +21,19 @@
         <!-- Venstre kolonne -->
         <div class="col d-flex justify-content-start align-items-center">
 
-            <a href="/index.php" class="d-inline-block">
+            <a href="/index.php" class="d-inline-block mt-md-2">
                 <img src="logo/logo.png"
                      alt="Logo"
                      class="logo"
-                     style="width: 25px; height: auto;">
+                     style="width: 40px; height: auto;">
             </a>
 
         </div>
 
         <!-- Midter kolonne -->
-        <div class="col text-center">
+        <div class="col text-center mt-md-2">
             <div class="center-text">
-                <img src="logo/logo_text.png" alt="Vedelsbo logo" style="width: 130px; height: auto;">
+                <img src="logo/logo_text.png" alt="Vedelsbo logo" style="width: 170px; height: auto;">
             </div>
         </div>
 
