@@ -9,7 +9,7 @@
     <meta name="copyright" content="Information om copyright">
     <meta name="robots" content="noindex, nofollow">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <link rel="icon" href="logo/fav-icon.jpg" type="image/png">
+    <link rel="icon" href="logo/fav-icon.png" type="image/png">
     <script src="https://kit.fontawesome.com/4e7ccd0dde.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
