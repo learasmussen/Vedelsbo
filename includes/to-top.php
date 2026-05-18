@@ -9,11 +9,6 @@
     <meta name="copyright" content="Information om copyright">
     <meta name="robots" content="noindex, nofollow">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <link rel="icon" href="logo/fav-icon.png" type="image/png">
-    <!-- Light mode favicon -->
-    <link rel="icon" href="logo/fav-icon.png" type="image/x-icon" media="(prefers-color-scheme: light)">
-    <!-- Dark mode favicon -->
-    <link rel="icon" href="logo/fav-icon-dark-mode.png" type="image/x-icon" media="(prefers-color-scheme: dark)">
     <script src="https://kit.fontawesome.com/4e7ccd0dde.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -27,7 +22,7 @@
     onclick="window.scrollTo({ top: 0, behavior: 'smooth' });"
     style="width: 35px; height: 35px; z-index: 9999;">
 
-    <i class="fa-solid fa-arrow-up"></i>
+    <i class="fa-solid fa-angle-up"></i>
 
 </button>
 
