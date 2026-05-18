@@ -362,6 +362,10 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		font-size: 16px;
 	}
 
+	.font-eightteen{
+		font-size: 18px;
+	}
+
 	.wave-minus-two-px{
 		margin-top: -2px;
 	}
@@ -371,6 +375,30 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		padding-top: 100px;
 	}
 
+	.borger-forside-header{
+		margin-top: -120px;
+		padding-top: 75px;
+	}
+
+	.header-image-borger{
+		margin-top: -200px;
+	}
+
+	.beige-big-wave-borger-forside{
+		margin-top: -225px;
+	}
+
+	.shape-box-1,
+	.shape-box-2,
+	.shape-box-3,
+	.shape-box-4{
+		height: 300px;
+		width: 300px;
+	}
+
+	.en-beboers-tanker-borger-forside{
+		margin-top: -100px;
+	}
 
 }
 

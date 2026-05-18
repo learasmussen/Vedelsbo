@@ -34,8 +34,8 @@
         <div class="col-12 mt-5">
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant">En hverdag med mening og muligheder</h1>
         </div>
-        <div class="col-12">
-            <div class="inter font-twelve pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg og
+        <div class="col-12 col-md-10 pt-md-3">
+            <div class="inter font-twelve font-eightteen pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg og
                 meningsfuld hverdag med fællesskab, aktiviteter, nærvær og plads til personlig udvikling.
             </div>
         </div>
@@ -44,7 +44,7 @@
 </div>
 
 <!--green wavy wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class="">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -56,8 +56,13 @@
 </div>
 
 <!--beige big wave-->
-<div aria-hidden="true" class="beige-big-wave-borger-forside">
+<div aria-hidden="true" class="beige-big-wave-borger-forside d-md-none">
     <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--beige big wave-->
+<div aria-hidden="true" class="beige-big-wave-borger-forside d-none d-md-block">
+    <img src="waves-tablet/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--shapes-->
@@ -178,13 +183,13 @@
 </div>
 
 <!--citat fra jette-->
-<div class="container d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
+<div class="container-fluid d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
 
     <div class="row justify-content-center text-center w-100 mt-3">
 
-        <div class="col-12 col-md-10 col-lg-8">
+        <div class="col-12 col-md-10 col-lg-8 pt-md-5">
 
-            <strong class="cormorant d-block mb-3 en-beboers-tanker-borger-forside-text-italic">
+            <strong class="cormorant d-block mb-3 pt-md-5 en-beboers-tanker-borger-forside-text-italic">
                 “Den omsorg vi får gør hverdagen lys, den nærhed vi mærker gør hjertet varmt, livet blir levende og det
                 gør forskellen.”
             </strong>
@@ -195,7 +200,7 @@
 
             <div>
                 <a href="en-beboers-tanker.php"
-                   class="font-twelve inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                   class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     En beboers tanker
                     <i class="fa-solid fa-angle-right"></i>
                 </a>

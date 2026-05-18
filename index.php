@@ -207,7 +207,7 @@ require "settings/init.php";
 
         <div class="col-12 col-md-10 col-lg-8">
 
-            <strong class="cormorant d-block mb-3 en-beboers-tanker-borger-forside-text-italic">
+            <strong class="cormorant d-block mb-3 pt-3 en-beboers-tanker-borger-forside-text-italic">
                 “Den omsorg vi får gør hverdagen lys, den nærhed vi mærker gør hjertet varmt, livet blir levende og det
                 gør forskellen.”
             </strong>
