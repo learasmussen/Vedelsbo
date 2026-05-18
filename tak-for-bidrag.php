@@ -23,7 +23,7 @@
 
 <!--background logo-->
 <div aria-hidden="true" class=" mt-5 pt-5">
-    <img src="logo/tak-for-bidrag-logo.png" class="waves position-absolute start-0 mt-5 pt-5 opacity-75" style="width: 225px" alt="">
+    <img src="logo/tak-for-bidrag-logo.png" class="waves fixed-bottom position-absolute start-0 pb-5 mb-5 ps-2 opacity-75" style="width: 225px; z-index: -100" alt="">
 </div>
 
 <!--Text + buttons-->
