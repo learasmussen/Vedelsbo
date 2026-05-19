@@ -279,9 +279,6 @@
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-
-
-
 <!--dagaktiviteter - TABLET-->
 <div class="container d-none d-md-block d-flex justify-content-center align-items-center mt-3">
 
@@ -321,12 +318,12 @@
          class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
-<!--beige normal wave upside down-->
+<!--beige normal wave upside down - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block beige-normal-wave-upside-down-underpage">
     <img src="waves-tablet/beige-big-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--aften aktiviteter-->
+<!--aften aktiviteter - TABLET-->
 <div class="container d-none d-md-flex  justify-content-center align-items-center">
 
     <div class="row justify-content-center px-1">
@@ -350,24 +347,24 @@
     </div>
 </div>
 
-<!--beige normal wave-->
+<!--beige normal wave - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--image-->
+<!--image - TABLET-->
 <div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
     <img src="images/header-image-tablet.jpg" alt="header-image"
          class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
-<!--beige normal wave upside down-->
+<!--beige normal wave upside down - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block beige-normal-wave-upside-down-underpage">
     <img src="waves-tablet/beige-big-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--rejser-->
+<!--rejser - TABLET-->
 <div class="container d-none d-md-flex justify-content-center align-items-center">
 
     <div class="row justify-content-center px-1">
@@ -393,13 +390,10 @@
     </div>
 </div>
 
-<!--beige normal wave-->
+<!--beige normal wave - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
-
-
-
 
 <!--read too section - TABLET-->
 <div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
