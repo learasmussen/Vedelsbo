@@ -28,7 +28,7 @@
 </div>
 
 <!--top-wave md-->
-<div aria-hidden="true" class="d-none ">
+<div aria-hidden="true" class="d-none">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
@@ -80,7 +80,7 @@
     <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
-<!--tilsynsrapporterne-->
+<!--tilsynsrapporterne (mobil & tablet)-->
 <div class="container d-flex justify-content-center align-items-center bg-background read-to-section mt-3 mt-md-0">
 
     <div class="row justify-content-center text-center">
@@ -342,8 +342,6 @@
 </div>
 
 <?php include 'includes/footer.php'; ?>
-
-
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
