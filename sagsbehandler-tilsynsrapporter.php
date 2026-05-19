@@ -301,34 +301,34 @@
         </div>
 
         <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
-            <a href="borger-fritid.php"
-               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+            <a href="sagsbehandler-values.php"
+               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 275px">
-                Fritid
+                Værdier
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
-            <a href="a-year.php"
-               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+            <a href="sagsbehandler-maalgruppe.php"
+               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 275px">
-                Årets gang
+                Målgruppe
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
-            <a href="meals.php"
-               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+            <a href="sagsbehandler-visitering.php"
+               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 275px">
-                Måltider
+                Visitering
             </a>
         </div>
 
         <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
-            <a href="om-vedelsbo.php"
-               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+            <a href="sagsbehandler-praktiske-oplysninger.php"
+               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 275px">
-                Om Vedelsbo
+                Praktisk
             </a>
         </div>
 
