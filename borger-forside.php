@@ -183,16 +183,21 @@
 </div>
 
 <!--beige normal wave-->
-<div aria-hidden="true">
+<div aria-hidden="true" class="d-md-none bg-sage-green">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--beige normal wave-->
+<div aria-hidden="true" class="d-none d-md-block bg-sage-green">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
 <!--citat fra jette-->
-<div class="container-fluid d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
+<div class="container-fluid mt-0 d-flex justify-content-center align-items-center bg-sage-green  ">
 
     <div class="row justify-content-center text-center w-100 mt-3">
 
-        <div class="col-12 col-md-10 col-lg-8 pt-md-5">
+        <div class="col-12 col-md-10 col-lg-8">
 
             <strong class="cormorant d-block mb-3 pt-md-5 en-beboers-tanker-borger-forside-text-italic">
                 “Den omsorg vi får gør hverdagen lys, den nærhed vi mærker gør hjertet varmt, livet blir levende og det
@@ -218,8 +223,13 @@
 </div>
 
 <!--bottom-wave-->
-<div class="bg-dark-green" aria-hidden="true">
+<div class="bg-dark-green d-md-none" aria-hidden="true">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--bottom-wave-->
+<div class="bg-dark-green d-none d-md-block" aria-hidden="true">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <?php include 'includes/footer.php'; ?>

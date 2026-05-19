@@ -611,14 +611,14 @@
 </div>
 
 <!--beige normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--read too section - TABLET-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown">
 
-    <div class="row justify-content-center text-center mt-5">
+    <div class="row justify-content-center text-center">
 
         <div class="col-12 mb-4 mt-3">
             <strong class="cormorant d-block read-to-header">

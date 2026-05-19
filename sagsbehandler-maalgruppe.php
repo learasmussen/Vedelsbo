@@ -22,14 +22,14 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--SMALL SCREEN, HEADER INFO-->
 <!--top wave-->
 <div aria-hidden="true">
-    <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
+    <img src="waves-phone/navwave.png" class="waves position-relative w-100 d-md-none" alt="">
 </div>
 
 <!--top info-->
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
-
+<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header d-md-none">
     <div class="row">
         <div class="col-12 mt-5">
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Målgruppe</h1>
@@ -46,30 +46,78 @@
 </div>
 
 <!--green normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--top image-->
-<div class="container-fluid p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
     <img src="images/header-image-tablet.jpg" alt="header-image"
          class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
 <!--beige big wave-->
-<div aria-hidden="true" class="beige-big-wave-borger-forside">
+<div aria-hidden="true" class="beige-big-wave-borger-forside d-md-none">
     <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
-<div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
+<div aria-hidden="true" class="text-end d-md-none decoration-frontpage d-md-none" style="margin-top: -120px">
     <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 140px">
 </div>
 
+<!--MEDIUM SCREEN, HEADER INFO-->
+<!--top-wave-->
+<div aria-hidden="true" class="d-none d-md-block">
+    <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100 d-none d-md-block" alt="">
+</div>
+
+<!--image header-->
+<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers.JPG" alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--green big wave-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+    <img src="waves-tablet/green-big-wave.png" class="waves img-fluid p-0 m-0" alt="">
+</div>
+
+<!--wave shape-->
+<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+    <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 180px">
+</div>
+
+<!--top-info-->
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green borger-forside-header pt-md-0"
+     style="margin-top: 110px">
+
+    <div class="row d-md-flex justify-content-center align-items-center">
+        <div class="col-12">
+            <h1 class="cormorant fw-bold header-text-cormorant text-center">Målgruppe</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-sixteen inter text-center">
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en
+                sindslidelse eller for nylig er blevet diagnosticeret. Fælles for målgruppen er en tilknytning til det
+                psykiatriske system.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--green normal wave-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
+<!--SMALL SCREEN, content-->
 <!--kriterier-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-md-none">
 
     <div class="row justify-content-center px-1">
 
@@ -129,12 +177,80 @@
 </div>
 
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--Medium SCREEN, content-->
+<!--kriterier-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-md-block d-none">
+
+    <div class="row justify-content-center px-1">
+
+        <div class="col-12">
+
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Kriterier
+                </strong>
+            </div>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en
+                sindslidelse eller for nylig er blevet diagnosticeret.
+            </p>
+            <p class="font-sixteen inter px-3 mb-3">
+                Fælles for målgruppen er en tilknytning til det psykiatriske system.
+            </p>
+
+            <div class="d-flex align-items-center px-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Man kan ikke bo på Vedelsbo, hvis man opretholder et aktivt misbrug af alkohol, hash eller andre
+                    euforiserende stoffer, dvs. man kan bo på Vedelsbo og få hjælp, hvis man vil arbejde aktivt på at
+                    komme ud af sit misbrug.
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center px-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udad reagerende adfærd.
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center px-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Borgeren skal vurderes til at kunne indgå i resten af beboergruppen på Vedelsbo.
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center px-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Det er nødvendigt at være fysisk mobil, da der kun i begrænset omfang kan anvendes hjælpemidler som
+                    kørestol eller rollator.
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!--beige normal wave-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-block d-none">
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
+<!--SMALL SCREEN, read too & wave-->
 <!--read too section-->
-<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section d-md-none">
 
     <div class="row justify-content-center text-center">
 
@@ -172,6 +288,55 @@
             <a href="sagsbehandler-tilsynsrapporter.php"
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
+                Tilsyn
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
+
+<!--MEDIUM SCREEN, read too-->
+<!--read too section tablet-->
+<div class="container-fluid d-none d-md-block d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+
+    <div class="row justify-content-center text-center mt-5">
+
+        <div class="col-12 mb-4 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="sagsbehandler-values.php"
+               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Værdier
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="sagsbehandler-praktiske-oplysninger.php"
+               class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Praktisk
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="sagsbehandler-visitering.php"
+               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Visitering
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="sagsbehandler-tilsynsrapporter.php"
+               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
                 Tilsyn
             </a>
         </div>
