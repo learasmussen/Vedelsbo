@@ -28,14 +28,14 @@
 </div>
 
 <!--top info-->
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+<div class="container-fluid bg-sage-green borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
-            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Visitering</h1>
+            <h1 class="cormorant pt-3 fw-bold header-text-cormorant text-center">Visitering</h1>
         </div>
         <div class="col-12">
-            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Kommune og Vedelsbo samarbejder om eventuel
+            <div class="font-twelve inter text-center">Kommune og Vedelsbo samarbejder om eventuel
                 indflytning af ny beboer.
             </div>
         </div>
@@ -48,26 +48,14 @@
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--top image-->
-<div class="container-fluid p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger d-none d-md-block">
-</div>
-
-<!--beige big wave-->
-<div aria-hidden="true" class="beige-big-wave-borger-forside">
-    <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
 <!--wave shape-->
-<div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
+<div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -50px">
     <img src="header-shapes/dark-brown-email.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 140px">
 </div>
 
 <!--info om visitering-->
-<div class="container d-flex justify-content-center align-items-center mt-5">
+<div class="container d-flex justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
 
