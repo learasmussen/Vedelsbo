@@ -22,13 +22,14 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--header mobil-->
 <!--top wave-->
 <div aria-hidden="true">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--top info-->
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+<div class="container-fluid d-flex bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
@@ -53,6 +54,39 @@
     <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 140px">
 </div>
+
+<!--Header tablet-->
+<!--top wave md-->
+<div aria-hidden="true" class="d-none">
+    <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--top info md -->
+<div class="container-fluid d-none d-flex bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+
+    <div class="row">
+        <div class="col-12 mt-5">
+            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Praktiske oplysninger</h1>
+        </div>
+        <div class="col-12">
+            <div class="font-sixteen inter pe-4 pe-md-5 me-md-5 text-center">Her kan du læse om vores samarbejdspartnere
+                og om vores økonomi.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--green normal wave-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none">
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--wave shape - TABLET-->
+<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -140px">
+    <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+</div>
+
 
 <!--samarbejdspartnere-->
 <div class="container d-flex justify-content-center align-items-center mt-3">
