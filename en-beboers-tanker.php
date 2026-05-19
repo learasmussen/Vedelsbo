@@ -22,13 +22,15 @@
 
 <?php include 'includes/navbar.php'; ?>
 
+<!--LILLE SKÆRM (TELEFON)-->
+
 <!--top-wave-->
-<div aria-hidden="true">
+<div aria-hidden="true" class="d-md-none">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--top-info-->
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+<div class="container-fluid d-md-none bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
@@ -43,29 +45,27 @@
 </div>
 
 <!--green wavy wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class="d-md-none green-wavywave-frontpage">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--top-image-->
-<div class="container-fluid p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger d-none d-md-block">
+<div class="container-fluid p-0 d-md-none position-relative" style="z-index: -1000">
+    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger ">
 </div>
 
 <!--beige big wave-->
-<div aria-hidden="true" class="beige-big-wave-borger-forside">
+<div aria-hidden="true" class="d-md-none beige-big-wave-borger-forside">
     <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
-<div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -120px">
+<div aria-hidden="true" class="d-md-none text-end decoration-frontpage" style="margin-top: -120px">
     <img src="header-shapes/green-message.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 140px">
 </div>
 
 <!--første del af "digtet"-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex d-md-none justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
 
@@ -133,12 +133,12 @@
 </div>
 
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class="d-md-none green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--citat-->
-<div class="container d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
+<div class="container d-flex d-md-none justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
 
     <div class="row justify-content-center text-center w-100 mt-3">
 
@@ -149,6 +149,10 @@
                 gør forskellen.”
             </strong>
 
+            <p class="inter d-block mb-3 mt-3 font-twelve">
+                - Jette Bernt Rasmussen
+            </p>
+
 
         </div>
 
@@ -157,12 +161,12 @@
 </div>
 
 <!--green normal wave-->
-<div aria-hidden="true">
+<div aria-hidden="true" class="d-md-none">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--sidste del af "digtet"-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex d-md-none justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
 
@@ -196,12 +200,12 @@
 </div>
 
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class="d-md-none green-wavywave-frontpage">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--read too section-->
-<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<div class="container d-md-none d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center">
 
@@ -248,9 +252,226 @@
 </div>
 
 <!--bottom-wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
+<div aria-hidden="true" class="d-md-none green-wavywave-frontpage bg-dark-green">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
+
+
+
+<!--MELLEM SKÆRM (TABLET)-->
+
+<!--top-wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block">
+    <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header - TABLET-->
+<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--green big wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+    <img src="waves-tablet/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--wave shape - TABLET-->
+<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+    <img src="header-shapes/green-message.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+</div>
+
+<!--første del af "digtet" - TABLET-->
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-background ps-4 pt-md-0 ps-md-0 pb-md-2" style="margin-top: 110px" >
+
+    <div class="row justify-content-center px-1">
+
+        <div class="col-12 px-5">
+
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 px-5">
+                    En tanke, en følelse, et liv!
+                </strong>
+            </div>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                En dags væren i smukke omgivelser
+                med solskinstimer uden regn og blæst på Casa Vedelsbo, er nu ved at være til ende.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Udenfor høres fasanernes klukkende sang. Over græsplænen anes halvfede unger i mangeartede fjerdragter.
+                Fasan og påfuglefjer er de mangeartede kåber.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Rådyrenes karamelbrune pels er en pryd for øjet mens de græsser og spiser nedfalden frugt.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Lyde fra fugle i træk, sammen med faste taktslag fra ørnens vingesus gør sommer og efterår i et.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Solsorten gemmer sig i tusmørket for natten, i træers kulhed, mens flagermusenes susen gennem luften til
+                laden og loen er natklædte skygger.​
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Et kæmpe pæretræ fylder deres bolig og i sultne munde fylder frugt larver og insekter.
+                Egerne både sorte og røde iler over græsplænen til graners top.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Æbletræer, blommetræer, pæretræer, brombær – og hindbærbuskene bugner af dejlighed for lækkersultne
+                munde.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                En dråbe rød saft glider fra mundvigen ned til hagen fra den fuldmodne blomme.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                På engen græsser køerne i biers summen og brumbassers gule bukser fra kløverblomsterne gør dagen ekstra
+                dejlig.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Myggenes dans over himlen i svingende tango med stankelben, er et syn for guder, i måneskin.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-0">
+                Snart sænker roen sig over casa Vedelsbo og blot katten ligger vågen ved husets fod.
+                En brummende lyd runger ad nedløbsrøret, et ekko med genlyd fra snorkende rum, bebuder den harmoni der
+                hersker på Vedelsbo​​.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!--beige normal wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--citat - TABLET-->
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside">
+
+    <div class="row justify-content-center text-center w-100 mt-3 pt-5">
+
+        <div class="col-12 col-md-10 col-lg-8">
+
+            <strong class="cormorant d-block mb-3 mt-3 en-beboers-tanker-borger-forside-text-italic">
+                “Den omsorg vi får gør hverdagen lys, den nærhed vi mærker gør hjertet varmt, livet blir levende og det
+                gør forskellen.”
+            </strong>
+
+            <p class="inter d-block mb-3 mt-3 font-sixteen">
+                - Jette Bernt Rasmussen
+            </p>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!--green normal wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--sidste del af "digtet" - TABLET-->
+<div class="container d-none d-md-flex justify-content-center align-items-center mt-3">
+
+    <div class="row justify-content-center px-1 pt-5">
+
+        <div class="col-12">
+
+            <p class="font-sixteen inter px-3 mb-3">
+                At opleve en menneskevarme og nogle der virkelig brænder for deres arbejde, betyder at vi får en bedre
+                hverdag, med overkommelige gøremål, der sætter os i gang og holder vores sindslidelse ”stangen”.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Det er så vigtigt at være en del af et arbejdsfællesskab for så føler vi at vi kan bruges i det samfund,
+                der nu engang har gjort os svært ellers at deltage i.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-3">
+                Med en ro og harmoni på netop dette sted med omkringliggende kæmpe have og en lille urtehave, med
+                overdækket terrasse og et stort køkken med hjemmelavet mad, og en god stor opholdsstue med akvarium og
+                to undulater, begge dele hyggeligt sammen med en dejlig hund der ofte er på besøg, højner vores hverdag.
+                Dyr betyder meget for os.
+            </p>
+
+            <p class="font-sixteen inter px-3 mb-0">
+                Det er meget svært som sindslidende at være så meget anderledes at man bliver betragtet som udenfor
+                samfundet vi lever i.
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+<!--beige normal wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--read too section - TABLET-->
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+
+    <div class="row justify-content-center text-center mt-5">
+
+        <div class="col-12 mb-4 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="borger-fritid.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Fritid
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="a-year.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Årets gang
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="meals.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Måltider
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="om-vedelsbo.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Om Vedelsbo
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
+<!--bottom-wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage bg-dark-green">
+    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
 
 <?php include 'includes/footer.php'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
