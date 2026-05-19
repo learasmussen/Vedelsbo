@@ -156,9 +156,13 @@ require "settings/init.php";
 </div>
 
 
+<!--beige normal wave-->
+<div class="bg-sage-green d-md-none" aria-hidden="true">
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
 
 <!--beige normal wave-->
-<div class="bg-sage-green" aria-hidden="true">
+<div class="bg-sage-green d-none d-md-block" aria-hidden="true">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -188,7 +192,7 @@ require "settings/init.php";
     </div>
 
     <!--arbejdsmetoder-->
-    <div class="shape-box-7 mb-0">
+    <div class="shape-box-7 mb-0 ">
 
         <div class="shape-content">
             <a href="arbejdsmetoder-forside.php"
@@ -201,7 +205,12 @@ require "settings/init.php";
 </div>
 
 <!--green normal wave-->
-<div class="bg-background wave-minus-two-px" aria-hidden="true">
+<div class="bg-background d-md-none wave-minus-two-px" aria-hidden="true">
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--green normal wave-->
+<div class="bg-background d-none d-md-block" aria-hidden="true">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -233,7 +242,12 @@ require "settings/init.php";
 </div>
 
 <!--beige normal wave-->
-<div class="bg-light-brown" aria-hidden="true">
+<div class="bg-light-brown d-md-none" aria-hidden="true">
+    <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--beige normal wave-->
+<div class="bg-light-brown d-none d-md-block" aria-hidden="true">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -293,7 +307,12 @@ require "settings/init.php";
 </div>
 
 <!--bottom-wave-->
-<div class="bg-dark-green wave-minus-two-px" aria-hidden="true" style="margin-top: -2px">
+<div class="bg-dark-green d-md-none wave-minus-two-px" aria-hidden="true" style="margin-top: -2px">
+    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
+</div>
+
+<!--bottom-wave-->
+<div class="bg-dark-green d-none d-md-block" aria-hidden="true" style="margin-top: -2px">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
 </div>
 
