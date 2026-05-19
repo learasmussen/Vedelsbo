@@ -49,9 +49,9 @@
 </div>
 
 <!--top-info md-->
-<div class="container-fluid  d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-9 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: -120px z-index: 2">
+<div class="container-fluid  d-sm-none d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-9 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: -120px z-index: 2">
 
-    <div class="row d-md-flex justify-content-center align-items-center mt-5"">
+    <div class="row d-md-flex justify-content-center align-items-center mt-5">
         <div class="col-10 mt-0">
             <h1 class="cormorant fw-bold header-text-cormorant text-center">Tilsynsrapporter</h1>
         </div>
@@ -62,190 +62,180 @@
         </div>
 
     </div>
+</div>
 
 <!--green normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
 <div aria-hidden="true" class="text-end d-md-none decoration-frontpage" style="margin-top: -50px">
-    <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+    <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image pe-4 m-0" alt=""
          style="width: 140px">
 </div>
 
+<!--wave shape - TABLET-->
+<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -140px">
+    <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+</div>
+
 <!--tilsynsrapporterne-->
-<div class="container d-flex justify-content-center align-items-center bg-background read-to-section mt-3">
+<div class="container d-flex justify-content-center align-items-center bg-background read-to-section mt-3 mt-md-0">
 
     <div class="row justify-content-center text-center">
 
         <!--2025-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/79_tilsynsrapport-endelig-version-website.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3 inter d-inline-block text-decoration-none">
                 2025
             </a>
         </div>
 
         <!--2024-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/78_driftsorienteret-tilsyn-2024-website.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3 inter d-inline-block text-decoration-none">
                 2024
             </a>
         </div>
 
         <!--2023-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/78_driftsorienteret-tilsyn-2024-website.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2023
             </a>
         </div>
 
         <!--2022-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/72_endelig-tilsynsrapport-vedelsbo.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3 inter d-inline-block text-decoration-none">
                 2022
             </a>
         </div>
 
         <!--2021-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/71_endelig-tilsynsrapport-delrapport-vedelsbo.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2021
             </a>
         </div>
 
         <!--2020-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/67_endeligtilsynsrapportvedelsbo-2020.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2020
             </a>
         </div>
 
         <!--2019-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/39_endelig-tilsynsrapport-vedelsbo-novmeber-2019.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2019
             </a>
         </div>
 
         <!--2017-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/40_tilsynsrapport-2017-socialpsykiatriske-botilbud-vedelsbo-aps-5.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2017
             </a>
         </div>
 
         <!--2016-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/15_vedelsbo-endelig-tilsynsrapport-okt-2016-1.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2016
             </a>
         </div>
 
         <!--2015-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/14_vedelsbo-endelig-tilsynsrapport-2015-re-godkendelse.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2015
             </a>
         </div>
 
         <!--2014-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/16_vedelsbo-tilsynsrapport-2014.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2014
             </a>
         </div>
 
         <!--2013-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/10_29-uanmeldt-tilsyn-2013-vedelsbo-ballerup-kommune.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2013
             </a>
         </div>
 
         <!--2012-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 ps-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/11_30-tilsynsrapport-2012.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2012
             </a>
         </div>
 
         <!--2011-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 pe-4">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/12_31-tilsynsrapport-2011.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
                 2011
             </a>
         </div>
 
         <!--2010-->
-        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 px-0">
+        <div class="col-6 col-md-4 d-flex justify-content-center mb-3 px-0 g-3">
             <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/13_32-tilsynsrapport-2010.pdf"
                target="_blank"
                rel="noopener noreferrer"
-               class="tilsyn-button font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 125px">
+               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3 inter d-inline-block text-decoration-none">
                 2010
             </a>
         </div>
 
     </div>
-
 </div>
 
 <!--beige normal wave-->

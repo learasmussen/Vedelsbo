@@ -268,6 +268,10 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	margin-top: -40px;
 }
 
+.tilsyn-button{
+	width: 125px;
+}
+
 @media only screen and (min-width: 768px){
 	.header-image-frontpage{
 		margin-top: -115px;
@@ -343,8 +347,10 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		top: 320px;
 		left: 120px;
 	}
-
-
+	/* Tilsyns knapper */
+	.tilsyn-button{
+		width: 200px;
+	}
 
 	.en-beboers-tanker-borger-forside-text-italic{
 		font-size: 24px;
