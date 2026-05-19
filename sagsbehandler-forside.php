@@ -446,7 +446,7 @@
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<!--top-info-->
+<!--top-info - TABLET-->
 <div class="container-fluid d-none d-md-block bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
@@ -462,12 +462,12 @@
     </div>
 </div>
 
-<!--green wavy wave-->
-<div aria-hidden="true" class="">
+<!--green wavy wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--top buttons-->
+<!--top buttons - TABLET-->
 <div class="container-fluid d-none bg-light-brown d-md-flex justify-content-center align-items-center social-psykiatrisk-botilbud-section">
 
     <div class="row justify-content-center text-center py-5 px-5 g-2 mt-3">
@@ -521,7 +521,7 @@
 
 </div>
 
-<!--beige big wave-->
+<!--beige big wave - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block beige-big-wave-borger-forside">
     <img src="waves-tablet/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
@@ -531,7 +531,7 @@
     <img src="header-shapes/dark-brown-logo.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
-<!--values header-->
+<!--values header - TABLET-->
 <div class="container d-none d-md-flex justify-content-center align-items-center mt-5" id="values">
 
     <div class="row justify-content-center px-1">
@@ -550,7 +550,7 @@
 
 </div>
 
-<!--values body-->
+<!--values body - TABLET-->
 <div class="container d-none d-md-flex justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-5 mx-4">
@@ -604,20 +604,20 @@
 
 </div>
 
-<!--beige normal wave-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<!--beige normal wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--målgruppe-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside" id="maalgruppe">
+<!--målgruppe - TABLET-->
+<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown " id="maalgruppe">
 
-    <div class="row justify-content-center w-100 mt-3 pt-5">
+    <div class="row justify-content-center w-100 pt-5">
 
         <div class="col-12 col-md-10 col-lg-8 mb-5 px-3">
 
             <div class="text-center mb-3">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-0 pt-3  px-5">
+                <strong class="allura d-block header-text-allura-underpage fw-normal  px-5">
                     Målgruppe
                 </strong>
             </div>
@@ -678,15 +678,15 @@
 
 </div>
 
-<!--light brown normal wave-->
-<div aria-hidden="true" class="d-none d-md-block">
+<!--light brown normal wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block bg-sage-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--visitering-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside" id="visitering">
+<!--visitering - TABLET-->
+<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green en-beboers-tanker-borger-forside" id="visitering">
 
-    <div class="row justify-content-center w-100 mt-5 py-5">
+    <div class="row justify-content-center w-100 py-5">
 
         <div class="col-10 ">
 
@@ -717,13 +717,12 @@
 
 </div>
 
-<!--green normal wave-->
+<!--green normal wave - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block bg-light-brown">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
-
-<!--praktiske oplysninger-->
+<!--praktiske oplysninger - TABLET-->
 <div class="container-fluid mt-0 d-md-flex d-none justify-content-center align-items-center bg-light-brown" id="praktisk">
 
     <div class="row justify-content-center w-100 pt-5">
@@ -759,12 +758,12 @@
 
 </div>
 
-<!--light brown normal wave-->
+<!--light brown normal wave - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block bg-sage-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--tilsynsrapporter-->
+<!--tilsynsrapporter - TABLET-->
 <div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green pt-5" id="tilsynsrapporter">
 
     <div class="row justify-content-center w-100 mt-3">
@@ -796,9 +795,61 @@
 
 </div>
 
-<!--green normal wave-->
-<div aria-hidden="true" class="d-none d-md-block bg-dark-green">
+<!--green normal wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--read too section - TABLET-->
+<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown">
+
+    <div class="row justify-content-center text-center">
+
+        <div class="col-12 mb-4 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="borger-fritid.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Fritid
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="a-year.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Årets gang
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="meals.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Måltider
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="om-vedelsbo.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Om Vedelsbo
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
+<!--bottom-wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage bg-dark-green">
+    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
