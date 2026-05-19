@@ -474,7 +474,7 @@
 
         <!--værider-->
         <div class="col-4 d-flex justify-content-center mb-3">
-            <a href="#values"
+            <a href="#values-md"
                class="bg-light-green d-flex align-items-center justify-content-center text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-sixteen d-inline-block text-decoration-none"
                style="width: 200px; height: 45px">
                 Værdier
@@ -483,7 +483,7 @@
 
         <!--Målgruppe-->
         <div class="col-4 d-flex justify-content-center mb-3">
-            <a href="#maalgruppe"
+            <a href="#maalgruppe-md"
                class="bg-light-green d-flex align-items-center justify-content-center text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-sixteen d-inline-block text-decoration-none"
                style="width: 200px; height: 45px">
                 Målgruppe
@@ -492,7 +492,7 @@
 
         <!--Visitering-->
         <div class="col-4 d-flex justify-content-center mb-3">
-            <a href="#visitering"
+            <a href="#visitering-md"
                class="bg-light-green d-flex align-items-center justify-content-center text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-sixteen d-inline-block text-decoration-none"
                style="width: 200px; height: 45px">
                 Visitering
@@ -501,7 +501,7 @@
 
         <!--Praktisk-->
         <div class="col-4 d-flex justify-content-center mb-3">
-            <a href="#praktisk"
+            <a href="#praktisk-md"
                class="bg-light-green d-flex align-items-center justify-content-center text-off-black rounded-pill fw-bold border-0 px-2 inter font-sixteen d-inline-flex justify-content-center align-items-center text-decoration-none"
                style="width: 200px; height: 45px">
                 Praktisk
@@ -510,7 +510,7 @@
 
         <!--Tilsynsrapporter-->
         <div class="col-4 d-flex justify-content-center mb-4">
-            <a href="#tilsynsrapporter"
+            <a href="#tilsynsrapporter-md"
                class="bg-light-green d-flex align-items-center justify-content-center text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter font-sixteen d-inline-block text-decoration-none"
                style="width: 200px; height: 45px">
                 Tilsynsrapporter
@@ -532,7 +532,7 @@
 </div>
 
 <!--values header - TABLET-->
-<div class="container d-none d-md-flex justify-content-center align-items-center mt-5" id="values">
+<div class="container d-none d-md-flex justify-content-center align-items-center mt-5" id="values-md">
 
     <div class="row justify-content-center px-1">
 
@@ -610,7 +610,7 @@
 </div>
 
 <!--målgruppe - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown " id="maalgruppe">
+<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown " id="maalgruppe-md">
 
     <div class="row justify-content-center w-100 pt-5">
 
@@ -684,7 +684,7 @@
 </div>
 
 <!--visitering - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green en-beboers-tanker-borger-forside" id="visitering">
+<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green " id="visitering-md">
 
     <div class="row justify-content-center w-100 py-5">
 
@@ -723,7 +723,7 @@
 </div>
 
 <!--praktiske oplysninger - TABLET-->
-<div class="container-fluid mt-0 d-md-flex d-none justify-content-center align-items-center bg-light-brown" id="praktisk">
+<div class="container-fluid mt-0 d-md-flex d-none justify-content-center align-items-center bg-light-brown" id="praktisk-md">
 
     <div class="row justify-content-center w-100 pt-5">
 
@@ -764,7 +764,7 @@
 </div>
 
 <!--tilsynsrapporter - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green pt-5" id="tilsynsrapporter">
+<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green pt-5" id="tilsynsrapporter-md">
 
     <div class="row justify-content-center w-100 mt-3">
 
