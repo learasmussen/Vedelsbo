@@ -663,7 +663,7 @@
 </div>
 
 <!--bottom-wave - TABLET-->
-<div aria-hidden="true" class="d-md-block green-wavywave-frontpage bg-dark-green">
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage bg-dark-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
