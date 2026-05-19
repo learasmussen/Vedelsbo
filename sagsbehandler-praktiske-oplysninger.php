@@ -29,14 +29,14 @@
 </div>
 
 <!--top info-->
-<div class="container-fluid d-flex bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+<div class="container-fluid d-flex bg-sage-green ps-sm-4 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
-            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Praktiske oplysninger</h1>
+            <h1 class="cormorant pt-3 fw-bold header-text-cormorant text-center">Praktiske oplysninger</h1>
         </div>
         <div class="col-12">
-            <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Her kan du læse om vores samarbejdspartnere
+            <div class="font-twelve inter text-center">Her kan du læse om vores samarbejdspartnere
                 og om vores økonomi.
             </div>
         </div>
@@ -62,14 +62,14 @@
 </div>
 
 <!--top info md -->
-<div class="container-fluid d-none d-flex bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+<div class="container-fluid d-none d-flex justify-content-center align-items-center bg-sage-green borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
-            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Praktiske oplysninger</h1>
+            <h1 class="cormorant fw-bold header-text-cormorant text-center ">Praktiske oplysninger</h1>
         </div>
         <div class="col-12">
-            <div class="font-sixteen inter pe-4 pe-md-5 me-md-5 text-center">Her kan du læse om vores samarbejdspartnere
+            <div class="font-sixteen inter text-center">Her kan du læse om vores samarbejdspartnere
                 og om vores økonomi.
             </div>
         </div>
@@ -87,34 +87,34 @@
     <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
-
+<!--content mobil & tablet-->
 <!--samarbejdspartnere-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex justify-content-center align-items-center mt-5">
 
     <div class="row justify-content-center px-1">
 
         <div class="col-12 col-lg-8">
 
             <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-md-3">
                     Samarbejdspartnere
                 </strong>
             </div>
 
-            <p class="font-twelve inter px-3 mb-3">
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
                 Alle beboere på Vedelsbo har deres egen praktiserende læge. Vedelsbo samarbejder med Bostedstemaet,
                 Psykiatrien Syd i Vordingborg. Hvis der er behov for at tale med en psykiater aftales det med faste
                 intervaller eller efter behov i samråd med personalet.
             </p>
-            <p class="font-twelve inter px-3 mb-3">
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
                 Personalet har i samarbejde med den enkelte beboer, et tæt samarbejde med Bostedsteamet. Hvis der er
                 brug for det, er det muligt at få besøg af enten sin egen læge eller psykiater.
             </p>
-            <p class="font-twelve inter px-3 mb-3">
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
                 Vedelsbo har et godt samarbejde med sagsbehandlere, visitatorer, tandlæger, psykologer, fysioterapeuter
                 mm.
             </p>
-            <p class="font-twelve inter px-3 mb-0">
+            <p class="font-twelve font-sixteen inter px-3 mb-0">
                 Hver måned er der mulighed for at blive tilknyttet vores faste fodterapeut.
             </p>
         </div>
@@ -134,12 +134,12 @@
                 </strong>
             </div>
 
-            <p class="font-twelve inter px-3 mb-3">
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
                 Vedelsbo drives som et Anpartsselskab. (ApS)
             </p>
-            <p class="font-twelve inter px-3 mb-0">
+            <p class="font-twelve font-sixteen inter px-3 mb-0">
                 Som beboer har man en månedlig egenbetaling som indeholder bl.a. husleje, kost og kørsel.
-                ​Beboerbetalingen udregnes efter størrelsen af boligen og den månedlige indtægt.
+                Beboerbetalingen udregnes efter størrelsen af boligen og den månedlige indtægt.
             </p>
         </div>
     </div>
@@ -150,8 +150,9 @@
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--read too section-->
-<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<!--bottom section mobil & tablet-->
+<!--read too section mobil-->
+<div class="container d-md-none d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center">
 
@@ -197,10 +198,58 @@
 
 </div>
 
+<!--read too section tablet-->
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+
+    <div class="row justify-content-center text-center mt-5">
+
+        <div class="col-12 mb-4 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="borger-fritid.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Fritid
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="a-year.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Årets gang
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="meals.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Måltider
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="om-vedelsbo.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Om Vedelsbo
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
 <!--bottom wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
+
 
 <?php include 'includes/footer.php'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
