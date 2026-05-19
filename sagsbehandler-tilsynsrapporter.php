@@ -49,7 +49,7 @@
 </div>
 
 <!--top-info md-->
-<div class="container-fluid  d-sm-none d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-9 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: -120px z-index: 2">
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-9 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: -120px z-index: 2">
 
     <div class="row d-md-flex justify-content-center align-items-center mt-5">
         <div class="col-10 mt-0">
@@ -244,7 +244,7 @@
 </div>
 
 <!--read too section-->
-<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<div class="container d-md-none d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center">
 
@@ -283,6 +283,52 @@
                class="font-twelve bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 125px">
                 Praktisk
+            </a>
+        </div>
+
+    </div>
+</div>
+
+<!--read too section - TABLET-->
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+
+    <div class="row justify-content-center text-center mt-5">
+
+        <div class="col-12 mb-4 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="borger-fritid.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Fritid
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="a-year.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Årets gang
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
+            <a href="meals.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Måltider
+            </a>
+        </div>
+
+        <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
+            <a href="om-vedelsbo.php"
+               class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+               style="width: 275px">
+                Om Vedelsbo
             </a>
         </div>
 
