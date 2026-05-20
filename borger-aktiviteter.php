@@ -332,27 +332,27 @@
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--image header - TABLET-->
-<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage" style="margin-top: -275px">
     <img src="waves-tablet/green-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape - TABLET-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
     <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
+<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -369,12 +369,12 @@
 </div>
 
 <!--green normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--accordion TABLET: naturholdet, dyreholdet...-->
-<div class="container d-none d-md-block mt-5 mb-0">
+<div class="container d-none d-md-block d-lg-none mt-5 mb-0">
 
     <div class="row justify-content-center align-items-center px-3">
 
@@ -611,12 +611,12 @@
 </div>
 
 <!--beige normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none bg-light-brown">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--read too section - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-light-brown">
 
     <div class="row justify-content-center text-center">
 
@@ -663,13 +663,50 @@
 </div>
 
 <!--bottom-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage bg-dark-green">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage bg-dark-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
 
+<!--STOR SKÆRM (DESKTOP)-->
 
+<!--top-wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block">
+    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header - TABLET-->
+<div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers_large.JPG"
+         alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--green big wave - TABLET-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
+    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--wave shape - TABLET-->
+<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
+    <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+</div>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
