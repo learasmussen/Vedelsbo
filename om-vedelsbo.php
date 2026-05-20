@@ -136,7 +136,7 @@
 
 <!--dekration shape-->
 <div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
-    <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+    <img src="header-shapes/light-brown-house.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
 </div>
 
 <!--top-info-->
