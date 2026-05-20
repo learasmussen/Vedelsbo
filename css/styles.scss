@@ -463,6 +463,19 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		padding-top: 150px;
 	}
 
+	.header-section-borger {
+		background-image: url("../images/personale_flowers_large.jpg");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+
+		min-height: 550px; /* vælg selv højde */
+
+		width: 100%;
+
+		margin-top: -100px;
+	}
+
 }
 
 @media only screen and (min-width: 1440px){
