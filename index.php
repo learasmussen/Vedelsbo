@@ -552,6 +552,74 @@ require "settings/init.php";
 </div>
 
 
+<!--image header - DESKTOP-->
+<div class="container-fluid d-none d-lg-block header-section-borger position-relative p-0"
+     style="z-index: -1000;">
+
+    <!--overlay-->
+    <div class="container position-absolute">
+
+        <div class="row align-items-center">
+
+            <!--tekst boks-->
+            <div class="col-6 bg-sage-green px-5 py-5">
+
+                <div class="allura header-text-allura mb-3 pt-5">
+                    Velkommen til Vedelsbo
+                </div>
+
+                <h1 class="cormorant fw-bold header-text-cormorant mb-4">
+                    Hjælp til et godt og trygt liv
+                </h1>
+
+                <div class="inter header-text-inter-italic mb-4">
+                    Et socialpsykiatrisk botilbud med en hjemlig atmosfære for voksne med en sindslidelse.
+                </div>
+
+                <div class="pb-5">
+                <a href="om-vedelsbo.php"
+                   class="font-sixteen btn bg-dark-brown rounded-pill border-0 py-2 px-4">
+                    Læs mere om Vedelsbo
+                    <i class="fa-solid fa-angle-right ms-2"></i>
+                </a>
+            </div>
+            </div>
+
+            <!--wave-->
+            <div class="col-2 p-0 d-flex align-items-stretch">
+
+                <img src="waves-desktop/verticla-greeen-wave.png"
+                     alt=""
+                     style="margin-left: -2px; height: 520px; width: auto; display: block;">
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!--green wavy wave - TABLET-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -60px">
+    <img src="waves-tablet/beige-big-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <?php include 'includes/footer.php'; ?>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
