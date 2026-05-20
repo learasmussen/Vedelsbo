@@ -442,7 +442,7 @@
 <!--DESKTOP BUTTOM SECTION-->
 <!--DESKTOP SCREEN off-white normal wave-->
 <div aria-hidden="true" class="mt-0 green-wavywave-frontpage bg-light-brown d-none d-md-none d-lg-block bg-light-brown">
-    <img src="waves-desktop/offwhite-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
 </div>
 
 <!--read too section - DESKTOP-->
