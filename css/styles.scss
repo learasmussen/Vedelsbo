@@ -504,7 +504,67 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		font-size: 40px;
 	}
 
+	.testimonial-wrapper {
+		position: relative;
+		height: 360px;
 
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.testimonial-container {
+		position: relative;
+		width: 100%;
+		max-width: 900px;
+		height: 320px;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	/* BASE CARD = IDENTISK ALTID */
+	.testimonial-card {
+		position: absolute;
+
+		width: 80%;
+		max-width: 600px;
+		min-height: 250px;
+
+		background: #c4c5b2;
+		border-radius: 35px;
+		padding: 40px;
+
+		box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+
+		/* altid samme størrelse, ingen scale */
+		transform: translateX(var(--x, 0px));
+
+		opacity: var(--opacity, 0);
+
+		transition: transform 0.45s ease, opacity 0.45s ease;
+
+		z-index: var(--z, 1);
+	}
+
+	/* ARROWS */
+	.carousel-arrow {
+		position: absolute;
+		background: transparent;
+		border: none;
+		font-size: 40px;
+		z-index: 10;
+		cursor: pointer;
+	}
+
+	.carousel-arrow.left {
+		left: 0;
+	}
+
+	.carousel-arrow.right {
+		right: 0;
+	}
 }
 
 @media only screen and (min-width: 1440px){

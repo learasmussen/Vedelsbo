@@ -593,6 +593,170 @@
     <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!-- Beboernes tanker -->
+<div class="container pt-5 pb-0 d-none d-lg-block">
+
+    <!-- overskrift -->
+    <div class="row">
+        <div class="col-12">
+
+            <h2 class="cormorant text-center fw-bold mb-0">
+                BEBOERNES TANKER
+            </h2>
+
+        </div>
+    </div>
+
+    <!-- carousel -->
+    <div class="testimonial-wrapper position-relative">
+
+        <!-- venstre pil -->
+        <button class="carousel-arrow left" id="prevBtn">
+            <i class="fa-solid fa-angle-left"></i>
+        </button>
+
+        <!-- cards -->
+        <div class="testimonial-container">
+
+            <!-- card 1 -->
+            <div class="testimonial-card active">
+
+                <div class="small text-muted mb-2">
+                    Jette Bernt Rasmussen, 52 år
+                </div>
+
+                <div class="fw-bold fst-italic mb-3">
+                    En tanke, en følelse, et liv
+                </div>
+
+                <p>
+                    En dag på Casa Vedelsbo leves i smukke omgivelser med
+                    solskinstimer, dyrenes lyde og naturens ro omkring huset.
+                    Her høres fasanernes klukkende sang.
+                </p>
+
+            </div>
+
+            <!-- card 2 -->
+            <div class="testimonial-card">
+
+                <div class="small text-muted mb-2">
+                    Lars Jensen, 61 år
+                </div>
+
+                <div class="fw-bold fst-italic mb-3">
+                    Tryghed i hverdagen
+                </div>
+
+                <p>
+                    Jeg føler mig mødt og forstået her.
+                    Hverdagen har fået struktur og ro.
+                </p>
+
+            </div>
+
+            <!-- card 3 -->
+            <div class="testimonial-card">
+
+                <div class="small text-muted mb-2">
+                    Anne Madsen, 47 år
+                </div>
+
+                <div class="fw-bold fst-italic mb-3">
+                    Fællesskab og nærvær
+                </div>
+
+                <p>
+                    Det betyder meget at være en del af et fællesskab,
+                    hvor man bliver set og hørt.
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- højre pil -->
+        <button class="carousel-arrow right" id="nextBtn">
+            <i class="fa-solid fa-angle-right"></i>
+        </button>
+
+    </div>
+
+    <!-- knap -->
+    <div class="text-center mt-3">
+
+        <a href="#"
+           class="btn font-sixteen bg-light-green rounded-pill px-4 py-3 inter">
+
+            Læs mere om Beboernes tanker
+            <i class="fa-solid fa-angle-right ms-2"></i>
+
+        </a>
+
+    </div>
+
+</div>
+
+<!--bottom-wave - TABLET-->
+<div class="bg-dark-green d-none d-lg-block " aria-hidden="true">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
+
+<script>
+    const cards = document.querySelectorAll('.testimonial-card');
+
+    let current = 0;
+
+    function updateCards() {
+
+        const prevIndex = (current - 1 + cards.length) % cards.length;
+        const nextIndex = (current + 1) % cards.length;
+
+        cards.forEach((card, index) => {
+
+            if (index === current) {
+                card.style.setProperty('--x', '0px');
+                card.style.setProperty('--opacity', '1');
+                card.style.setProperty('--z', '5');
+            }
+
+            else if (index === prevIndex) {
+                card.style.setProperty('--x', '-45px');
+                card.style.setProperty('--opacity', '0.4');
+                card.style.setProperty('--z', '3');
+            }
+
+            else if (index === nextIndex) {
+                card.style.setProperty('--x', '45px');
+                card.style.setProperty('--opacity', '0.4');
+                card.style.setProperty('--z', '3');
+            }
+
+            else {
+                card.style.setProperty('--x', '0px');
+                card.style.setProperty('--opacity', '0');
+                card.style.setProperty('--z', '1');
+            }
+        });
+    }
+
+    /* NEXT */
+    document.getElementById('nextBtn').addEventListener('click', () => {
+        current = (current + 1) % cards.length;
+        updateCards();
+    });
+
+    /* PREV */
+    document.getElementById('prevBtn').addEventListener('click', () => {
+        current = (current - 1 + cards.length) % cards.length;
+        updateCards();
+    });
+
+    updateCards();
+</script>
+
 <?php include 'includes/footer.php'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
