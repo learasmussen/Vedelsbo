@@ -476,6 +476,31 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		margin-top: -100px;
 	}
 
+	.shape {
+		width: 285px;
+		height: 285px;
+
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+
+	/* aktiviteter */
+	.shape-5 {
+		background-image: url("../shapes/picture-shape-creative.png");
+	}
+
+	/* om vedelsbo */
+	.shape-6 {
+		background-image: url("../shapes/picture-shape-alpacha.png");
+	}
+
+	/* arbejdsmetoder */
+	.shape-7 {
+		background-image: url("../shapes/picture-shape-outdoors.png");
+	}
+
+
 }
 
 @media only screen and (min-width: 1440px){
