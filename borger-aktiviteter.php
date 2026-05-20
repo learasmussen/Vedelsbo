@@ -718,7 +718,7 @@
 
 <!--dyrehold - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
-    <div class="row d-flex justify-content-center align-items-center">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-0">
             <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
@@ -780,7 +780,7 @@
 
 <!--kreativt værksted - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-brown">
-    <div class="row d-flex justify-content-center align-items-center">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-0">
             <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
@@ -841,7 +841,7 @@
 
 <!--udflugter - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
-    <div class="row d-flex justify-content-center align-items-center">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-0">
             <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
@@ -903,7 +903,7 @@
 
 <!--væresteder - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-green">
-    <div class="row d-flex justify-content-center align-items-center">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-0">
             <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
