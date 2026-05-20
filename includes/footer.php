@@ -21,10 +21,11 @@
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
-        <img src="/logo/footer-logo.png" class="waves position-absolute opacity-25 end-0 bottom-0 mt-5 pt-3" style="width: 250px" alt="">
+        <img src="/logo/footer-logo.png" class="waves position-absolute opacity-25 end-0 bottom-0 mt-5 pt-3"
+             style="width: 250px" alt="">
     </div>
 
-    <div class="container ps-4 position-relative" >
+    <div class="container ps-4 position-relative">
         <div class="row ps-2">
             <div class="col py-2">
                 <a href="#" class="inter text-off-white font-fourteen">Forside</a>
@@ -92,7 +93,8 @@
         <div class="row pt-4 ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
                 <i class="fa-brands fa-instagram pe-2 fa-xs"></i>
-                <a href="https://www.instagram.com/vedelsbo_botilbud/?hl=da" class="text-off-white text-decoration-none font-twelve">
+                <a href="https://www.instagram.com/vedelsbo_botilbud/?hl=da"
+                   class="text-off-white text-decoration-none font-twelve">
                     Instagram
                 </a>
             </div>
@@ -101,7 +103,8 @@
         <div class="row ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
                 <i class="fa-brands fa-facebook pe-2 fa-xs"></i>
-                <a href="https://www.facebook.com/profile.php?id=100063647376484&locale=da_DK" class="text-off-white text-decoration-none font-twelve">
+                <a href="https://www.facebook.com/profile.php?id=100063647376484&locale=da_DK"
+                   class="text-off-white text-decoration-none font-twelve">
                     FaceBook
                 </a>
             </div>
@@ -115,11 +118,13 @@
 </footer>
 
 <!-- footer til mellem skærm -->
-<footer class="bg-dark-green pt-5 mt-0 d-none footer wave-minus-two-px d-md-block d-lg-none position-relative" style="z-index: -100;">
+<footer class="bg-dark-green pt-5 mt-0 d-none footer wave-minus-two-px d-md-block d-lg-none position-relative"
+        style="z-index: -100;">
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
-        <img src="/logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3" style="width: 175px" alt="">
+        <img src="/logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3"
+             style="width: 175px" alt="">
     </div>
 
     <div class="container text-center footer position-relative">
@@ -201,7 +206,6 @@
             </div>
 
 
-
         </div>
     </div>
 
@@ -214,11 +218,12 @@
 
 
 <!-- footer til stor skærm -->
-<footer class="bg-dark-green pt-0 d-none footer d-lg-block position-relative" style="z-index: -100">
+<footer class="bg-dark-green d-none d-lg-block position-relative">
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
-        <img src="/logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3" style="width: 200px" alt="">
+        <img src="/logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3"
+             style="width: 200px" alt="">
     </div>
 
     <div class="container text-center footer position-relative">
@@ -309,7 +314,6 @@
                     Kontakt
                 </a>
             </div>
-
 
 
         </div>
