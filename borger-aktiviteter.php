@@ -725,8 +725,8 @@
         </div>
 
         <div class="col-6">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                DYREHOLD
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Dyrehold
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
@@ -752,8 +752,8 @@
     <div class="row d-flex justify-content-center align-items-center my-3">
 
         <div class="col-6 ps-5">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                NATURHOLD
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Naturhold
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
@@ -787,8 +787,8 @@
         </div>
 
         <div class="col-6">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                KREATIVT VÆRKSTED
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Kreativt værksted
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
@@ -848,8 +848,8 @@
         </div>
 
         <div class="col-6">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                UDFLUGTER
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Udflugter
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
@@ -875,8 +875,8 @@
     <div class="row d-flex justify-content-center align-items-center my-3">
 
         <div class="col-6 ps-5">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                TRÆNING & SUNDHED
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Træning og sundhed
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
@@ -910,8 +910,8 @@
         </div>
 
         <div class="col-6">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                VÆRESTEDER
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Væresteder
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
