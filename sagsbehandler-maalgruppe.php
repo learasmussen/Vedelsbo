@@ -25,11 +25,11 @@
 <!--SMALL SCREEN, HEADER INFO-->
 <!--top wave-->
 <div aria-hidden="true">
-    <img src="waves-phone/navwave.png" class="waves position-relative w-100 d-md-none" alt="">
+    <img src="waves-phone/navwave.png" class="waves position-relative w-100 d-md-none d-lg-none" alt="">
 </div>
 
 <!--top info-->
-<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header d-md-none">
+<div class="container-fluid bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header d-md-none d-lg-none">
     <div class="row">
         <div class="col-12 mt-5">
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Målgruppe</h1>
@@ -46,52 +46,51 @@
 </div>
 
 <!--green normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none d-lg-none">
     <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--top image-->
-<div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger d-none d-md-block">
+<div class="container-fluid p-0 position-relative d-block d-md-none d-lg-none" style="z-index: -1000">
+    <img src="images/personale_flowers_small.jpg" alt="header-image" class="img-fluid header-image-borger">
+
 </div>
 
 <!--beige big wave-->
-<div aria-hidden="true" class="beige-big-wave-borger-forside d-md-none">
+<div aria-hidden="true" class="beige-big-wave-borger-forside d-md-none d-lg-none">
     <img src="waves-phone/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
-<div aria-hidden="true" class="text-end d-md-none decoration-frontpage d-md-none" style="margin-top: -120px">
+<div aria-hidden="true" class="text-end d-md-none decoration-frontpage d-md-none d-lg-none" style="margin-top: -120px">
     <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 140px">
 </div>
 
 <!--MEDIUM SCREEN, HEADER INFO-->
 <!--top-wave-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-lg-none d-md-block ">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100 d-none d-md-block" alt="">
 </div>
 
 <!--image header-->
-<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid d-none d-lg-none d-md-block p-0 position-relative" style="z-index: -1000">
     <img src="images/personale_flowers.JPG" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+<div aria-hidden="true" class="d-none d-lg-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
     <img src="waves-tablet/green-big-wave.png" class="waves img-fluid p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+<div aria-hidden="true" class="text-end d-none d-lg-none d-md-block decoration-frontpage" style="margin-top: -210px">
     <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 180px">
 </div>
 
 <!--top-info-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green borger-forside-header pt-md-0"
+<div class="container-fluid d-none d-lg-none  d-md-block d-md-flex justify-content-center align-items-center bg-sage-green borger-forside-header pt-md-0"
      style="margin-top: 110px">
 
     <div class="row d-md-flex justify-content-center align-items-center">
@@ -110,14 +109,14 @@
 </div>
 
 <!--green normal wave-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-lg-none d-md-block green-wavywave-frontpage">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
 <!--SMALL SCREEN, content-->
 <!--kriterier-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-md-none">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-md-none d-lg-none">
 
     <div class="row justify-content-center px-1">
 
@@ -177,13 +176,13 @@
 </div>
 
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none d-lg-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--Medium SCREEN, content-->
 <!--kriterier-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-md-block d-none">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-md-block d-none d-lg-none d-md-block">
 
     <div class="row justify-content-center px-1">
 
@@ -243,14 +242,14 @@
 </div>
 
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-md-block d-none">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-block d-none d-lg-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
 <!--SMALL SCREEN, read too & wave-->
 <!--read too section-->
-<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section d-md-none">
+<div class="container d-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section d-md-none d-lg-none">
 
     <div class="row justify-content-center text-center">
 
@@ -299,7 +298,7 @@
 
 <!--MEDIUM SCREEN, read too-->
 <!--read too section tablet-->
-<div class="container-fluid d-none d-md-block d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<div class="container-fluid d-none d-lg-none d-md-block d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center mt-5">
 
@@ -346,8 +345,92 @@
 </div>
 
 <!--bottom wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
+<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green d-lg-none">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
+
+<!--DESKTOP IMAGEs SECTION-->
+<!--DESKTOP SCREEN beige normal wave-->
+<div aria-hidden="true" class="mt-0 green-wavywave-frontpage d-none d-md-none d-lg-block bg-off-white">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
+</div>
+
+<!--DESKTOP SCREEN IMAGES-->
+<div class=" container-fluid d-none d-md-none d-lg-block pt-5 bg-off-white">
+    <div class="row">
+        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+    </div>
+</div>
+
+<!--DESKTOP BUTTOM SECTION-->
+<!--DESKTOP SCREEN off-white normal wave-->
+<div aria-hidden="true" class="mt-0 green-wavywave-frontpage bg-light-brown d-none d-md-none d-lg-block bg-light-brown">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
+</div>
+
+<!--read too section - DESKTOP-->
+<div class="container-fluid mt-0 d-none d-md-none d-lg-block d-flex justify-content-center align-items-center bg-light-brown ">
+
+    <div class="row justify-content-center text-center">
+        <!--text-->
+        <div class="col-12 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+        <div class="col-12 mb-4 mt-4 ">
+            <p class="px-5">
+                Herunder kan du læse mere om hverdagen på Vedelsbo og få et indblik i de rammer,
+                der danner grundlag for beboernes dagligdag. Du kan se, hvordan vi arbejder med omsorg,
+                tryghed og fællesskab i praksis. Samtidig kan du få indblik i aktiviteter,
+                værdier og livet blandt beboere og medarbejdere.</p>
+        </div>
+        <!--CTA-->
+        <div class="col-6 d-flex justify-content-center">
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-values.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Værdier
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-maalgruppe.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Målgruppe
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-visitering.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Visitering
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-tilsynsrapporter.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Tilsyn
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!--DESKTOP SCREEN, WAVE-->
+<!--Wave light brown-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-none d-lg-block bg-dark-green">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <?php include 'includes/footer.php'; ?>
