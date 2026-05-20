@@ -44,9 +44,9 @@
     </div>
 </div>
 
-<!--green normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+<!--green normal wave MOBIL-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none">
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
@@ -77,19 +77,78 @@
     </div>
 </div>
 
-<!--green normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-none">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+
+<!--green normal wave Tablet-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape - TABLET-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -140px">
+<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -85px">
     <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
-<!--content mobil & tablet-->
+<!--content mobil -->
 <!--samarbejdspartnere-->
-<div class="container d-flex justify-content-center align-items-center mt-5">
+<div class="container d-flex justify-content-center align-items-center mt-5 d-md-none">
+
+    <div class="row justify-content-center px-1">
+
+        <div class="col-12">
+
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-md-3">
+                    Samarbejdspartnere
+                </strong>
+            </div>
+
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
+                Alle beboere på Vedelsbo har deres egen praktiserende læge. Vedelsbo samarbejder med Bostedstemaet,
+                Psykiatrien Syd i Vordingborg. Hvis der er behov for at tale med en psykiater aftales det med faste
+                intervaller eller efter behov i samråd med personalet.
+            </p>
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
+                Personalet har i samarbejde med den enkelte beboer, et tæt samarbejde med Bostedsteamet. Hvis der er
+                brug for det, er det muligt at få besøg af enten sin egen læge eller psykiater.
+            </p>
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
+                Vedelsbo har et godt samarbejde med sagsbehandlere, visitatorer, tandlæger, psykologer, fysioterapeuter
+                mm.
+            </p>
+            <p class="font-twelve font-sixteen inter px-3 mb-0">
+                Hver måned er der mulighed for at blive tilknyttet vores faste fodterapeut.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!--økonomi-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-md-none">
+
+    <div class="row justify-content-center px-1">
+
+        <div class="col-12">
+
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Økonomi
+                </strong>
+            </div>
+
+            <p class="font-twelve font-sixteen inter px-3 mb-3">
+                Vedelsbo drives som et Anpartsselskab. (ApS)
+            </p>
+            <p class="font-twelve font-sixteen inter px-3 mb-0">
+                Som beboer har man en månedlig egenbetaling som indeholder bl.a. husleje, kost og kørsel.
+                Beboerbetalingen udregnes efter størrelsen af boligen og den månedlige indtægt.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!--content tablet-->
+<!--samarbejdspartnere-->
+<div class="container d-flex justify-content-center align-items-center mt-2 d-none d-md-block">
 
     <div class="row justify-content-center px-1">
 
@@ -122,7 +181,7 @@
 </div>
 
 <!--økonomi-->
-<div class="container d-flex justify-content-center align-items-center mt-3">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block">
 
     <div class="row justify-content-center px-1">
 
@@ -145,9 +204,16 @@
     </div>
 </div>
 
+<!--SMALL SCREEN, WAVE-->
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--MEDIUM SCREEN, WAVE-->
+<!--beige normal wave-->
+<div aria-hidden="true" class="mt-0 green-wavywave-frontpage bg-light-brown d-none d-md-block ">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
 </div>
 
 <!--bottom section mobil & tablet-->
@@ -199,9 +265,9 @@
 </div>
 
 <!--read too section tablet-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5">
 
-    <div class="row justify-content-center text-center mt-5">
+    <div class="row justify-content-center text-center mt-2">
 
         <div class="col-12 mb-4 mt-3">
             <strong class="cormorant d-block read-to-header">
@@ -245,9 +311,16 @@
 
 </div>
 
-<!--bottom wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
+<!--SMALL SCREEN, WAVE-->
+<!--bottom-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--MEDIUM SCREEN, WAVE-->
+<!--Wave-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block bg-dark-green">
+    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
