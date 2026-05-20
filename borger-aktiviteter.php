@@ -676,20 +676,44 @@
     <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<!--image header - TABLET-->
+<!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/personale_flowers_large.JPG"
          alt="header-image" class="img-fluid header-image-borger">
 </div>
 
-<!--green big wave - TABLET-->
+<!--beige wave upside down - DESKTOP-->
 <div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
     <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--wave shape - TABLET-->
+<!--wave shape - DESKTOP-->
 <div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
     <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+</div>
+
+<!--top-info - TABLET-->
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+
+    <div class="row d-md-flex justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Aktiviteter</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center mb-4">
+                Som beboer på Vedelsbo deltager du i hverdagens fælles opgaver i det omfang, du kan, tilpasset dit funktionsniveau og dine behov. Praktiske opgaver som madlavning, opvask og oprydning er organiseret som ugentlige ”tjanser” i samarbejde med personalet.
+            </div>
+            <div class="font-twelve font-sixteen px-5 inter  text-center">
+                Der tilbydes også aktiviteter som bål, gåture og ophold i naturen og ved dyrene med fokus på ro, nærvær og trivsel. Ved behov planlægges transport og personaledeltagelse, så alle kan deltage på lige vilkår.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
