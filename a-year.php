@@ -200,27 +200,27 @@
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--image header - TABLET-->
-<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage" style="margin-top: -275px">
     <img src="waves-tablet/green-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape - TABLET-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
     <img src="header-shapes/green-kalender.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
+<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -236,12 +236,12 @@
 </div>
 
 <!--green normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--traditioner og arrangementer - TABLET-->
-<div class="container d-none d-md-flex justify-content-center align-items-center mt-3">
+<div class="container d-none d-md-flex d-lg-none justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-1">
 
@@ -269,24 +269,24 @@
 </div>
 
 <!--beige normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--image - TABLET-->
-<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
     <img src="images/header-image-tablet.jpg" alt="header-image"
          class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <!--beige normal wave upside down - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block beige-normal-wave-upside-down-underpage">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none beige-normal-wave-upside-down-underpage">
     <img src="waves-tablet/beige-big-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--birthdays - TABLET-->
-<div class="container d-none d-md-flex justify-content-center align-items-center">
+<div class="container d-none d-md-flex d-lg-none justify-content-center align-items-center">
 
     <div class="row justify-content-center px-1">
 
@@ -309,12 +309,12 @@
 </div>
 
 <!--beige normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none bg-light-brown">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--read too section - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-light-brown">
 
     <div class="row justify-content-center text-center">
 
@@ -361,11 +361,190 @@
 </div>
 
 <!--bottom-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage bg-dark-green">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage bg-dark-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
+
+
+
+<!--STOR SKÆRM (DESKTOP)-->
+
+<!--top-wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block">
+    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header - DESKTOP-->
+<div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers_large.JPG"
+         alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--beige wave upside down - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
+    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--wave shape - DESKTOP-->
+<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
+    <img src="header-shapes/green-kalender.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+</div>
+
+<!--top-info - DESKTOP-->
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+
+    <div class="row d-md-flex justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Årets gang</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center mb-0">
+                På Vedelsbo fejre vi traditioner og højtider, holder sommerfest og andre arrangermenter, hvor du og dine pårørende er inviteret. På beboermøderne har du også mulighed for at være med til at komme med ønsker og forslag til arrangementer i fremtiden!
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-off-white green-wavywave-frontpage">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--Traditioner og arrangementer - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+        <div class="col-6">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Traditioner og arrangementer
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                På Vedelsbo prioriteres traditioner højt, og højtider fejres som udgangspunkt på traditionel vis, herunder jul, nytår og påske. Der afholdes årligt sommerfest og julearrangement, hvor beboere, pårørende og venner inviteres til deltagelse.
+            </p>
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Sankt Hans fejres i haven som en fast tradition, hvor de nærmeste naboer inviteres som en del af fællesskabet. Beboerne opfordres løbende til at komme med idéer og ønsker, særligt i forbindelse med beboermøder, hvor forslag til aktiviteter planlægges og drøftes.
+            </p>
+
+
+        </div>
+
+    </div>
+</div>
+
+<!--off-white wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-sage-green green-wavywave-frontpage">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--birthdays - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-sage-green">
+    <div class="row d-flex justify-content-center align-items-center my-3">
+
+        <div class="col-6 ps-5">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Fødselsdage
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Fødselsdage fejres individuelt, hvor beboeren selv er med til at bestemme menu og rammer for dagen. Der er mulighed for at invitere familie og venner. Ved behov yder personalet støtte til planlægning og tilrettelæggelse af større fødselsdagsarrangementer for familie og venner.
+            </p>
+
+        </div>
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+
+    </div>
+</div>
+
+<!--normal green wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage">
+    <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--three images - DESKTOP-->
+<div class=" container d-none d-md-none d-lg-block mt-4 pb-3">
+    <div class="row">
+        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-light-brown green-wavywave-frontpage">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--read too section - DESKTOP-->
+<div class="container-fluid mt-0 d-none d-md-none d-lg-block d-flex justify-content-center align-items-center bg-light-brown ">
+
+    <div class="row justify-content-center text-center">
+        <!--text-->
+        <div class="col-12 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+        <div class="col-12 mb-4 mt-4 ">
+            <p class="px-5">
+                Herunder kan du læse mere om hverdagen på Vedelsbo og få et indblik i de rammer,
+                der danner grundlag for beboernes dagligdag. Du kan se, hvordan vi arbejder med omsorg,
+                tryghed og fællesskab i praksis. Samtidig kan du få indblik i aktiviteter,
+                værdier og livet blandt beboere og medarbejdere.</p>
+        </div>
+        <!--CTA-->
+        <div class="col-6 d-flex justify-content-center">
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-values.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Værdier
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-maalgruppe.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Målgruppe
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-visitering.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Visitering
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-praktiske-oplysninger.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Praktisk
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!--bottom wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-dark-green green-wavywave-frontpage">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
 <?php include 'includes/footer.php'; ?>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
