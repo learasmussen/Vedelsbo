@@ -289,13 +289,12 @@
 </div>
 
 <!--økonomi-->
-<div class="container-fluid d-flex justify-content-center align-items-center mt-3 d-none d-md-none d-lg-block">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-none d-lg-block">
 
     <div class="row justify-content-center px-1">
 
         <div class="col-12">
-
-            <div class="text-center">
+            <div class="text-center pt-5 mt-3">
                 <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
                     Økonomi
                 </strong>
@@ -431,7 +430,7 @@
 </div>
 
 <!--DESKTOP SCREEN IMAGES-->
-<div class=" container-fluid d-none d-md-none d-lg-block mt-4 bg-off-white">
+<div class=" container-fluid d-none d-md-none d-lg-block pt-5 bg-off-white">
     <div class="row">
         <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
         <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
@@ -489,10 +488,10 @@
             </div>
 
             <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-                <a href="sagsbehandler-praktiske-oplysninger.php"
+                <a href="sagsbehandler-tilsynsrapporter.php"
                    class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                    style="width: 275px">
-                    Praktisk
+                    Tilsyn
                 </a>
             </div>
         </div>
