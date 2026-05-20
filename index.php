@@ -552,6 +552,298 @@ require "settings/init.php";
 </div>
 
 
+<!--image header - DESKTOP-->
+<div class="container-fluid d-none d-lg-block header-section-borger position-relative p-0"
+     style="z-index: -1000;">
+
+    <!--overlay-->
+    <div class="container position-absolute">
+
+        <div class="row align-items-center">
+
+            <!--tekst boks-->
+            <div class="col-6 bg-sage-green px-5 py-5">
+
+                <div class="allura header-text-allura mb-3 pt-5">
+                    Velkommen til Vedelsbo
+                </div>
+
+                <h1 class="cormorant fw-bold header-text-cormorant mb-4">
+                    Hjælp til et godt og trygt liv
+                </h1>
+
+                <div class="inter header-text-inter-italic mb-4">
+                    Et socialpsykiatrisk botilbud med en hjemlig atmosfære for voksne med en sindslidelse.
+                </div>
+
+                <div class="pb-5">
+                <a href="om-vedelsbo.php"
+                   class="font-sixteen btn bg-dark-brown rounded-pill border-0 py-2 px-4">
+                    Læs mere om Vedelsbo
+                    <i class="fa-solid fa-angle-right ms-2"></i>
+                </a>
+            </div>
+            </div>
+
+            <!--wave-->
+            <div class="col-2 p-0 d-flex align-items-stretch">
+
+                <img src="waves-desktop/verticla-greeen-wave.png"
+                     alt=""
+                     style="margin-left: -2px; height: 520px; width: auto; display: block;">
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!--green wavy wave - TABLET-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -60px">
+    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--hvad står vi for sektion - TABLET-->
+<div class="container  mt-3 mt-md-5 d-none d-lg-flex justify-content-center align-items-center">
+    <div class="row justify-content-center">
+
+        <div class="col-3 text-center mt-3 px-2">
+
+            <img src="shapes/light-green-shape-heart.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+                HVAD VI STÅR FOR
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
+            </p>
+
+        </div>
+
+        <div class="col-3 text-center mt-3 px-2">
+
+            <img src="shapes/dark-brown-shape-people.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+                HVEM HJÆLPER VI
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i hverdagen.
+            </p>
+
+        </div>
+
+        <div class="col-3 text-center mt-3 px-2">
+
+            <img src="shapes/sage-green-shape-hand.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+                HVORDAN ARBEJDER VI
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og udvikling.
+            </p>
+
+        </div>
+
+        <div class="col-3 text-center mt-3 px-2">
+
+            <img src="shapes/light-brown-shape-house.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+                VORES ORGANISATION
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med fokus på struktur og fælles trivsel i hverdagen.
+            </p>
+
+        </div>
+
+    </div>
+</div>
+
+<!--beige wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-sage-green">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--shapes-->
+<div class="container-fluid bg-sage-green d-none d-lg-block py-5">
+
+    <div class="row justify-content-center text-center">
+
+        <!--aktiviteter-->
+        <div class="col-4 d-flex justify-content-center">
+
+            <div class="shape shape-5 d-flex justify-content-center align-items-center">
+
+                <a href="borger-aktiviteter.php"
+                   class="font-twelve font-sixteen btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
+                    Aktiviteter <i class="fa-solid fa-angle-right"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+        <!--om vedelsbo-->
+        <div class="col-4 d-flex justify-content-center">
+
+            <div class="shape shape-6 d-flex justify-content-center align-items-center">
+
+                <a href="om-vedelsbo.php"
+                   class="font-twelve font-sixteen btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
+                    Om Vedelsbo <i class="fa-solid fa-angle-right"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+        <!--arbejdsmetoder-->
+        <div class="col-4 d-flex justify-content-center">
+
+            <div class="shape shape-7 d-flex justify-content-center align-items-center">
+
+                <a href="arbejdsmetoder-forside.php"
+                   class="font-twelve font-sixteen btn bg-off-white text-off-black rounded-pill border-0 py-2 px-3">
+                    Arbejdsmetoder <i class="fa-solid fa-angle-right"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!--beige wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-background">
+    <img src="waves-desktop/normal-green-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--citat + knap til "en boboers tanker" - TABLET-->
+<div class="container d-none d-lg-flex justify-content-center align-items-center pt-4 en-beboers-tanker-borger-forside mt-0">
+
+    <div class="row justify-content-center text-center w-100 mt-3">
+
+        <div class="col-12 col-md-10 col-lg-8">
+
+            <strong class="cormorant d-block mb-3 pt-3 en-beboers-tanker-borger-forside-text-italic">
+                “Den omsorg vi får gør hverdagen lys, den nærhed vi mærker gør hjertet varmt, livet blir levende og det
+                gør forskellen.”
+            </strong>
+
+            <p class="inter mb-4 en-beboers-tanker-borger-forside-text">
+                - Jette Bernt Rasmussen
+            </p>
+
+            <div>
+                <a href="en-beboers-tanker.php"
+                   class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                    En beboers tanker
+                    <i class="fa-solid fa-angle-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--beige wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-light-brown">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--indsend spørgsmål sektion - DESKTOP-->
+<div class="bg-light-brown d-none d-lg-block">
+
+    <div class="container py-5">
+
+        <div class="row align-items-center">
+
+            <!--tekst-->
+            <div class="col-6">
+
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Har du spørgsmål?
+                </strong>
+
+                <p class="font-sixteen inter pe-5 mb-0">
+                    Du er altid meget velkommen til at skrive os en mail eller ringe til os.
+                </p>
+
+            </div>
+
+            <!--formular-->
+            <div class="col-6">
+
+                <div class="row">
+                    <div class="col pb-3">
+                        <input type="text"
+                               class="form-control inter font-twelve bg-off-white"
+                               placeholder="Fornavn*"
+                               aria-label="Fornavn">
+                    </div>
+
+                    <div class="col pb-3">
+                        <input type="text"
+                               class="form-control inter font-twelve bg-off-white"
+                               placeholder="Efternavn*"
+                               aria-label="Efternavn">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col pb-3">
+                        <input type="text"
+                               class="form-control inter font-twelve bg-off-white"
+                               placeholder="E-mail*"
+                               aria-label="E-mail">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col pb-3">
+                        <textarea class="form-control inter font-twelve bg-off-white"
+                                  rows="4"
+                                  placeholder="Skriv din besked...*"
+                                  aria-label="Skriv din besked her"></textarea>
+                    </div>
+                </div>
+
+                <!--knap-->
+                <div class="pt-2 d-lg-flex justify-content-center align-items-center">
+
+                    <a href="tak-for-bidrag.php"
+                       class="font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-4 d-inline-block text-decoration-none">
+                        Send
+                        <i class="fa-solid fa-angle-right"></i>
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!--bottom-wave - TABLET-->
+<div class="bg-dark-green d-none d-lg-block" aria-hidden="true" style="margin-top: -2px">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
+</div>
+
+
 <?php include 'includes/footer.php'; ?>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
