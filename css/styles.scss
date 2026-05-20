@@ -500,6 +500,10 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 		background-image: url("../shapes/picture-shape-outdoors.png");
 	}
 
+	.front-page-shape-header{
+		font-size: 40px;
+	}
+
 
 }
 
