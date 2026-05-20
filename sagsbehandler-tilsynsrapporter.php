@@ -94,8 +94,7 @@
 </div>
 
 <!--top-info lg-->
-<div class="container-fluid mt-0 d-none  d-lg-flex justify-content-center align-items-center bg-sage-green"
-     >
+<div class="container-fluid mt-0 d-none  d-lg-flex justify-content-center align-items-center bg-sage-green">
 
     <div class="row d-flex justify-content-center align-items-center mt-2">
         <div class="col-12 mt-5">

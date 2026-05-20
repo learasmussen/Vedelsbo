@@ -692,7 +692,7 @@
     <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
 </div>
 
-<!--top-info - TABLET-->
+<!--top-info - DESKTOP-->
 <div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
 
     <div class="row d-md-flex justify-content-center align-items-center">
@@ -712,29 +712,285 @@
 </div>
 
 <!--beige normal wave - DESKTOP-->
-<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-lg-block bg-off-white green-wavywave-frontpage">
     <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--dyrehold - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+        <div class="col-6">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Dyrehold
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                Vedelsbo har et dyrehold bestående af alpacaer, kat, undulater samt et akvarium. Dyreholdet indgår som en del af de pædagogiske og rehabiliterende aktiviteter.
+            </p>
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Opgaverne omfatter blandt andet fodring og rengøring, men der lægges samtidig vægt på samvær, nærvær og kontakt med dyrene som en del af den sociale og sansemæssige støtte.
+            </p>
 
 
+        </div>
+
+    </div>
+</div>
+
+<!--off-white wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-sage-green green-wavywave-frontpage">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--naturhold - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-sage-green">
+    <div class="row d-flex justify-content-center align-items-center my-3">
+
+        <div class="col-6 ps-5">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Naturhold
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                Tre dage ugentligt i sommerhalvåret og to dage ugentligt i vinterhalvåret deltager beboerne i praktiske opgaver på Vedelsbos udearealer som led i et relations- og aktivitetsbaseret tilbud.
+            </p>
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Opgaverne kan omfatte oprydning, græsslåning, såning, fejning og øvrig vedligeholdelse af udearealer. Indsatsen tilrettelægges med fokus på struktur, fællesskab og mestring i hverdagen.
+            </p>
+
+        </div>
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
 
 
+    </div>
+</div>
+
+<!--normal green wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-light-brown green-wavywave-frontpage">
+    <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--kreativt værksted - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-brown">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+        <div class="col-6">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Kreativt værksted
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                Der afholdes kreativt værksted hver tirsdag i sommerhalvåret samt tirsdag og onsdag i vinterhalvåret.
+            </p>
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Her arbejdes der med kreative og praktiske aktiviteter ud fra beboernes interesser og ønsker. Der er fokus på medindflydelse, motivation og mulighed for at afprøve forskellige kreative udtryk i et understøttende miljø.
+            </p>
+
+
+        </div>
+
+    </div>
+</div>
+
+<!--normal light brown wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--three images - DESKTOP-->
+<div class=" container d-none d-md-none d-lg-block my-4 pb-5">
+    <div class="row">
+        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+    </div>
+</div>
+
+<!--forventninger til deltagelse - DESKTOP-->
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+
+    <div class="row d-md-flex justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Forventninger til deltagelse i hverdagen </h1>
+        </div>
+        <div class="col-10 mb-0">
+            <div class="font-twelve font-sixteen px-5 inter  text-center mb-0">
+                Det er en forudsætning for at bo på Vedelsbo, at man har lyst til og mulighed for at indgå i fælles daglige gøremål i det omfang du kan. Der tages altid højde for dit funktionsniveau, og alle former for deltagelse tilpasses individuelt og respekteres.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-off-white green-wavywave-frontpage">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--udflugter - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+        <div class="col-6">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Udflugter
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                I sommerhalvåret arrangeres løbende aktiviteter og ture “i det grønne”. Beboerne har medindflydelse på planlægningen af aktiviteter og udflugter. Der arrangeres både længere dagsture, eksempelvis til Tivoli eller Odense Zoo, samt kortere ture som f.eks. til Karrebæksminde med Sejlads Friheden.
+            </p>
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Der planlægges desuden aktiviteter i nærområdet, særligt i sommerhalvåret. Det kan være teltture med overnatning, vandreture med madpakker, kajakture, motionsdag m.v.
+            </p>
+
+
+        </div>
+
+    </div>
+</div>
+
+<!--off-white wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-sage-green green-wavywave-frontpage">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--træning og sundhed - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-sage-green">
+    <div class="row d-flex justify-content-center align-items-center my-3">
+
+        <div class="col-6 ps-5">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Træning og sundhed
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                Vedelsbo har fokus på fysisk aktivitet i hverdagen og arbejder ud fra en motionspolitik. Beboerne støttes i at opretholde en aktiv livsstil gennem individuelle og fælles træningsaktiviteter, herunder gåture og planlagt motion. Der kan tilbydes individuel genoptræning ved fysioterapeut i eget hjem eller i klinik.
+            </p>
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Der er desuden ugentligt tilbud om yoga i huset samt mulighed for yoga med alpacaer i sommerperioden. Yderligere aktiviteter kan omfatte gåture, løb, cykling og roning efter ønske og behov.
+            </p>
+
+        </div>
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+
+    </div>
+</div>
+
+<!--normal green wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-light-green green-wavywave-frontpage">
+    <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--væresteder - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-green">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+        <div class="col-6">
+            <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header">
+                Væresteder
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                Næstved kommunes tilbud udnyttes i forhold til hvad den enkelte beboer har af ønsker og behov. Eksempelvis arbejde i beskyttet værksteder (Center for sociale indsatser), frivilligt arbejde, fleksjob, undervisning mm.
+            </p>
+            <p class="inter px-0 mx-0 mb-0 font-sixteen">
+                Ved arbejde i beskyttet værksteder kan man møde ligestillede og på den måde udbygge sit sociale netværk. På værestederne kan man deltage i mange forskellige aktiviteter såsom læderværksted, Køkkenaktiviteter, smykkeværksted og kreativt værksted.
+            </p>
+
+
+        </div>
+
+    </div>
+</div>
+
+<!--dark green normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-light-brown green-wavywave-frontpage">
+    <img src="waves-desktop/normal-dark-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--read too section - DESKTOP-->
+<div class="container-fluid mt-0 d-none d-md-none d-lg-block d-flex justify-content-center align-items-center bg-light-brown ">
+
+    <div class="row justify-content-center text-center">
+        <!--text-->
+        <div class="col-12 mt-3">
+            <strong class="cormorant d-block read-to-header">
+                Læs også
+            </strong>
+        </div>
+        <div class="col-12 mb-4 mt-4 ">
+            <p class="px-5">
+                Herunder kan du læse mere om hverdagen på Vedelsbo og få et indblik i de rammer,
+                der danner grundlag for beboernes dagligdag. Du kan se, hvordan vi arbejder med omsorg,
+                tryghed og fællesskab i praksis. Samtidig kan du få indblik i aktiviteter,
+                værdier og livet blandt beboere og medarbejdere.</p>
+        </div>
+        <!--CTA-->
+        <div class="col-6 d-flex justify-content-center">
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-values.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Værdier
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-maalgruppe.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Målgruppe
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-visitering.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Visitering
+                </a>
+            </div>
+
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-praktiske-oplysninger.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Praktisk
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!--bottom wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-dark-green green-wavywave-frontpage">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
 
 
 <?php include 'includes/footer.php'; ?>

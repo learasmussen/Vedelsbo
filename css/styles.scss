@@ -565,6 +565,35 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 	.carousel-arrow.right {
 		right: 0;
 	}
+
+	.quote-shape {
+		position: relative;
+
+		width: 600px;
+		aspect-ratio: 1 / 1;
+
+		background-image: url('../shapes/big-sage-green-shape.png');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: contain;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.quote-content {
+		width: 100%;
+		text-align: center;
+	}
+
+	.font-twentyfour{
+		font-size: 24px;
+	}
+
+	.font-forty{
+		font-size: 40px;
+	}
 }
 
 @media only screen and (min-width: 1440px){
