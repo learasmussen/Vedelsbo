@@ -430,7 +430,7 @@
     <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--top-info - TABLET-->
+<!--top-info - DESKTOP-->
 <div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
 
     <div class="row d-md-flex justify-content-center align-items-center">
@@ -451,7 +451,7 @@
     <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--aktiviteter-->
+<!--aktiviteter - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-green">
     <div class="row d-flex justify-content-center align-items-center">
         
@@ -486,7 +486,7 @@
     <img src="waves-desktop/normal-dark-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--fritid-->
+<!--fritid - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
     <div class="row d-flex justify-content-center align-items-center my-3">
 
@@ -522,7 +522,7 @@
     <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--årets gang-->
+<!--årets gang - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-sage-green">
     <div class="row d-flex justify-content-center align-items-center">
 
@@ -557,7 +557,7 @@
     <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--måltider-->
+<!--måltider - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-brown">
     <div class="row d-flex justify-content-center align-items-center my-3">
 
@@ -593,7 +593,7 @@
     <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!-- Beboernes tanker -->
+<!-- Beboernes tanker - DESKTOP -->
 <div class="container pt-5 pb-0 d-none d-lg-block">
 
     <!-- overskrift -->
@@ -697,13 +697,13 @@
 
 </div>
 
-<!--bottom-wave - TABLET-->
+<!--bottom-wave - DESKTOP-->
 <div class="bg-dark-green d-none d-lg-block " aria-hidden="true">
     <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
-
+<!-- JAVASCRIPT TIL "EN BEBOERS TANKER" DESKTOP-->
 <script>
     const cards = document.querySelectorAll('.testimonial-card');
 
