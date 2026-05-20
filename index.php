@@ -291,22 +291,22 @@ require "settings/init.php";
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--top-image - TABLET-->
-<div class="container-fluid p-0 d-none d-md-block">
+<div class="container-fluid p-0 d-none d-md-block d-lg-none">
     <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-frontpage">
 </div>
 
 <!--green-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none">
     <img src="waves-phone/green-wave.png" class="green-wave-front-page position-relative w-100" alt="">
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-md-block bg-sage-green ps-4 ps-md-5 pb-md-2 velkomst-frontpage">
+<div class="container-fluid d-none d-md-block d-lg-none bg-sage-green ps-4 ps-md-5 pb-md-2 velkomst-frontpage">
 
     <div class="row">
         <div class="col-12 mt-3">
@@ -331,17 +331,17 @@ require "settings/init.php";
 </div>
 
 <!--green wavy wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--dekorations bobler - TABLET-->
-<div aria-hidden="true" class="text-end d-none d-md-block" style="margin-top: -120px">
+<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none" style="margin-top: -120px">
     <img src="images/Dekoration.png" class="  pe-4 m-0" alt="" style="width: 150px">
 </div>
 
 <!--hvad står vi for sektion - TABLET-->
-<div class="container  mt-3 mt-md-5 d-none d-md-flex justify-content-center align-items-center">
+<div class="container  mt-3 mt-md-5 d-none d-md-flex d-lg-none justify-content-center align-items-center">
     <div class="row justify-content-center">
 
         <div class="col-12 col-md-6 col-lg-6 text-center mt-3">
@@ -404,12 +404,12 @@ require "settings/init.php";
 </div>
 
 <!--beige normal wave - TABLET-->
-<div class="bg-sage-green d-none d-md-block" aria-hidden="true">
+<div class="bg-sage-green d-none d-md-block d-lg-none" aria-hidden="true">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--shapes - TABLET-->
-<div class="bg-sage-green d-none d-md-block shape-wrapper">
+<div class="bg-sage-green d-none d-md-block d-lg-none shape-wrapper">
 
     <!--aktiviteter-->
     <div class="shape-box-5">
@@ -447,12 +447,12 @@ require "settings/init.php";
 </div>
 
 <!--green normal wave - TABLET-->
-<div class="bg-background d-none d-md-block" aria-hidden="true">
+<div class="bg-background d-none d-md-block d-lg-none" aria-hidden="true">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--citat + knap til "en boboers tanker" - TABLET-->
-<div class="container d-none d-md-flex justify-content-center align-items-center pt-5 en-beboers-tanker-borger-forside mt-md-2">
+<div class="container d-none d-md-flex d-lg-none justify-content-center align-items-center pt-5 en-beboers-tanker-borger-forside mt-md-2">
 
     <div class="row justify-content-center text-center w-100 mt-3">
 
@@ -479,12 +479,12 @@ require "settings/init.php";
 </div>
 
 <!--beige normal wave - TABLET-->
-<div class="bg-light-brown d-none d-md-block" aria-hidden="true">
+<div class="bg-light-brown d-none d-md-block d-lg-none" aria-hidden="true">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--indsend spørgsmål sektion - TABLET-->
-<div class="bg-light-brown d-none d-md-block ">
+<div class="bg-light-brown d-none d-md-block d-lg-none">
     <div class="container d-flex justify-content-center align-items-center">
 
         <div class="row justify-content-center px-1 px-md-5 pb-md-3">
@@ -539,9 +539,18 @@ require "settings/init.php";
 </div>
 
 <!--bottom-wave - TABLET-->
-<div class="bg-dark-green d-none d-md-block" aria-hidden="true" style="margin-top: -2px">
+<div class="bg-dark-green d-none d-md-block d-lg-none" aria-hidden="true" style="margin-top: -2px">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
 </div>
+
+
+<!--STOR SKÆRM (DESKTOP)-->
+
+<!--top-wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block">
+    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
 
 <?php include 'includes/footer.php'; ?>
 
