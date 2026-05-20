@@ -74,28 +74,28 @@
 
 <!--MEDIUM SCREEN, HEADER INFO-->
 <!--top-wave-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100 d-none d-md-block" alt="">
 </div>
 
 <!--image header-->
-<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
     <img src="images/personale_flowers.JPG" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage" style="margin-top: -275px">
     <img src="waves-tablet/green-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
     <img src="header-shapes/light-brown-house.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 180px">
 </div>
 
 <!--top-info-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
+<div class="container-fluid d-none d-md-block d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
      style="margin-top: 110px">
 
     <div class="row d-md-flex justify-content-center align-items-center">
@@ -113,8 +113,52 @@
 </div>
 
 <!--green normal wave-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--LARGE SCREEN, HEADER INFO-->
+<!--top-wave-->
+<div aria-hidden="true" class="d-none d-lg-block">
+    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header-->
+<div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers_large.JPG"
+         alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--beige wave upside down-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
+    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--dekration shape-->
+<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
+    <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+</div>
+
+<!--top-info-->
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-beige ps-4 pt-md-0 ps-md-0 pb-md-2">
+
+    <div class="row justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant fw-bold header-text-cormorant text-center">Om Vedelsbo</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center">Vedelsbo er et hyggeligt botilbud med ”hjemlig
+                atmosfære” for voksne som har en sindslidende. Vedelsbo er visiteret til 10 beboere, heraf 6 fleksible
+                §107/108 og 4 §107 pladser.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage bg-sage-green">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--SMALL SCREEN, BESKRIVELSE-->
@@ -180,7 +224,8 @@
 </div>
 
 <!--MEDIUM SCREEN, BESKRIVELSE-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block" id="nav-beskrivelse">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none"
+     id="nav-beskrivelse">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center">
@@ -232,6 +277,65 @@
     </div>
 </div>
 
+<!--LARGE SCREEN, BESKRIVELSE-->
+<div class="bg-sage-green pt-4 px-5 d-none d-lg-block" id="nav-beskrivelse">
+    <div class="container px-5">
+        <div class="row align-items-center g-4">
+            <!--TEKST KOLONNE-->
+            <div class="col-lg-6">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Beskrivelse
+                </strong>
+                <p class="font-sixteen inter mb-3">
+                    Der er 5 værelser med eget bad og toilet. Tillhørende de 5 værelser er et stort fælleskøkken for
+                    beboerne. Der er 5 lejligheder med eget bad og toilet, terrasse samt mindre køkken.
+                </p>
+                <p class="inter font-sixteen mb-1">
+                    Huset indeholder herudover bl.a:
+                </p>
+                <ul class="mb-0">
+                    <li class="inter font-sixteen mb-1">
+                        Fællesrum, indrettet med køkken, spisestue, daglig/TV stue.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Kreativt værksted i gammel charmerende kampestens bygning.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Stor hal som er opdelt i et naturværksted, træningsområde og et afslapningsområde med billiard,
+                        bordtennis, bob, sofaer og TV samt massagestol.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Orangeri
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Shelter på Alpacafolden
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Mindfulness/samtale stue
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Gæsteværelse til pårørende
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Et vaskerum med to vaskemaskiner og tørretumblere.
+                    </li>
+                    <li class="inter font-sixteen mb-0">
+                        Maskinhal, hvor der er indrettet et tømmer værksted hvor beboerne kan arbejde med
+                        håndværksmæssige opgaver
+                    </li>
+                </ul>
+            </div>
+
+            <!--BILLEDE-->
+            <div class="col-lg-6 text-center">
+                <img src="images/round_placeholder.png"
+                     alt="placeholder"
+                     class="img-fluid rounded-5">
+            </div>
+        </div>
+    </div>
+</div>
+
 <!--SMALL SCREEN, PICTURE-->
 <!--beige normal wave-->
 <div aria-hidden="true" class="green-wavywave-frontpage d-block d-md-none">
@@ -250,18 +354,24 @@
 
 <!--MEDIUM SCREEN, PICTURE-->
 <!--beige normal wave-->
-<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block">
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block d-lg-none">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--image-->
-<div class="container-fluid p-0 position-relative d-none d-md-block" style="z-index: -1000">
+<div class="container-fluid p-0 position-relative d-none d-md-block d-lg-none" style="z-index: -1000">
     <img src="images/om_vedelsbo_gaardsplads.JPG" alt="header-image" class="img-fluid header-image-borger-fritid">
 </div>
 
 <!--beige normal wave upside down-->
-<div aria-hidden="true" class="beige-normal-wave-upside-down-underpage d-none d-md-block">
+<div aria-hidden="true" class="beige-normal-wave-upside-down-underpage d-none d-md-block d-lg-none">
     <img src="waves-tablet/beige-big-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--LARGE SCREEN, WAVE-->
+<!--green normal wave upside down-->
+<div aria-hidden="true" class="beige-normal-wave-upside-down-underpage bg-off-white d-none d-lg-block">
+    <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--SMALL SCREEN, PERSONALE CONTENT-->
@@ -298,7 +408,7 @@
 
 <!--MEDIUM SCREEN, PERSONALE CONTENT-->
 <!--personale-->
-<div class="container d-flex justify-content-center align-items-center d-none d-md-block">
+<div class="container d-flex justify-content-center align-items-center d-none d-md-block d-lg-none">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center">
@@ -324,16 +434,125 @@
     </div>
 </div>
 
+<!--LARGE SCREEN, PERSONALE OG HENSYN+REGLER CONTENT-->
+<!--SEKTION: PERSONALE + HENSYN OG REGLER-->
+<div class="d-none d-lg-block py-5 bg-off-white px-5">
+    <div class="row g-5 align-items-start">
+        <!--VENSTRE KOLONNE: PERSONALE-->
+        <div class="col-lg-6">
+            <!--overskrift-->
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage header-text-allura-underpage-line-height fw-normal pb-4 pt-3">
+                    Personale
+                </strong>
+            </div>
+            <!--tekst-->
+            <p class="font-sixteen inter mb-3 text-center pt-4">
+                Arbejdsmiljø med fokus på trivsel, tillid og samarbejde, understøttet af faste møder og fælles værdier.
+                Personalet er sundhedsfagligt uddannet med løbende kompetenceudvikling, og arbejdet organiseres med
+                daglig planlægning, evaluering og supervision.
+            </p>
+            <!--knap-->
+            <div class="d-flex justify-content-center align-items-center mb-3 mt-4">
+                <a href="vedelsbo-personale.php"
+                   class="font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                    Læs mere om personale
+                    <i class="fa-solid fa-angle-right"></i>
+                </a>
+            </div>
+        </div>
+        <!--HØJRE KOLONNE: HENSYN OG REGLER-->
+        <div class="col-lg-6">
+            <!--overskrift-->
+            <div class="text-center mb-3">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Hensyn og regler
+                </strong>
+            </div>
+            <!--accordion-->
+            <div class="accordion" id="accordionExample">
+                <!-- Dagligdagen -->
+                <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                    <h2 class="accordion-header">
+                        <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#dagligdagen"
+                                aria-expanded="false"
+                                aria-controls="dagligdagen">
+                            Dagligdagen
+                        </button>
+                    </h2>
+                    <div id="dagligdagen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body bg-light-green inter accordion-body-text">
+                            <p class="mb-0">
+                                Vedelsbo er et bofællesskab, hvor dagligdagen bygger på gensidig respekt og hensyn
+                                mellem beboerne.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Alkohol og rygning -->
+                <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                    <h2 class="accordion-header">
+                        <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#alkohol-rygning"
+                                aria-expanded="false"
+                                aria-controls="alkohol-rygning">
+                            Alkohol og rygning
+                        </button>
+                    </h2>
+                    <div id="alkohol-rygning" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body bg-light-green inter accordion-body-text">
+                            <p class="mb-0">
+                                Der arbejdes med en fast alkohol- og rygepolitik med individuelle aftaler hvor relevant.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Beboermøder -->
+                <div class="accordion-item mb-0 border-0 overflow-hidden bg-light-green rounded-5">
+                    <h2 class="accordion-header">
+                        <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#beboermoder"
+                                aria-expanded="false"
+                                aria-controls="beboermoder">
+                            Beboermøder
+                        </button>
+                    </h2>
+                    <div id="beboermoder" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body bg-light-green inter accordion-body-text">
+                            <p class="mb-0">
+                                Beboermøder og beboerråd sikrer medindflydelse på hverdagen og fælles aktiviteter.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!--SMALL SCREEN, WAVE-->
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
+<div aria-hidden="true" class="green-wavywave-frontpage d-block d-md-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--MEDIUM SCREEN, WAVE-->
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block bg-light-brown">
-    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block d-lg-none bg-light-brown">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid p-0 m-0" alt="">
+</div>
+
+<!--LARGE SCREEN, WAVE-->
+<!--off-white normal wave-->
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-lg-block bg-background">
+    <img src="waves-desktop/off-white-normal-wave.png" class="waves img-fluid p-0 m-0" alt="">
 </div>
 
 <!--SMALL SCREEN, HENSYN OG REGLER CONTENT-->
@@ -472,7 +691,7 @@
 
 <!--MEDIUM SCREEN, HENSYN OG REGLER CONTENT-->
 <!--hensyn og regler-->
-<div class="pb-2 bg-light-brown pt-5 hensyn-og-regler-section d-none d-md-block" id="nav-hensynogregler">
+<div class="pb-2 bg-light-brown pt-5 hensyn-og-regler-section d-none d-md-block d-lg-none" id="nav-hensynogregler">
     <div class="container bg-light-brown d-flex justify-content-center align-items-center my-3">
         <div class="row justify-content-center px-1">
             <div class="col-12 col-lg-8">
@@ -569,7 +788,7 @@
 
 <!--MEDIUM SCREEN, WAVE-->
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block d-lg-none">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -615,7 +834,7 @@
 
 <!--MEDIUM SCREEN, KONTAKT CONTENT-->
 <!--Kontakt-->
-<div class="container d-flex justify-content-center align-items-center d-none d-md-block" id="nav-kontakt">
+<div class="container d-flex justify-content-center align-items-center d-none d-md-block d-lg-none" id="nav-kontakt">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center pt-3">
@@ -654,6 +873,49 @@
                             src="/images/maps_placeholder.png"
                             alt="maps placeholder"
                             class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--LARGE SCREEN, KONTAKT CONTENT-->
+<!--Kontakt-->
+<div class="container d-flex justify-content-center align-items-center d-none d-lg-block" id="nav-kontakt">
+    <div class="row justify-content-center px-1">
+        <div class="col-12 col-lg-8">
+            <div class="text-center pt-5 pb-4">
+                <strong class="allura d-block header-text-allura-underpage header-text-allura-underpage-line-height fw-normal pb-2">
+                    Kontakt
+                </strong>
+            </div>
+            <!--TEKST-->
+            <div class="row align-items-start g-5">
+                <div class="col-md-6">
+                    <p class="font-sixteen inter fw-bold px-3 mb-4">
+                        Socialpsykiatriske botilbud Vedelsbo ApS
+                    </p>
+                    <p class="font-sixteen inter px-3 mb-3">
+                        <b>CVR:</b> 37634557
+                    </p>
+                    <p class="font-sixteen inter px-3 mb-3">
+                        <span class="fw-bold">Adresse:</span>
+                        Gadevang 23, 4700 Næstved
+                    </p>
+                    <p class="font-sixteen inter px-3 mb-3">
+                        <span class="fw-bold">Tlf.:</span>
+                        55 70 00 11
+                    </p>
+                    <p class="font-sixteen inter px-3 mb-0">
+                        <span class="fw-bold">E-mail:</span>
+                        lrh@vedelsbo.dk
+                    </p>
+                </div>
+                <!--BILLEDE / MAPS-->
+                <div class="col-md-6 text-center">
+                    <img src="/images/maps_placeholder.png"
+                         alt="maps placeholder"
+                         class="img-fluid rounded-4 shadow-sm">
                 </div>
             </div>
         </div>
