@@ -43,9 +43,15 @@
 
     </div>
 </div>
-<!--green normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+
+<!--green normal wave MOBIL-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none">
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid p-0 m-0" alt="">
+</div>
+
+<!--green normal wave Tablet-->
+<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
@@ -77,7 +83,7 @@
 </div>
 
 <!--wave shape - TABLET-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -140px">
+<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -85px">
     <img src="header-shapes/dark-brown-email.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
@@ -119,14 +125,20 @@
     </div>
 </div>
 
+
+<!--SMALL SCREEN, WAVE-->
 <!--beige normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
+<!--MEDIUM SCREEN, WAVE-->
+<!--beige normal wave-->
+<div aria-hidden="true" class="mt-0 green-wavywave-frontpage bg-light-brown d-none d-md-block ">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
+</div>
 
-
-<!--read too section-->
+<!--read too section MOBIL-->
 <div class="container d-flex d-md-none justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
 
     <div class="row justify-content-center text-center">
@@ -174,9 +186,9 @@
 </div>
 
 <!--read too section tablet-->
-<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-5 read-to-section">
+<div class="container-fluid d-none d-md-flex justify-content-center align-items-center bg-light-brown pt-2 ">
 
-    <div class="row justify-content-center text-center mt-5">
+    <div class="row justify-content-center text-center mt-2">
 
         <div class="col-12 mb-4 mt-3">
             <strong class="cormorant d-block read-to-header">
@@ -220,10 +232,16 @@
 
 </div>
 
-
-<!--bottom wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green">
+<!--SMALL SCREEN, WAVE-->
+<!--bottom-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--MEDIUM SCREEN, WAVE-->
+<!--Wave-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block bg-dark-green">
+    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <?php include 'includes/footer.php'; ?>
