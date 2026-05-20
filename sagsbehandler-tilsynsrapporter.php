@@ -664,7 +664,7 @@
 </div>
 
 <!--read too section - TABLET-->
-<div class="container-fluid mt-0 d-none d-lg-none d-md-flex justify-content-center align-items-center bg-light-brown ">
+<div class="container-fluid mt-0 d-none d-lg-none d-md-block d-md-flex justify-content-center align-items-center bg-light-brown ">
 
     <div class="row justify-content-center text-center mt-2">
 
@@ -712,14 +712,14 @@
 
 <!--MEDIUM SCREEN, WAVE-->
 <!--Wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-lg-none d-md-block bg-dark-green">
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-lg-none d-md-block bg-dark-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
 <!--DESKTOP IMAGEs SECTION-->
 <!--DESKTOP SCREEN beige normal wave-->
-<div aria-hidden="true" class="mt-0 green-wavywave-frontpage d-none d-md-block ">
+<div aria-hidden="true" class="mt-0 green-wavywave-frontpage d-none d-md-none d-lg-block">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
 </div>
 
@@ -734,7 +734,7 @@
 
 <!--DESKTOP BUTTOM SECTION-->
 <!--DESKTOP SCREEN beige normal wave-->
-<div aria-hidden="true" class="mt-0 green-wavywave-frontpage bg-light-brown d-none d-md-block bg-light-brown">
+<div aria-hidden="true" class="mt-0 green-wavywave-frontpage bg-light-brown d-none d-md-none d-lg-block bg-light-brown">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  pt-0 m-0" alt="">
 </div>
 
