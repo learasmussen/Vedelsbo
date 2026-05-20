@@ -464,7 +464,7 @@
                 AKTIVITETER
             </strong>
 
-            <p class="inter px-0 mx-0 mb-3 font-eightteen">
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
                 På Vedelsbo er aktiviteter en vigtig del af hverdagen og understøtter både trivsel, fællesskab og personlig udvikling. Beboerne kan deltage i kreative værksteder, natur- og dyrehold, motion, bålhygge og fælles udflugter i rolige og trygge rammer.
             </p>
 
@@ -495,7 +495,7 @@
                 FRITID
             </strong>
 
-            <p class="inter px-0 mx-0 mb-3 font-eightteen">
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
                 Vi støtter beboerne i at skabe en meningsfuld fritid med plads til både interesser, afslapning og sociale oplevelser. Der er blandt andet mulighed for både kreative aktiviteter, gåture, sociale arrangementer, biografture og rolige stunder, hvor fællesskab og trivsel er i fokus.
             </p>
 
@@ -535,7 +535,7 @@
                 ÅRETS GANG
             </strong>
 
-            <p class="inter px-0 mx-0 mb-3 font-eightteen">
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
                 Årets gang på Vedelsbo er præget af traditioner, fællesskab og hyggelige oplevelser. Vi afholder blandt andet sommerfest, julearrangementer, ture og sociale aktiviteter, hvor beboerne har medindflydelse og mulighed for at skabe gode minder sammen.
             </p>
 
@@ -566,7 +566,7 @@
                 MÅLTIDER
             </strong>
 
-            <p class="inter px-0 mx-0 mb-3 font-eightteen">
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
                 På Vedelsbo lægger vi vægt på sund, varieret og hjemmelavet mad, hvor måltiderne også fungerer som et socialt samlingspunkt. Her er der plads til nærvær, dialog og fællesskab i rolige og hyggelige omgivelser.
             </p>
 
