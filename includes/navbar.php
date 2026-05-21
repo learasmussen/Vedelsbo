@@ -117,7 +117,7 @@
                         <ul class="list-unstyled ms-3">
                             <li><a href="/om-vedelsbo.php#nav-beskrivelse" class="inter text-off-black font-fourteen">Beskrivelse</a></li>
                             <li><a href="/om-vedelsbo.php#nav-hensynogregler" class="inter text-off-black font-fourteen">Hensyn og regler</a></li>
-                            <li><a href="/om-vedelsbo.php#nav-kontakt" class="inter text-off-black font-fourteen">Kontakt</a></li>
+                            <li><a href="/om-vedelsbo.php#nav-kontakt-sm" class="inter text-off-black font-fourteen">Kontakt</a></li>
                             <li><a href="/vedelsbo-personale.php" class="inter text-off-black font-fourteen">Personale</a></li>
                         </ul>
                     </li>
@@ -139,26 +139,26 @@
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black font-fourteen">Borger</a>
+                <a href="/borger-forside.php" class="inter text-off-black font-fourteen">Borger</a>
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black font-fourteen">Sagsbehandler</a>
+                <a href="/sagsbehandler-forside.php" class="inter text-off-black font-fourteen">Sagsbehandler</a>
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black font-fourteen">Arbejdsmetoder</a>
+                <a href="/arbejdsmetoder-forside.php" class="inter text-off-black font-fourteen">Arbejdsmetoder</a>
             </div>
 
             <div class="col-auto">
-                <a href="#" class="inter text-off-black font-fourteen">Om Vedelsbo</a>
+                <a href="/om-vedelsbo.php" class="inter text-off-black font-fourteen">Om Vedelsbo</a>
             </div>
 
             <div class="col-auto">
-                <button type="button"
+                <a href="/om-vedelsbo.php#nav-kontakt-lg" type="button"
                         class="btn rounded-pill bg-dark-green inter px-4 text-off-white font-fourteen">
                     Kontakt os
-                </button>
+                </a>
             </div>
 
         </div>
