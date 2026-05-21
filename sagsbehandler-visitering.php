@@ -145,7 +145,7 @@
 </div>
 
 <!--bottom wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-md-none d-lg-none">
+<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green d-md-none d-lg-none">
     <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 

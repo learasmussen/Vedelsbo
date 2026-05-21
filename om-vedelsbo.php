@@ -363,7 +363,7 @@
 </div>
 
 <!--bottom-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
+<div aria-hidden="true" class=" green-wavywave-frontpage bg-dark-green d-block d-md-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
