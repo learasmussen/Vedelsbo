@@ -22,7 +22,8 @@
 
 <?php include 'includes/navbar.php'; ?>
 
-<!--SMALL SCREEN, HEADER INFO-->
+<!--LILLE SKÆRM (TELEFON)-->
+
 <!--top wave-->
 <div aria-hidden="true" class="d-block d-md-none">
     <img src="waves-phone/navwave.png" class="waves position-relative w-100" alt="">
@@ -67,96 +68,6 @@
          style="width: 140px">
 </div>
 
-<!--MEDIUM SCREEN, HEADER INFO-->
-<!--top-wave-->
-<div aria-hidden="true" class="d-none d-md-block d-lg-none">
-    <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
-</div>
-
-<!--image header-->
-<div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers.JPG" alt="header-image" class="img-fluid header-image-borger">
-</div>
-
-<!--green big wave-->
-<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage" style="margin-top: -275px">
-    <img src="waves-tablet/green-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--wave shape-->
-<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
-    <img src="header-shapes/light-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
-         style="width: 180px">
-</div>
-
-<!--top-info-->
-<div class="container-fluid d-none d-md-block d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
-     style="margin-top: 110px">
-
-    <div class="row d-md-flex justify-content-center align-items-center">
-        <div class="col-10 mt-0">
-            <h1 class="cormorant  fw-bold header-text-cormorant text-center">Vedelsbos personale</h1>
-        </div>
-        <div class="col-10 mb-3">
-            <div class="font-twelve font-sixteen px-5 inter  text-center">Her kan du møde det personale, der til dagligt
-                arbejder på Vedelsbo. Derudover kan du læse mere om
-                hvordan vi prioriterer arbejdsmiljø, normering, uddannelse og møder.
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<!--green normal wave-->
-<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage">
-    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--LARGE SCREEN, HEADER INFO-->
-<!--top-wave-->
-<div aria-hidden="true" class="d-none d-lg-block">
-    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
-</div>
-
-<!--image header-->
-<div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers_large.JPG"
-         alt="header-image" class="img-fluid header-image-borger">
-</div>
-
-<!--beige wave upside down-->
-<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
-    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--dekration shape-->
-<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
-    <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
-</div>
-
-<!--top-info-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-beige ps-4 pt-md-0 ps-md-0 pb-md-2">
-
-    <div class="row justify-content-center align-items-center">
-        <div class="col-10 mt-0">
-            <h1 class="cormorant fw-bold header-text-cormorant text-center">Vedelsbos personale</h1>
-        </div>
-        <div class="col-10 mb-3">
-            <div class="font-twelve font-sixteen px-5 inter  text-center">Her kan du møde det personale, der til dagligt
-                arbejder på Vedelsbo. Derudover kan du læse mere om
-                hvordan vi prioriterer arbejdsmiljø, normering, uddannelse og møder.
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<!--beige normal wave-->
-<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage">
-    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--SMALL SCREEN, CONTENT-->
 <!--ledelsen header-->
 <div class="container d-flex justify-content-center align-items-center mt-3 d-md-none">
     <div class="row justify-content-center px-1">
@@ -388,494 +299,11 @@
     </div>
 </div>
 
-<!--MEDIUM SCREEN, CONTENT-->
-<!--ledelsen header-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
-    <div class="row justify-content-center px-1">
-        <div class="col-12 col-lg-8">
-            <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
-                    Ledelsen
-                </strong>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--ledelsen body-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
-    <div class="row justify-content-center px-1 w-100">
-        <!-- Lonnie -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Lonnie
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Daglig leder & stifter
-                </p>
-            </div>
-        </div>
-
-        <!-- Søren -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Søren
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Daglig leder & stifter
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--personale header-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
-    <div class="row justify-content-center px-1">
-        <div class="col-12 col-lg-8">
-            <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
-                    Personale
-                </strong>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--personale body-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
-    <div class="row justify-content-center px-1 w-100">
-        <!-- Thania -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Thania
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Lis -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Lis
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Rene -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Rene
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Kamilla -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Kamilla
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Sille -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Sille
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Charlotte -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Charlotte
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--vikarer header-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
-    <div class="row justify-content-center px-1">
-        <div class="col-12 col-lg-8">
-            <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
-                    Vikarer
-                </strong>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--virkarer body-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
-    <div class="row justify-content-center px-1 w-100">
-
-        <!-- Hanne -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Hanne
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Lisanne -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Lisanne
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Pia -->
-        <div class="col-6 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Pia
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--LARGE SCREEN, CONTENT-->
-<!--ledelsen header-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
-    <div class="row justify-content-center px-1">
-        <div class="col-12 col-lg-8">
-            <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
-                    Ledelsen
-                </strong>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--ledelsen body-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
-    <div class="row justify-content-center px-1 w-100">
-
-        <!-- Lonnie -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Lonnie
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Daglig leder & stifter
-                </p>
-            </div>
-        </div>
-
-        <!-- Søren -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Søren
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Daglig leder & stifter
-                </p>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<!--personale header-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
-    <div class="row justify-content-center px-1">
-        <div class="col-12 col-lg-8">
-            <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-5">
-                    Personale
-                </strong>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--personale body-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
-    <div class="row justify-content-center px-1 w-100">
-
-        <!-- Thania -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Thania
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Lis -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Lis
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Rene -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Rene
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Kamilla -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Kamilla
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Sille -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Sille
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Charlotte -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Charlotte
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<!--vikarer header-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
-    <div class="row justify-content-center px-1">
-        <div class="col-12 col-lg-8">
-            <div class="text-center">
-                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-5">
-                    Vikarer
-                </strong>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--vikarer body-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
-    <div class="row justify-content-center px-1 w-100">
-
-        <!-- Hanne -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Hanne
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Lisanne -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Lisanne
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-        <!-- Pia -->
-        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
-            <div class="d-flex flex-column align-items-start">
-                <img src="shapes/light-green-shape-user.png"
-                     class="mb-1"
-                     alt="shape"
-                     style="width: 180px">
-                <strong class="inter font-sixteen fw-bold mb-0">
-                    Pia
-                </strong>
-                <p class="inter font-twelve mb-0">
-                    Stilling
-                </p>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<!--SMALL SCREEN, WAVE-->
 <!--beige normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
     <img src="waves-phone/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--MEDIUM SCREEN, WAVE-->
-<!--beige normal wave-->
-<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block d-lg-none bg-sage-green">
-    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--LARGE SCREEN, WAVE-->
-<!--beige normal wave-->
-<div aria-hidden="true" class="green-wavywave-frontpage d-none d-lg-block bg-sage-green">
-    <img src="waves-desktop/off-white-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--ACCORDIONS TO SMALL SCREEN-->
 <!--accordions: arbejdsmiljø, normering, uddannelse...-->
 <div class="bg-sage-green pt-5 hensyn-og-regler-section d-block d-md-none">
 
@@ -1041,8 +469,297 @@
     </div>
 </div>
 
-<!--ACCORDIONS TO MEDIUM SCREEN-->
-<!--accordions-->
+<!--SMALL SCREEN, bottom wave-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
+    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
+
+
+<!--MELLEM SKÆRM (TABLET)-->
+
+<!--top-wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block d-lg-none">
+    <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header - TABLET-->
+<div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers.JPG" alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--green big wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage" style="margin-top: -275px">
+    <img src="waves-tablet/green-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--wave shape - TABLET-->
+<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
+    <img src="header-shapes/light-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 180px">
+</div>
+
+<!--top-info - TABLET-->
+<div class="container-fluid d-none d-md-block d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
+     style="margin-top: 110px">
+
+    <div class="row d-md-flex justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant  fw-bold header-text-cormorant text-center">Vedelsbos personale</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center">Her kan du møde det personale, der til dagligt
+                arbejder på Vedelsbo. Derudover kan du læse mere om
+                hvordan vi prioriterer arbejdsmiljø, normering, uddannelse og møder.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--green normal wave - TABLET-->
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--ledelsen header - TABLET-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
+    <div class="row justify-content-center px-1">
+        <div class="col-12 col-lg-8">
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Ledelsen
+                </strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--ledelsen body - TABLET-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
+    <div class="row justify-content-center px-1 w-100">
+        <!-- Lonnie -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Lonnie
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Daglig leder & stifter
+                </p>
+            </div>
+        </div>
+
+        <!-- Søren -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Søren
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Daglig leder & stifter
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--personale header - TABLET-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
+    <div class="row justify-content-center px-1">
+        <div class="col-12 col-lg-8">
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Personale
+                </strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--personale body - TABLET-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
+    <div class="row justify-content-center px-1 w-100">
+        <!-- Thania -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Thania
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Lis -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Lis
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Rene -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Rene
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Kamilla -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Kamilla
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Sille -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Sille
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Charlotte -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Charlotte
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--vikarer header - TABLET-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
+    <div class="row justify-content-center px-1">
+        <div class="col-12 col-lg-8">
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Vikarer
+                </strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--virkarer body - TABLET-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none">
+    <div class="row justify-content-center px-1 w-100">
+
+        <!-- Hanne -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Hanne
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Lisanne -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Lisanne
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Pia -->
+        <div class="col-6 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Pia
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--beige normal wave - TABLET-->
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block d-lg-none bg-sage-green">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--accordions - TABLET-->
 <div class="bg-sage-green pt-5 hensyn-og-regler-section d-none d-md-block d-lg-none">
     <div class="accordion pt-4 pb-4 px-5" id="accordionExample">
         <div class="row g-3">
@@ -1191,7 +908,301 @@
     </div>
 </div>
 
-<!--Fagligt fælledsskab + accordions-->
+<!--bottom wave - TABLET-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block d-lg-none bg-dark-green">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
+
+
+<!--STOR SKÆRM (DESKTOP)-->
+
+<!--top-wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block">
+    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header - DESKTOP-->
+<div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers_large.JPG"
+         alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--beige wave upside down - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
+    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--dekration shape - DESKTOP-->
+<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
+    <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+</div>
+
+<!--top-info - DESKTOP-->
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-beige ps-4 pt-md-0 ps-md-0 pb-md-2">
+
+    <div class="row justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant fw-bold header-text-cormorant text-center">Vedelsbos personale</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center">Her kan du møde det personale, der til dagligt
+                arbejder på Vedelsbo. Derudover kan du læse mere om
+                hvordan vi prioriterer arbejdsmiljø, normering, uddannelse og møder.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--ledelsen header - DESKTOP-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
+    <div class="row justify-content-center px-1">
+        <div class="col-12 col-lg-8">
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Ledelsen
+                </strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--ledelsen body - DESKTOP-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
+    <div class="row justify-content-center px-1 w-100">
+
+        <!-- Lonnie -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Lonnie
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Daglig leder & stifter
+                </p>
+            </div>
+        </div>
+
+        <!-- Søren -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Søren
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Daglig leder & stifter
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--personale header - DESKTOP-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
+    <div class="row justify-content-center px-1">
+        <div class="col-12 col-lg-8">
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-5">
+                    Personale
+                </strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--personale body - DESKTOP-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
+    <div class="row justify-content-center px-1 w-100">
+
+        <!-- Thania -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Thania
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Lis -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Lis
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Rene -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Rene
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Kamilla -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Kamilla
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Sille -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Sille
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Charlotte -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Charlotte
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--vikarer header - DESKTOP-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
+    <div class="row justify-content-center px-1">
+        <div class="col-12 col-lg-8">
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-5">
+                    Vikarer
+                </strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--vikarer body - DESKTOP-->
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-lg-block">
+    <div class="row justify-content-center px-1 w-100">
+
+        <!-- Hanne -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Hanne
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Lisanne -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Lisanne
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+        <!-- Pia -->
+        <div class="col-6 col-lg-4 d-flex justify-content-center mb-4">
+            <div class="d-flex flex-column align-items-start">
+                <img src="shapes/light-green-shape-user.png"
+                     class="mb-1"
+                     alt="shape"
+                     style="width: 180px">
+                <strong class="inter font-sixteen fw-bold mb-0">
+                    Pia
+                </strong>
+                <p class="inter font-twelve mb-0">
+                    Stilling
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-lg-block bg-sage-green">
+    <img src="waves-desktop/off-white-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--Fagligt fælledsskab + accordions - DESKTOP-->
 <div class="bg-sage-green pt-5 px-5 d-none d-lg-block">
     <div class="container">
         <div class="row g-2 align-items-center">
@@ -1335,17 +1346,7 @@
     </div>
 </div>
 
-<!--SMALL SCREEN, bottom wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-block d-md-none">
-    <img src="waves-phone/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--MEDIUM SCREEN, bottom wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block d-lg-none bg-dark-green">
-    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
-</div>
-
-<!--LARGE SCREEN, bottom wave-->
+<!--bottom wave - DESKTOP-->
 <div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage bg-dark-green">
     <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid p-0 m-0" alt="">
 </div>
