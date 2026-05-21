@@ -226,7 +226,49 @@
                 arbejdsmetoder vi anvender på Vedelsbo.
             </div>
         </div>
+    </div>
 
+    <!-- CTA -->
+    <div class="p-0 m-0 pt-3 d-none d-lg-block">
+        <div class="container">
+            <div class="row justify-content-center g-3">
+                <div class="col-auto">
+                    <a href="#terapi"
+                       class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
+                       style="width: 150px; height: 38px;">
+                        Terapi
+                    </a>
+                </div>
+                <div class="col-auto">
+                    <a href="#kontaktperson"
+                       class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
+                       style="width: 150px; height: 38px;">
+                        Kontaktperson
+                    </a>
+                </div>
+                <div class="col-auto">
+                    <a href="#maalsaetning"
+                       class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
+                       style="width: 150px; height: 38px;">
+                        Målsætning
+                    </a>
+                </div>
+                <div class="col-auto">
+                    <a href="#miljoterapi"
+                       class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
+                       style="width: 150px; height: 38px;">
+                        Miljøterapi
+                    </a>
+                </div>
+                <div class="col-auto">
+                    <a href="#coaching"
+                       class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
+                       style="width: 150px; height: 38px;">
+                        Coaching
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
