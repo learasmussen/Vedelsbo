@@ -324,7 +324,7 @@
 </div>
 
 <!--kontakt-->
-<div class="container d-flex justify-content-center align-items-center d-block d-md-none" id="nav-kontakt">
+<div class="container d-flex justify-content-center align-items-center d-block d-md-none" id="nav-kontakt-sm">
 
     <div class="row justify-content-center px-1">
 
@@ -613,7 +613,7 @@
 </div>
 
 <!--Kontakt - TABLET-->
-<div class="container d-flex justify-content-center align-items-center d-none d-md-block d-lg-none" id="nav-kontakt">
+<div class="container d-flex justify-content-center align-items-center d-none d-md-block d-lg-none" id="nav-kontakt-md">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center pt-3">
@@ -883,7 +883,7 @@
 </div>
 
 <!--Kontakt - DESKTOP-->
-<div class="container d-flex justify-content-center align-items-center d-none d-lg-block" id="nav-kontakt">
+<div class="container d-flex justify-content-center align-items-center d-none d-lg-block" id="nav-kontakt-lg">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8 pb-2">
             <div class="text-center pt-5 pb-4">
