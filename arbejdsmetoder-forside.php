@@ -107,28 +107,28 @@
 
 <!--MEDIUM SCREEN, HEADER INFO-->
 <!--top-wave-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100 d-none d-md-block" alt="">
 </div>
 
 <!--image header-->
-<div class="container-fluid d-none d-md-block p-0 position-relative" style="z-index: -1000">
+<div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
     <img src="images/personale_flowers.JPG" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage" style="margin-top: -275px">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage" style="margin-top: -275px">
     <img src="waves-tablet/green-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
     <img src="header-shapes/light-brown-jigsaw.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
          style="width: 180px">
 </div>
 
 <!--top-info-->
-<div class="container-fluid d-none d-md-block justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
+<div class="container-fluid d-none d-md-block d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
      style="margin-top: 110px">
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -143,7 +143,7 @@
 </div>
 
 <!--CTA i header-->
-<div class="bg-sage-green p-0 m-0 align-items-center justify-content-center d-none d-md-block">
+<div class="bg-sage-green p-0 m-0 align-items-center justify-content-center d-none d-md-block d-lg-none">
     <div class="row g-1 justify-content-center">
         <div class="col-auto d-flex justify-content-center mb-3 pe-3">
             <a href="#terapi"
@@ -191,9 +191,53 @@
     </div>
 </div>
 
+<!--LARGE SCREEN, HEADER-->
+<!--top-wave-->
+<div aria-hidden="true" class="d-none d-lg-block">
+    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header-->
+<div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers_large.JPG"
+         alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--beige wave upside down-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
+    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--dekration shape-->
+<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
+    <img src="header-shapes/light-brown-jigsaw.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 200px">
+</div>
+
+<!--top-info-->
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-beige ps-4 pt-md-0 ps-md-0 pb-md-2">
+
+    <div class="row justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant fw-bold header-text-cormorant text-center">Arbejdsmetoder</h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center">Her kan du læse alt om de
+                arbejdsmetoder vi anvender på Vedelsbo.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage bg-off-white">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
 <!--MEDIUM SCREEN, WAVE-->
 <!--green normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block d-lg-none">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -275,7 +319,7 @@
 
 <!--MEDIUM SCREEN, TERAPI CONTENT-->
 <!--Terapi-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block" id="terapi">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none" id="terapi">
 
     <div class="row justify-content-center px-1">
 
@@ -342,12 +386,77 @@
     </div>
 </div>
 
-<!--beige normal wave-->
-<div aria-hidden="true" class="green-wavywave-frontpage bg-light-brown d-none d-md-block">
-    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+<!--LARGE SCREEN, TERAPI CONTENT-->
+<!--Terapi-->
+<div class="bg-off-white d-none d-lg-block" id="terapi">
+    <div class="container px-lg-5">
+        <!--overskrift-->
+        <div class="text-center pb-4" id="nav-terapi">
+            <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-3">
+                Terapi
+            </strong>
+        </div>
+        <div class="row g-5 align-items-start">
+            <!--KOLONNE 1-->
+            <div class="col-lg-6">
+                <strong class="inter fw-bold font-sixteen d-block mb-2">
+                    Kognitiv adfærdsterapi
+                </strong>
+                <p class="inter font-sixteen mb-3">
+                    Personalet uddannes i kognitiv miljøterapi, henholdsvis basisuddannelsen og den videregående
+                    uddannelse.
+                </p>
+                <p class="inter font-sixteen mb-3">
+                    I dagligdagen tilstræbes at arbejde med kognitive redskaber i samarbejde med den enkelte beboer,
+                    hvor
+                    der tages udgangspunkt i beboerens ønsker og funktionsniveau.
+                </p>
+                <p class="inter font-sixteen mb-3">
+                    Formålet med kognitiv miljøterapi er at støtte den enkelte beboer i at arbejde med at ændre adfærd,
+                    tanker og følelser og finde en mere hensigtsmæssig tilgang til hverdagen.
+                </p>
+                <p class="inter font-sixteen mb-0">
+                    Vi arbejder med at hjælpe beboerne med at identificere problemer og sætte realistiske mål.
+                </p>
+            </div>
+
+            <!--KOLONNE 2-->
+            <div class="col-lg-6">
+                <p class="inter fw-bold font-sixteen mb-2">
+                    De centrale metoder i kognitiv adfærdsterapi er:
+                </p>
+                <ul class="mb-3">
+                    <li class="inter font-sixteen mb-2">
+                        At hjælpe beboeren med at handle aktivt og udsætte sig selv for livssituationer.
+                    </li>
+                    <li class="inter font-sixteen mb-2">
+                        At hindre uhensigtsmæssige reaktioner i at finde sted.
+                    </li>
+                    <li class="inter font-sixteen mb-3">
+                        At ændre negative tankeprocesser til konstruktive gennem dialog og tankeeksperimenter.
+                    </li>
+                </ul>
+                <p class="inter font-sixteen mb-3">
+                    Sokratisk dialog anvendes til at støtte beboeren i at finde egne løsninger gennem åbne spørgsmål og
+                    refleksion.
+                </p>
+                <p class="inter font-sixteen mb-3">
+                    Der følges løbende op og evalueres ved målrettede samtaler.
+                </p>
+                <p class="inter font-sixteen mb-0">
+                    Beboeren undervises efter behov i den kognitive referenceramme for at styrke forståelsen af metoden.
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
 
-<!--SMALL SCREEN, OTERS-->
+<!--beige normal wave-->
+<div aria-hidden="true" class="green-wavywave-frontpage bg-light-brown d-none d-md-block">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--SMALL SCREEN, OTHERS TREATMENTS-->
 <!--andre behandlingsmetoder-->
 <div class="container bg-light-brown d-flex justify-content-center align-items-center pt-5 read-to-section d-block d-md-none">
 
@@ -376,7 +485,7 @@
 
 <!--MEDIUM SCREEN, OTHER TREATMENTS-->
 <!--andre behandlingsmetoder-->
-<div class="bg-light-brown justify-content-center align-items-center d-none d-md-block">
+<div class="bg-light-brown justify-content-center align-items-center d-none d-md-block d-lg-none">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center">
@@ -395,9 +504,30 @@
     </div>
 </div>
 
+<!--LARGE SCREEN, OTHER TREATMENTS-->
+<!--andre behandlingsmetoder-->
+<div class="bg-light-brown justify-content-center align-items-center d-none d-lg-block">
+    <div class="row justify-content-center px-1">
+        <div class="col">
+            <div class="text-center">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pt-4">
+                    Andre behandlingsmetoder
+                </strong>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-10 col-md-6 col-lg-5">
+                    <p class="inter font-sixteen mb-0 text-center pb-2">
+                        Der tilbydes også: NADA, terapeutisk massage, psykoedukation, mindfullness og Zoneterpi.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!--light brown normal wave-->
 <div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block">
-    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--SMALL SCREEN, KONTAKTPERSON-->
@@ -614,7 +744,8 @@
 
 <!--MEDIUM SCREEN, KONTAKTPERSON-->
 <!--kontaktperson-->
-<div class="container d-flex justify-content-center align-items-center my-3 d-none d-md-block" id="kontaktperson">
+<div class="container d-flex justify-content-center align-items-center my-3 d-none d-md-block d-lg-none"
+     id="kontaktperson">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center" id="nav-kontaktperson">
@@ -642,7 +773,7 @@
 </div>
 
 <!--Accordions-->
-<div class="hensyn-og-regler-section d-none d-md-block">
+<div class="hensyn-og-regler-section d-none d-md-block d-lg-none">
     <div class="accordion pt-4 px-5" id="accordionExample">
         <div class="row g-3">
             <!-- 1 -->
@@ -765,7 +896,165 @@
 </div>
 
 <!--beige normal wave-->
-<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block">
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block d-lg-none">
+    <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!-- LARGE SCREEN, KONTAKTPERSON + BILLEDE + ACCORDIONS -->
+<div class="container d-none d-lg-block pt-3 px-5" id="kontaktperson">
+    <!-- ØVERSTE RÆKKE -->
+    <div class="row g-5 align-items-center mb-5">
+        <!-- VENSTRE: TEKST -->
+        <div class="col-lg-6">
+            <div class="text-center text-lg-start mb-3" id="nav-kontaktperson">
+                <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                    Kontaktperson
+                </strong>
+            </div>
+            <p class="inter font-sixteen mb-3">
+                Beboerne støttes i hverdagen gennem et fast kontaktpersonsystem,
+                som udgør rammen for den individuelle indsats.
+                Hver beboer tilknyttes en første og en anden kontaktperson.
+            </p>
+            <p class="inter font-sixteen mb-3">
+                Disse samarbejder tæt om den samlede indsats for den enkelte beboer,
+                herunder opfølgning på mål, daglig støtte
+                og koordinering af indsatser.
+            </p>
+            <p class="inter font-sixteen mb-0">
+                Den daglige leder varetager den overordnede faglige ledelse
+                og sikrer sammenhæng mellem indsatser.
+            </p>
+        </div>
+        <!-- HØJRE: BILLEDE -->
+        <div class="col-lg-6">
+            <img src="images/round_placeholder.png"
+                 alt="placeholder"
+                 class="img-fluid">
+        </div>
+    </div>
+    <!-- NEDERSTE RÆKKE -->
+    <div class="row justify-content-center">
+        <!-- CENTERET KOLONNE -->
+        <div class="col-lg-10">
+            <div class="accordion" id="accordionExample">
+                <!-- ACCORDIONS I 2 KOLONNER -->
+                <div class="row g-4">
+                    <!-- VENSTRE KOLONNE -->
+                    <div class="col-lg-6">
+                        <!-- 1 -->
+                        <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                            <h2 class="accordion-header">
+                                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#individuel-suport">
+                                    Individuel støtte i hverdagen
+                                </button>
+                            </h2>
+                            <div id="individuel-suport"
+                                 class="accordion-collapse collapse"
+                                 data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light-green inter">
+                                    <p class="mb-0">
+                                        Beboeren kan modtage støtte i daglige gøremål og personlig pleje.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 2 -->
+                        <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                            <h2 class="accordion-header">
+                                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#handleplan">
+                                    Handleplan og målarbejde
+                                </button>
+                            </h2>
+                            <div id="handleplan"
+                                 class="accordion-collapse collapse"
+                                 data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light-green inter">
+                                    <p class="mb-0">
+                                        Der udarbejdes handleplaner i samarbejde mellem beboer og kontaktperson.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 3 -->
+                        <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                            <h2 class="accordion-header">
+                                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#samtaler">
+                                    Samtaler og opfølgning
+                                </button>
+                            </h2>
+                            <div id="samtaler"
+                                 class="accordion-collapse collapse"
+                                 data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light-green inter">
+                                    <p class="mb-0">
+                                        Der tilbydes løbende samtaler og opfølgning på mål og trivsel.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- HØJRE KOLONNE -->
+                    <div class="col-lg-6">
+                        <!-- 4 -->
+                        <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                            <h2 class="accordion-header">
+                                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#aktiviteter-deltagelse">
+                                    Aktiviteter og deltagelse
+                                </button>
+                            </h2>
+                            <div id="aktiviteter-deltagelse"
+                                 class="accordion-collapse collapse"
+                                 data-bs-parent="#accordionExample">
+
+                                <div class="accordion-body bg-light-green inter">
+                                    <p class="mb-0">
+                                        Kontaktpersonerne understøtter deltagelse i fællesskabet.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 5 -->
+                        <div class="accordion-item border-0 overflow-hidden bg-light-green rounded-5">
+                            <h2 class="accordion-header">
+                                <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#struktur-hverdagsmestring">
+                                    Struktur og hverdagsmestring
+                                </button>
+                            </h2>
+                            <div id="struktur-hverdagsmestring"
+                                 class="accordion-collapse collapse"
+                                 data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light-green inter">
+                                    <p class="mb-0">
+                                        Der arbejdes med struktur, rutiner og mestring i hverdagen.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--beige normal wave-->
+<div aria-hidden="true" class="green-wavywave-frontpage bg-sage-green d-none d-lg-block">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -841,7 +1130,7 @@
 
 <!--MEDIUM SCREEN, MÅLSÆTNING CONTENT-->
 <!--målsætning-->
-<div class="bg-sage-green justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder d-none d-md-block"
+<div class="bg-sage-green justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder d-none d-md-block d-lg-none"
      id="maalsaetning">
     <div class="container">
         <div class="row justify-content-center">
@@ -898,7 +1187,67 @@
 </div>
 
 <!--green normal wave-->
-<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block bg-light-brown">
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-md-block d-lg-none bg-light-brown">
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--LARGE SCREEN, MÅLSÆTNING CONTENT-->
+<div class="bg-sage-green pt-5 maalsaetning-arbejdsmetoder d-none d-lg-block" id="maalsaetning">
+    <div class="container">
+        <!--FÆLLES OVERSKRIFT-->
+        <div class="text-center mb-4">
+            <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 pt-3">
+                Målsætning
+            </strong>
+        </div>
+        <!--KOLONNER-->
+        <div class="row g-5 align-items-start px-5">
+            <!--KOLONNE 1-->
+            <div class="col-lg-6">
+                <p class="inter fw-bold font-sixteen mb-1">
+                    Formål
+                </p>
+                <ul>
+                    <li class="inter font-sixteen mb-1">
+                        At skabe et trygt og godt hjem.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        At skabe et hjem med rummelighed og fleksibilitet.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        At støtte personlig udvikling og egne mål.
+                    </li>
+                    <li class="inter font-sixteen mb-3">
+                        At tilbyde behandlingsorienteret støtte og udvikling.
+                    </li>
+                </ul>
+            </div>
+            <!--KOLONNE 2-->
+            <div class="col-lg-6">
+                <p class="inter fw-bold font-sixteen mb-1">
+                    Værdigrundlag: <span class="fw-normal">Vi tager udgangspunkt i, at:</span>
+                </p>
+                <ul>
+                    <li class="inter font-sixteen mb-1">
+                        Alle mennesker har ressourcer og bidrager til fællesskabet.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Forskellighed mødes med respekt og anerkendelse.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        Medindflydelse og meningsfuld hverdag er centralt.
+                    </li>
+                    <li class="inter font-sixteen mb-3">
+                        Fællesskab og relationer er vigtige for trivsel.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--green normal wave-->
+<div aria-hidden="true" class="green-wavywave-frontpage d-none d-lg-block bg-light-brown">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
@@ -1084,7 +1433,7 @@
 
 <!--MEDIUM SCRREN, MILJØTERAPI-->
 <!--miljø terapi-->
-<div class="bg-light-brown justify-content-center align-items-center d-none d-md-block"
+<div class="bg-light-brown justify-content-center align-items-center d-none d-md-block d-lg-none"
      id="miljoterapi">
     <div class="justify-content-center align-items-center pt-4 d-none d-md-block" id="miljoterapi">
         <div class="container">
@@ -1110,7 +1459,7 @@
 </div>
 
 <!--accordion: deltagelse i hverdagsaktiviteter, fælles opgaver og struktur...-->
-<div class="bg-light-brown d-none d-md-block">
+<div class="bg-light-brown d-none d-md-block d-lg-none">
     <div class="accordion px-4 pb-4" id="accordionExample">
         <div class="container">
             <div class="row g-3 justify-content-center">
@@ -1250,8 +1599,124 @@
 </div>
 
 <!--light brown normal wave-->
-<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block">
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-block d-lg-none">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--LARGE SCREEN, MILJØTERAPI-->
+<div class="bg-light-brown d-none d-lg-block" id="miljoterapi">
+    <div class="container pt-3">
+        <!--OVERSKRIFT OVER BEGGE KOLONNER-->
+        <div class="text-center mb-4" id="nav-miljeoterapi">
+            <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">
+                Miljøterapi
+            </strong>
+        </div>
+        <!--ROW MED 2 KOLONNER-->
+        <div class="row g-5 align-items-center">
+            <!--KOLONNE 1: BILLEDE-->
+            <div class="col-lg-6 d-flex justify-content-center align-items-center">
+                <img src="/images/round_placeholder.png"
+                     class="img-fluid d-block mx-auto"
+                     alt="placeholder">
+            </div>
+            <!--KOLONNE 2: TEKST + ACCORDIONS-->
+            <div class="col-lg-6">
+                <p class="inter font-sixteen mb-3">
+                    Beboeren støttes af kontaktpersoner og øvrigt personale i at strukturere hverdagen ud fra
+                    individuelle
+                    ønsker, mål og behov, med henblik på en tryg og meningsfuld hverdag.
+                </p>
+                <p class="inter font-sixteen mb-4">
+                    Der anvendes ugeplaner og månedsplaner i det omfang, det er relevant.
+                </p>
+                <!--ACCORDIONS-->
+                <div class="accordion" id="accordionExample">
+                    <!-- 1 -->
+                    <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#deltagelse-hverdagsaktiviteter">
+                                Deltagelse i hverdagsaktiviteter
+                            </button>
+                        </h2>
+                        <div id="deltagelse-hverdagsaktiviteter" class="accordion-collapse collapse"
+                             data-bs-parent="#accordionExample">
+                            <div class="accordion-body bg-light-green inter py-2 px-3">
+                                <p class="mb-0">
+                                    Beboeren deltager i praktiske gøremål.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 2 -->
+                    <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                                    type="button"
+                                    data-bs-target="#opgaver-struktur"
+                                    data-bs-toggle="collapse">
+                                Fælles opgaver og struktur
+                            </button>
+                        </h2>
+                        <div id="opgaver-struktur" class="accordion-collapse collapse"
+                             data-bs-parent="#accordionExample">
+                            <div class="accordion-body bg-light-green inter py-2 px-3">
+                                <p class="mb-0">
+                                    Opgaver organiseres som ugentlige tjanser.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 3 -->
+                    <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                                    type="button"
+                                    data-bs-target="#aktiviteter-udearealer"
+                                    data-bs-toggle="collapse">
+                                Aktiviteter i udearealer
+                            </button>
+                        </h2>
+                        <div id="aktiviteter-udearealer" class="accordion-collapse collapse"
+                             data-bs-parent="#accordionExample">
+                            <div class="accordion-body bg-light-green inter py-2 px-3">
+                                <p class="mb-0">
+                                    Beboerne deltager i aktiviteter i have- og udeområder.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 4 -->
+                    <div class="accordion-item border-0 overflow-hidden bg-light-green rounded-5">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                                    type="button"
+                                    data-bs-target="#forventning-deltagelse"
+                                    data-bs-toggle="collapse">
+                                Forventning til deltagelse
+                            </button>
+                        </h2>
+                        <div id="forventning-deltagelse" class="accordion-collapse collapse"
+                             data-bs-parent="#accordionExample">
+                            <div class="accordion-body bg-light-green inter py-2 px-3">
+                                <p class="mb-0">
+                                    Deltagelse forventes ud fra ressourcer.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--light brown normal wave-->
+<div aria-hidden="true" class=" green-wavywave-frontpage d-none d-lg-block">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--SMALL SCREEN, COACHING-->
@@ -1427,7 +1892,7 @@
 
 <!--MEDIUM SCREEN, COACHING-->
 <!--coaching-->
-<div class="pt-4 d-none d-md-block" id="coaching">
+<div class="pt-4 d-none d-md-block d-lg-none" id="coaching">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7">
@@ -1480,7 +1945,7 @@
 </div>
 
 <!--accordion: dagligdagen på vedelsbo, alkohol- og rygepolitik...-->
-<div class="d-none d-md-block">
+<div class="d-none d-md-block d-lg-none">
     <div class="accordion px-4 pt-4 pb-4" id="accordionExample">
         <div class="container">
             <div class="row g-3 justify-content-center">
@@ -1579,6 +2044,158 @@
                                         beboernes
                                         medindflydelse på fællesskabets rammer og aktiviteter.</p>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- LARGE SCREEN, COACHING -->
+<div class="pt-4 px-5 d-none d-lg-block" id="coaching">
+    <div class="container">
+        <div class="row align-items-start g-5">
+
+            <!-- VENSTRE KOLONNE - TEKST -->
+            <div class="col-lg-6">
+                <div id="nav-coaching">
+                    <strong class="allura d-block header-text-allura-underpage fw-normal pb-2 text-center text-lg-start">
+                        Coaching
+                    </strong>
+                </div>
+
+                <p class="inter font-sixteen mb-3">
+                    Daglig leder har kontinuerligt samtaler med beboerne hvor der anvendes erfaring/uddannelse baseret
+                    på coaching, rådgivning via Livslinjen samt kognitive adfærdsterapeutiske metoder.
+                </p>
+
+                <p class="inter font-sixteen mb-1">
+                    I coaching arbejdes der med at:
+                </p>
+
+                <ul>
+                    <li class="inter font-sixteen mb-1">
+                        Skabe overblik og retning.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        At stille åbne og reflekterende spørgsmål.
+                    </li>
+                    <li class="inter font-sixteen mb-1">
+                        At styrke motivation og handlekraft.
+                    </li>
+                    <li class="inter font-sixteen mb-3">
+                        At hjælpe beboeren med selv at finde løsninger frem for at give direkte råd.
+                    </li>
+                </ul>
+
+                <p class="inter font-sixteen mb-3">
+                    Der anvendes effektive værktøjer som beboeren kan bruge til at danne sig overblik over sine
+                    ressourcer, udfordringer og muligheder, få nye vigtige indsigter og finde nye gode alternativer.
+                    Netop fordi metoden har beboerens egne mål og ønsker i centrum, er det blottet for såvel budskab,
+                    som løftede pegefingre om hvad der er rigtigt og forkert.
+                </p>
+
+                <p class="inter font-sixteen mb-3">
+                    Beboeren skal via åbne spørgsmål selv finde frem til sin egen sandhed som ofte ligger skjult for
+                    dem. Sandsynligheden for at beboeren handler og når sit mål er størst hvis handlingen bygger på,
+                    hvad der er vigtigt for beboeren.
+                </p>
+            </div>
+
+            <!-- HØJRE KOLONNE - BILLEDE + ACCORDION -->
+            <div class="col-lg-6">
+                <!-- BILLEDE -->
+                <div class="mb-4">
+                    <img src="images/round_placeholder.png"
+                         alt="placeholder"
+                         class="img-fluid">
+                </div>
+                <!-- ACCORDION -->
+                <div class="accordion" id="accordionExample">
+                    <!-- 1 -->
+                    <div class="accordion-item border-0 overflow-hidden bg-light-green rounded-5 mb-3">
+                        <h2 class="accordion-header">
+                            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#dagligdagen-Vedelsbo"
+                                    aria-expanded="false"
+                                    aria-controls="dagligdagen-Vedelsbo">
+                                Dagligdagen på Vedelsbo
+                            </button>
+                        </h2>
+                        <div id="dagligdagen-Vedelsbo"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#accordionExample">
+
+                            <div class="accordion-body bg-light-green inter accordion-body-text py-2 px-3">
+                                <p class="mb-3">
+                                    Vedelsbo er et bofællesskab, hvor dagligdagen bygger på gensidig respekt og hensyn
+                                    mellem beboerne.
+                                </p>
+                                <p class="mb-0">
+                                    Det betyder, at alle tager ansvar for egen adfærd i fælles rammer, herunder i
+                                    forhold til gæster,
+                                    støjniveau og brug af musik.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 2 -->
+                    <div class="accordion-item border-0 overflow-hidden bg-light-green rounded-5 mb-3">
+                        <h2 class="accordion-header">
+                            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#alkohol-rygepolitik"
+                                    aria-expanded="false"
+                                    aria-controls="alkohol-rygepolitik">
+                                Alkohol- og rygepolitik
+                            </button>
+                        </h2>
+                        <div id="alkohol-rygepolitik"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#accordionExample">
+                            <div class="accordion-body bg-light-green inter accordion-body-text py-2 px-3">
+                                <p class="mb-3">
+                                    Vedelsbo har en fastlagt alkohol- og rygepolitik.
+                                </p>
+                                <p class="mb-3">
+                                    Der kan i samarbejde med den enkelte beboer udarbejdes individuelle aftaler og mål
+                                    vedrørende alkoholforbrug.
+                                </p>
+                                <p class="mb-0">
+                                    Det er ikke tilladt at ryge i fællesarealerne. Af hensyn til indeklima og sundhed
+                                    anbefales det, at rygning så vidt muligt foregår udendørs.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 3 -->
+                    <div class="accordion-item border-0 overflow-hidden bg-light-green rounded-5">
+                        <h2 class="accordion-header">
+                            <button class="font-twelve accordion-button collapsed bg-light-green inter fw-bold"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#beboerdemokrati-indflydelse"
+                                    aria-expanded="false"
+                                    aria-controls="beboerdemokrati-indflydelse">
+                                Beboerdemokrati og indflydelse
+                            </button>
+                        </h2>
+                        <div id="beboerdemokrati-indflydelse"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#accordionExample">
+                            <div class="accordion-body bg-light-green inter accordion-body-text py-2 px-3">
+                                <p class="mb-3">
+                                    Vedelsbo har et beboerråd, som afholder møde én gang månedligt.
+                                </p>
+                                <p class="mb-0">
+                                    Beboerdemokratiet er en central del af hverdagen og understøtter beboernes
+                                    medindflydelse på fællesskabets rammer og aktiviteter.
+                                </p>
                             </div>
                         </div>
                     </div>
