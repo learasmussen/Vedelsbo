@@ -551,7 +551,6 @@ require "settings/init.php";
     <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
-
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block header-section-borger position-relative p-0"
      style="z-index: -1000;">
@@ -600,8 +599,7 @@ require "settings/init.php";
 
 </div>
 
-
-<!--green wavy wave - TABLET-->
+<!--green wavy wave - DESKTOP-->
 <div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -60px">
     <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
@@ -614,7 +612,7 @@ require "settings/init.php";
 
             <img src="shapes/light-green-shape-heart.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
-            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+            <strong class="cormorant font-eightteen d-block mb-2">
                 HVAD VI STÅR FOR
             </strong>
 
@@ -628,7 +626,7 @@ require "settings/init.php";
 
             <img src="shapes/dark-brown-shape-people.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
-            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+            <strong class="cormorant font-eightteen d-block mb-2">
                 HVEM HJÆLPER VI
             </strong>
 
@@ -642,7 +640,7 @@ require "settings/init.php";
 
             <img src="shapes/sage-green-shape-hand.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
-            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+            <strong class="cormorant font-eightteen d-block mb-2">
                 HVORDAN ARBEJDER VI
             </strong>
 
@@ -656,7 +654,7 @@ require "settings/init.php";
 
             <img src="shapes/light-brown-shape-house.png" alt="light-green-shape" class="mb-3" style="height: 100px">
 
-            <strong class="cormorant font-eightteen d-block mb-2 front-page-shape-header">
+            <strong class="cormorant font-eightteen d-block mb-2">
                 VORES ORGANISATION
             </strong>
 
@@ -674,7 +672,7 @@ require "settings/init.php";
     <img src="waves-desktop/beige-normal-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<!--shapes-->
+<!--shapes - DESKTOP-->
 <div class="container-fluid bg-sage-green d-none d-lg-block py-5">
 
     <div class="row justify-content-center text-center">
@@ -730,7 +728,7 @@ require "settings/init.php";
     <img src="waves-desktop/normal-green-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
-<!--citat + knap til "en boboers tanker" - TABLET-->
+<!--citat + knap til "en boboers tanker" - DESKTOP-->
 <div class="container d-none d-lg-flex justify-content-center align-items-center pt-4 en-beboers-tanker-borger-forside mt-0">
 
     <div class="row justify-content-center text-center w-100 mt-3">
@@ -838,7 +836,7 @@ require "settings/init.php";
 
 </div>
 
-<!--bottom-wave - TABLET-->
+<!--bottom-wave - DESKTOP-->
 <div class="bg-dark-green d-none d-lg-block" aria-hidden="true" style="margin-top: -2px">
     <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
 </div>

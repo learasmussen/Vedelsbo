@@ -442,12 +442,12 @@
 
 
 <!--top-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none ">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-md-block bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
+<div class="container-fluid d-none d-md-block d-lg-none bg-sage-green ps-4 ps-md-5 pb-md-2 borger-forside-header">
 
     <div class="row">
         <div class="col-12 mt-5">
@@ -463,12 +463,12 @@
 </div>
 
 <!--green wavy wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none ">
     <img src="waves-phone/green-wavywave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--top buttons - TABLET-->
-<div class="container-fluid d-none bg-light-brown d-md-flex justify-content-center align-items-center social-psykiatrisk-botilbud-section">
+<div class="container-fluid d-none bg-light-brown d-md-flex d-lg-none justify-content-center align-items-center social-psykiatrisk-botilbud-section">
 
     <div class="row justify-content-center text-center py-5 px-5 g-2 mt-3">
 
@@ -522,17 +522,17 @@
 </div>
 
 <!--beige big wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block beige-big-wave-borger-forside">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none beige-big-wave-borger-forside">
     <img src="waves-tablet/beige-big-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--wave shape - TABLET-->
-<div aria-hidden="true" class="text-end d-none d-md-block decoration-frontpage" style="margin-top: -210px">
+<div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
     <img src="header-shapes/dark-brown-logo.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
 </div>
 
 <!--values header - TABLET-->
-<div class="container d-none d-md-flex justify-content-center align-items-center mt-5" id="values-md">
+<div class="container d-none d-md-flex d-lg-none justify-content-center align-items-center mt-5" id="values-md">
 
     <div class="row justify-content-center px-1">
 
@@ -551,7 +551,7 @@
 </div>
 
 <!--values body - TABLET-->
-<div class="container d-none d-md-flex justify-content-center align-items-center mt-3">
+<div class="container d-none d-md-flex d-lg-none justify-content-center align-items-center mt-3">
 
     <div class="row justify-content-center px-5 mx-4">
 
@@ -605,12 +605,12 @@
 </div>
 
 <!--beige normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none bg-light-brown">
     <img src="waves-tablet/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--målgruppe - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown " id="maalgruppe-md">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-light-brown " id="maalgruppe-md">
 
     <div class="row justify-content-center w-100 pt-5">
 
@@ -679,12 +679,12 @@
 </div>
 
 <!--light brown normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block bg-sage-green">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none bg-sage-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--visitering - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green " id="visitering-md">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green " id="visitering-md">
 
     <div class="row justify-content-center w-100 py-5">
 
@@ -718,12 +718,12 @@
 </div>
 
 <!--green normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none bg-light-brown">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
 </div>
 
 <!--praktiske oplysninger - TABLET-->
-<div class="container-fluid mt-0 d-md-flex d-none justify-content-center align-items-center bg-light-brown" id="praktisk-md">
+<div class="container-fluid mt-0 d-md-flex d-none d-lg-none justify-content-center align-items-center bg-light-brown" id="praktisk-md">
 
     <div class="row justify-content-center w-100 pt-5">
 
@@ -759,12 +759,12 @@
 </div>
 
 <!--light brown normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block bg-sage-green">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none bg-sage-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--tilsynsrapporter - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-sage-green pt-5" id="tilsynsrapporter-md">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green pt-5" id="tilsynsrapporter-md">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -796,12 +796,12 @@
 </div>
 
 <!--green normal wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block bg-light-brown">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none bg-light-brown">
     <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--read too section - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex justify-content-center align-items-center bg-light-brown">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-light-brown">
 
     <div class="row justify-content-center text-center">
 
@@ -848,13 +848,360 @@
 </div>
 
 <!--bottom-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block green-wavywave-frontpage bg-dark-green">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none green-wavywave-frontpage bg-dark-green">
     <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 
+<!--STOR SKÆRM (DESKTOP)-->
+
+<!--top-wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block">
+    <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
+</div>
+
+<!--image header - DESKTOP-->
+<div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
+    <img src="images/personale_flowers_large.JPG"
+         alt="header-image" class="img-fluid header-image-borger">
+</div>
+
+<!--beige wave upside down - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block green-wavywave-frontpage" style="margin-top: -80px">
+    <img src="waves-desktop/beige-normal-wave-upside-down.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--wave shape - DESKTOP-->
+<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
+    <img src="header-shapes/dark-brown-logo.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+</div>
+
+<!--top-info - DESKTOP-->
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+
+    <div class="row d-md-flex justify-content-center align-items-center">
+        <div class="col-10 mt-0">
+            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Et socialpsykiatrisk botilbud </h1>
+        </div>
+        <div class="col-10 mb-3">
+            <div class="font-twelve font-sixteen px-5 inter  text-center ">
+                Godkendt af Socialtilsyn Øst og drives efter §108 og §107 i serviceloven.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-off-white green-wavywave-frontpage">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
 
 
+<!--hvad står vi for sektion - TABLET-->
+<div class="container-fluid py-3 px-5 d-none d-lg-flex flex-column bg-off-white justify-content-center align-items-center">
+    <div class="row justify-content-center pb-4">
+
+        <div class="col-4 text-center mt-3 px-2">
+
+            <img src="shapes/light-green-shape-hand.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2">
+                ANSVARLIGHED
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi tager ansvar for vores opgaver, aftaler og fælles mål med høj faglighed. Vi støtter beboernes selvstændighed og handler, når der er behov.
+            </p>
+
+        </div>
+
+        <div class="col-4 text-center mt-3 px-2">
+
+            <img src="shapes/light-green-shape-heart.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2">
+                OMSORG
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi møder hinanden og beboerne med nærvær, empati og støtte i hverdagen. Vi arbejder med hjælp til selvhjælp og tager ansvar i sårbare situationer.
+            </p>
+
+        </div>
+
+        <div class="col-4 text-center mt-3 px-2">
+
+            <img src="shapes/light-green-shape-people-standing.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2">
+                RESPEKT
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi møder alle med ligeværdighed, anerkendelse og plads til forskellighed. Vi lytter, inddrager og kommunikerer åbent og ordentligt.
+            </p>
+
+        </div>
+
+        <div class="col-4 text-center mt-3 px-2">
+
+            <img src="shapes/light-green-shape-people.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2">
+                RUMMELIGHED
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi ser forskelligheder som en styrke og møder hinanden uden fordømmelse. Vi giver plads til den enkelte og skaber et inkluderende fællesskab.
+            </p>
+
+        </div>
+
+        <div class="col-4 text-center mt-3 px-2">
+
+            <img src="shapes/light-green-shape-seed.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2">
+                UDVIKLING
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi arbejder løbende med faglig og personlig udvikling gennem læring og refleksion. Vi deler viden og udvikler vores praksis til gavn for beboere og kollegaer.
+            </p>
+
+        </div>
+
+        <div class="col-4 text-center mt-3 px-2">
+
+            <img src="shapes/light-green-shape-two-hands.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+
+            <strong class="cormorant font-eightteen d-block mb-2">
+                ÅBENHED
+            </strong>
+
+            <p class="inter font-fourteen text-start px-1">
+                Vi skaber tillid gennem ærlig, tydelig og respektfuld kommunikation. Vi er nysgerrige, lyttende og åbne over for både nye idéer og hinanden.
+            </p>
+
+        </div>
+    </div>
+
+    <div class="row d-flex justify-content-center align-items-center">
+        <a href="sagsbehandler-values.php"
+           class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+            Læs mere om værdier
+            <i class="fa-solid fa-angle-right"></i>
+        </a>
+    </div>
+</div>
+
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-light-brown green-wavywave-frontpage">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--målgruppe - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-brown">
+    <div class="row d-flex justify-content-center align-items-center pb-3">
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+        <div class="col-6">
+            <strong class="cormorant fw-bold d-block mb-3 mt-0 front-page-shape-header">
+                MÅLGRUPPE
+            </strong>
+
+            <div class="d-flex align-items-center pe-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Du er voksen med psykiske udfordringer
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center pe-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Du har ikke et aktivt misbrug af alkohol, hash, eller andre euforiserende stoffer
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center pe-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Din adfærd er ikke voldelig og/eller udad reagerende
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center pe-3 mb-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Du vurderes til at kunne indgå i resten af beboergruppen
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center pe-3">
+                <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
+
+                <div class="font-sixteen">
+                    Du er fysisk mobil og anvender ikke hjælpemidler så som kørestol eller rollator
+                </div>
+            </div>
+
+            <!--læs mere knap-->
+            <div class="col-12 mt-4 d-flex justify-content-start align-items-center">
+                <a href="sagsbehandler-maalgruppe.php"
+                   class="font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                    Læs mere om målgruppe
+                    <i class="fa-solid fa-angle-right"></i>
+                </a>
+            </div>
+
+        </div>
+
+
+
+
+        </div>
+
+    </div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-off-white green-wavywave-frontpage">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+
+<!--visitering - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
+    <div class="row d-flex justify-content-center align-items-center my-3">
+
+        <div class="col-6 ps-5">
+            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
+                VISITERING
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-4 font-sixteen">
+                I praksis besøger den interesserede borger, evt. pårørende, sagsbehandler fra kommunen og evt. kontaktperson Vedelsbo. Borgeren besøger Vedelsbo i princippet så mange gange der er et gensidigt behov. Under besøget vil daglig leder og evt. kommende kontaktpersoner være tilstede.
+            </p>
+
+            <div>
+                <a href="sagsbehandler-visitering.php"
+                   class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                    Læs mere om visitering
+                    <i class="fa-solid fa-angle-right"></i>
+                </a>
+            </div>
+
+        </div>
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-sage-green green-wavywave-frontpage">
+    <img src="waves-desktop/off-white-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--praktiske oplysninger - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-sage-green">
+    <div class="row d-flex justify-content-center align-items-center">
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+        <div class="col-6">
+            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
+                PRAKTISKE OPLYSNINGER
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-3 font-sixteen">
+                Som beboer har man en månedlig egenbetaling som indeholder bl.a. husleje, kost og kørsel. Beboerbetalingen udregnes efter størrelsen af boligen og den månedlige  indtægt.
+            </p>
+            <p class="inter px-0 mx-0 mb-4 font-sixteen">
+                Vi samarbejder med borgers egen praktiserende læge, Psykiatrien Syd i Vordingborg, sagsbehandlere, m.m.
+            </p>
+
+            <div>
+                <a href="sagsbehandler-praktiske-oplysninger.php"
+                   class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                    Læs mere her
+                    <i class="fa-solid fa-angle-right"></i>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-light-brown green-wavywave-frontpage">
+    <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--tilsynsrapporter - DESKTOP-->
+<div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-brown">
+    <div class="row d-flex justify-content-center align-items-center my-3">
+
+        <div class="col-6 ps-5">
+            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
+                TILSYNSRAPPORTER
+            </strong>
+
+            <p class="inter px-0 mx-0 mb-4 font-sixteen">
+                Vedelsbo har årligt et uanmeldt og et anmeldt tilsyn fra Socialtilsyn Øst.
+            </p>
+
+            <div>
+                <a href="sagsbehandler-tilsynsrapporter.php"
+                   class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+                    Se vores tilsynsrapporter
+                    <i class="fa-solid fa-angle-right"></i>
+                </a>
+            </div>
+
+        </div>
+
+        <div class="col-6 ps-5 pb-0">
+            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        </div>
+
+
+    </div>
+</div>
+
+<!--beige normal wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-beige green-wavywave-frontpage">
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
+
+<!--screen images - DESKTOP-->
+<div class=" container-fluid d-none d-md-none d-lg-block pt-5 pb-3">
+    <div class="row">
+        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
+        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+    </div>
+</div>
+
+<!--normal light brown wave - DESKTOP-->
+<div aria-hidden="true" class="d-none d-lg-block bg-dark-green green-wavywave-frontpage">
+    <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
+</div>
 
 <?php include 'includes/footer.php'; ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
