@@ -107,7 +107,7 @@
 </div>
 
 <!--Terapi-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-block d-md-none" id="terapi">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-block d-md-none" id="terapi-sm">
 
     <div class="row justify-content-center px-1">
 
@@ -208,7 +208,7 @@
 </div>
 
 <!--kontaktperson-->
-<div class="container d-flex justify-content-center align-items-center my-3 d-block d-md-none" id="kontaktperson">
+<div class="container d-flex justify-content-center align-items-center my-3 d-block d-md-none" id="kontaktperson-sm">
 
     <div class="row justify-content-center px-1">
 
@@ -420,7 +420,7 @@
 
 <!--målsætning-->
 <div class="container bg-sage-green d-flex justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder d-block d-md-none"
-     id="maalsaetning">
+     id="maalsaetning-sm">
 
     <div class="row justify-content-center px-1">
 
@@ -489,7 +489,7 @@
 
 <!--miljø terapi-->
 <div class="container bg-light-brown d-flex justify-content-center align-items-center pt-5 miljoterapi-arbejdsmetoder d-block d-md-none"
-     id="miljoterapi">
+     id="miljoterapi-sm">
 
     <div class="row justify-content-center px-1">
 
@@ -667,7 +667,7 @@
 </div>
 
 <!--coaching-->
-<div class="container d-flex justify-content-center align-items-center my-3 d-block d-md-none" id="coaching">
+<div class="container d-flex justify-content-center align-items-center my-3 d-block d-md-none" id="coaching-sm">
 
     <div class="row justify-content-center px-1">
 
@@ -936,7 +936,7 @@
 </div>
 
 <!--Terapi - TABLET-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none" id="terapi">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none" id="terapi-md">
 
     <div class="row justify-content-center px-1">
 
@@ -1035,7 +1035,7 @@
 
 <!--kontaktperson - TABLET-->
 <div class="container d-flex justify-content-center align-items-center my-3 d-none d-md-block d-lg-none"
-     id="kontaktperson">
+     id="kontaktperson-md">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center" id="nav-kontaktperson">
@@ -1192,7 +1192,7 @@
 
 <!--målsætning - TABLET-->
 <div class="bg-sage-green justify-content-center align-items-center pt-5 maalsaetning-arbejdsmetoder d-none d-md-block d-lg-none"
-     id="maalsaetning">
+     id="maalsaetning-md">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7">
@@ -1254,7 +1254,7 @@
 
 <!--miljø terapi - TABLET-->
 <div class="bg-light-brown justify-content-center align-items-center d-none d-md-block d-lg-none"
-     id="miljoterapi">
+     id="miljoterapi-md">
     <div class="justify-content-center align-items-center pt-4 d-none d-md-block" id="miljoterapi">
         <div class="container">
             <div class="row justify-content-center">
@@ -1424,7 +1424,7 @@
 </div>
 
 <!--coaching - TABLET-->
-<div class="pt-4 d-none d-md-block d-lg-none" id="coaching">
+<div class="pt-4 d-none d-md-block d-lg-none" id="coaching-md">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7">

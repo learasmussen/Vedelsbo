@@ -74,7 +74,7 @@
 </div>
 
 <!--beskrivelse-->
-<div class="container d-flex justify-content-center align-items-center mt-3 d-block d-md-none" id="nav-beskrivelse">
+<div class="container d-flex justify-content-center align-items-center mt-3 d-block d-md-none" id="nav-beskrivelse-sm">
 
     <div class="row justify-content-center px-1">
 
@@ -186,7 +186,7 @@
 </div>
 
 <!--hensyn og regler-->
-<div class="bg-light-brown pt-5 hensyn-og-regler-section d-block d-md-none" id="nav-hensynogregler">
+<div class="bg-light-brown pt-5 hensyn-og-regler-section d-block d-md-none" id="nav-hensynogregler-sm">
     <div class="container bg-light-brown d-flex justify-content-center align-items-center my-3">
 
         <div class="row justify-content-center px-1">
@@ -418,7 +418,7 @@
 
 <!--beskrivelse - TABLET-->
 <div class="container d-flex justify-content-center align-items-center mt-3 d-none d-md-block d-lg-none"
-     id="nav-beskrivelse">
+     id="nav-beskrivelse-md">
     <div class="row justify-content-center px-1">
         <div class="col-12 col-lg-8">
             <div class="text-center">
@@ -518,7 +518,7 @@
 </div>
 
 <!--hensyn og regler - TABLET-->
-<div class="pb-2 bg-light-brown pt-5 hensyn-og-regler-section d-none d-md-block d-lg-none" id="nav-hensynogregler">
+<div class="pb-2 bg-light-brown pt-5 hensyn-og-regler-section d-none d-md-block d-lg-none" id="nav-hensynogregler-md">
     <div class="container bg-light-brown d-flex justify-content-center align-items-center my-3">
         <div class="row justify-content-center px-1">
             <div class="col-12 col-lg-8">
