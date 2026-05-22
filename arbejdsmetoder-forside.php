@@ -1635,35 +1635,35 @@
         <div class="container">
             <div class="row justify-content-center g-3">
                 <div class="col-auto">
-                    <a href="#terapi"
+                    <a href="#terapi-lg"
                        class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                        style="width: 150px; height: 38px;">
                         Terapi
                     </a>
                 </div>
                 <div class="col-auto">
-                    <a href="#kontaktperson"
+                    <a href="#kontaktperson-lg"
                        class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                        style="width: 150px; height: 38px;">
                         Kontaktperson
                     </a>
                 </div>
                 <div class="col-auto">
-                    <a href="#maalsaetning"
+                    <a href="#maalsaetning-lg"
                        class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                        style="width: 150px; height: 38px;">
                         Målsætning
                     </a>
                 </div>
                 <div class="col-auto">
-                    <a href="#miljoterapi"
+                    <a href="#miljoterapi-lg"
                        class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                        style="width: 150px; height: 38px;">
                         Miljøterapi
                     </a>
                 </div>
                 <div class="col-auto">
-                    <a href="#coaching"
+                    <a href="#coaching-lg"
                        class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-3 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                        style="width: 150px; height: 38px;">
                         Coaching

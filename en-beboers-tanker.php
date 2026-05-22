@@ -596,34 +596,34 @@
         <!--CTA-->
         <div class="col-6 d-flex justify-content-center">
             <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-                <a href="sagsbehandler-values.php"
+                <a href="borger-fritid.php"
                    class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                    style="width: 275px">
-                    Værdier
+                    Fritid
                 </a>
             </div>
 
             <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-                <a href="sagsbehandler-maalgruppe.php"
+                <a href="a-year.php"
                    class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                    style="width: 275px">
-                    Målgruppe
+                    Årets gang
                 </a>
             </div>
 
             <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-                <a href="sagsbehandler-visitering.php"
+                <a href="meals.php"
                    class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                    style="width: 275px">
-                    Visitering
+                    Måltider
                 </a>
             </div>
 
             <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-                <a href="sagsbehandler-praktiske-oplysninger.php"
+                <a href="om-vedelsbo.php"
                    class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                    style="width: 275px">
-                    Praktisk
+                    Om Vedelsbo
                 </a>
             </div>
         </div>

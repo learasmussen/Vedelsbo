@@ -685,7 +685,7 @@
     <!-- knap -->
     <div class="text-center mt-3">
 
-        <a href="#"
+        <a href="en-beboers-tanker.php"
            class="btn font-sixteen bg-light-green rounded-pill px-4 py-3 inter">
 
             Læs mere om Beboernes tanker

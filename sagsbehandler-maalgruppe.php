@@ -510,10 +510,10 @@
             </div>
 
             <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-                <a href="sagsbehandler-maalgruppe.php"
+                <a href="sagsbehandler-praktiske-oplysninger.php"
                    class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                    style="width: 275px">
-                    Målgruppe
+                    Praktisk
                 </a>
             </div>
 
