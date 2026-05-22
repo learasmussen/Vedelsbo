@@ -29,6 +29,7 @@ require "settings/init.php";
 <body class="bg-background">
 
 <?php include 'includes/navbar.php'; ?>
+<?php include 'includes/to-top.php'; ?>
 
 <!--LILLE SKÆRM (TELEFON)-->
 

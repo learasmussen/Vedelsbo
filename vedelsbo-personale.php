@@ -21,6 +21,7 @@
 <body class="bg-beige">
 
 <?php include 'includes/navbar.php'; ?>
+<?php include 'includes/to-top.php'; ?>
 
 <!--LILLE SKÆRM (TELEFON)-->
 
