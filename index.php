@@ -548,13 +548,13 @@ require "settings/init.php";
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
-<div aria-hidden="true" class="d-none d-lg-block">
+<div aria-hidden="true" class="d-none d-lg-block" style="margin-top: -2px">
     <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block header-section-borger position-relative p-0"
-     style="z-index: -1000;">
+     style="z-index: -1000; ">
 
     <!--overlay-->
     <div class="container position-absolute">
@@ -674,7 +674,7 @@ require "settings/init.php";
 </div>
 
 <!--shapes - DESKTOP-->
-<div class="container-fluid bg-sage-green d-none d-lg-block py-5">
+<div class="container-fluid bg-sage-green d-none d-lg-block py-5" style="margin-top: -2px">
 
     <div class="row justify-content-center text-center">
 
@@ -725,7 +725,7 @@ require "settings/init.php";
 </div>
 
 <!--beige wave - DESKTOP-->
-<div aria-hidden="true" class="d-none d-lg-block bg-background">
+<div aria-hidden="true" class="d-none d-lg-block bg-background" style="margin-top: -2px">
     <img src="waves-desktop/normal-green-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
@@ -745,7 +745,7 @@ require "settings/init.php";
                 - Jette Bernt Rasmussen
             </p>
 
-            <div>
+            <div class="pb-2">
                 <a href="en-beboers-tanker.php"
                    class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
                     En beboers tanker
@@ -757,12 +757,12 @@ require "settings/init.php";
 </div>
 
 <!--beige wave - DESKTOP-->
-<div aria-hidden="true" class="d-none d-lg-block bg-light-brown">
+<div aria-hidden="true" class="d-none d-lg-block bg-light-brown" style="margin-top: -2px">
     <img src="waves-desktop/beige-normal-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
 <!--indsend spørgsmål sektion - DESKTOP-->
-<div class="bg-light-brown d-none d-lg-block">
+<div class="bg-light-brown d-none d-lg-block" style="margin-top: -2px">
 
     <div class="container py-5">
 
@@ -838,7 +838,7 @@ require "settings/init.php";
 </div>
 
 <!--bottom-wave - DESKTOP-->
-<div class="bg-dark-green d-none d-lg-block" aria-hidden="true" style="margin-top: -2px">
+<div class="bg-dark-green d-none d-lg-block" aria-hidden="true">
     <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
 </div>
 
