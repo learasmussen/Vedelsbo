@@ -690,7 +690,7 @@
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-beige ps-4 pt-md-0 ps-md-0 pb-md-2">
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2">
 
     <div class="row justify-content-center align-items-center">
         <div class="col-10 mt-0">

@@ -885,7 +885,7 @@
 <div class="bg-sage-green p-0 m-0 align-items-center justify-content-center d-none d-md-block d-lg-none">
     <div class="row g-1 justify-content-center">
         <div class="col-auto d-flex justify-content-center mb-3 pe-3">
-            <a href="#terapi"
+            <a href="#terapi-md"
                class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-2 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                style="width: 150px; height: 38px;">
                 Terapi
@@ -893,7 +893,7 @@
         </div>
 
         <div class="col-auto d-flex justify-content-center mb-3 ps-3">
-            <a href="#kontaktperson"
+            <a href="#kontaktperson-md"
                class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-2 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                style="width: 150px; height: 38px;">
                 Kontaktperson
@@ -903,7 +903,7 @@
 
     <div class="row g-1 justify-content-center">
         <div class="col-auto d-flex justify-content-center mb-3 pe-3">
-            <a href="#maalsaetning"
+            <a href="#maalsaetning-md"
                class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-1 px-2 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                style="width: 150px; height: 38px;">
                 Målsætning
@@ -921,7 +921,7 @@
 
     <div class="row g-1 justify-content-center">
         <div class="col-auto d-flex justify-content-center mb-3">
-            <a href="#coaching"
+            <a href="#coaching-md"
                class="bg-light-green fw-bold text-off-black rounded-pill border-0 py-2 px-2 inter font-sixteen d-flex align-items-center justify-content-center text-decoration-none"
                style="width: 150px; height: 38px;">
                 Coaching
@@ -1617,7 +1617,7 @@
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-beige ps-4 pt-md-0 ps-md-0 pb-md-2">
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-background ps-4 pt-md-0 ps-md-0 pb-md-2">
 
     <div class="row justify-content-center align-items-center">
         <div class="col-10 mt-0">

@@ -935,12 +935,12 @@
 </div>
 
 <!--dekration shape - DESKTOP-->
-<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
+<div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -110px">
     <img src="header-shapes/green-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-beige ps-4 pt-md-0 ps-md-0 pb-md-2">
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center bg-background ps-4 pt-2 pb-md-2">
 
     <div class="row justify-content-center align-items-center">
         <div class="col-10 mt-0">

@@ -241,7 +241,7 @@
 </div>
 
 <!--traditioner og arrangementer - TABLET-->
-<div class="container d-none d-md-flex d-lg-none justify-content-center align-items-center mt-3">
+<div class="container d-none d-md-flex d-lg-none justify-content-center align-items-center mt-3 pb-2">
 
     <div class="row justify-content-center px-1">
 
@@ -333,10 +333,10 @@
         </div>
 
         <div class="col-6 d-flex justify-content-start mb-3 pe-4 ps-2">
-            <a href="a-year.php"
+            <a href="borger-aktiviteter.php"
                class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 275px">
-                Årets gang
+                Aktiviteter
             </a>
         </div>
 

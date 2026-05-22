@@ -407,10 +407,10 @@
         </div>
 
         <div class="col-6 d-flex justify-content-end mb-3 ps-4 pe-2">
-            <a href="borger-fritid.php"
+            <a href="borger-aktiviteter.php"
                class="font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
                style="width: 275px">
-                Fritid
+                Aktiviteter
             </a>
         </div>
 
