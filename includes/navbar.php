@@ -248,7 +248,7 @@
         <div class="row justify-content-between align-items-center text-center">
 
             <a class="col-2 px-0" href="index.php">
-                <img src="/logo/logo_stort.png"
+                <img src="logo/logo_stort.png"
                      alt="Vedelsbos logo"
                      style="width: 150px">
             </a>
