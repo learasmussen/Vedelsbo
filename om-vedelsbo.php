@@ -712,7 +712,7 @@
 </div>
 
 <!--beskrivelse - DESKTOP-->
-<div class="bg-sage-green pt-4 px-5 d-none d-lg-block" id="nav-beskrivelse">
+<div class="bg-sage-green pt-4 px-5 d-none d-lg-block" id="nav-beskrivelse-lg">
     <div class="container px-5">
         <div class="row align-items-center g-4">
             <!--TEKST KOLONNE-->
@@ -802,7 +802,7 @@
             </div>
         </div>
         <!--HØJRE KOLONNE: HENSYN OG REGLER-->
-        <div class="col-lg-6">
+        <div class="col-lg-6" id="nav-hensyn-og-regler-lg">
             <!--overskrift-->
             <div class="text-center mb-3">
                 <strong class="allura d-block header-text-allura-underpage fw-normal pb-2">

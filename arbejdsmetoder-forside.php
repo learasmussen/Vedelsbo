@@ -1680,7 +1680,7 @@
 </div>
 
 <!--Terapi - DESKTOP-->
-<div class="bg-off-white d-none d-lg-block" id="terapi">
+<div class="bg-off-white d-none d-lg-block" id="terapi-lg">
     <div class="container px-lg-5">
         <!--overskrift-->
         <div class="text-center pb-4" id="nav-terapi">
@@ -1774,7 +1774,7 @@
 </div>
 
 <!-- kontakt person + accordions  - DESKTOP -->
-<div class="container d-none d-lg-block pt-3 px-5" id="kontaktperson">
+<div class="container d-none d-lg-block pt-3 px-5" id="kontaktperson-lg">
     <!-- ØVERSTE RÆKKE -->
     <div class="row g-5 align-items-center mb-5">
         <!-- VENSTRE: TEKST -->
@@ -1932,7 +1932,7 @@
 </div>
 
 <!--målsætning - DESKTOP-->
-<div class="bg-sage-green pt-5 maalsaetning-arbejdsmetoder d-none d-lg-block" id="maalsaetning">
+<div class="bg-sage-green pt-5 maalsaetning-arbejdsmetoder d-none d-lg-block" id="maalsaetning-lg">
     <div class="container">
         <!--FÆLLES OVERSKRIFT-->
         <div class="text-center mb-4">
@@ -1992,7 +1992,7 @@
 </div>
 
 <!--miljøterapi - DESKTOP-->
-<div class="bg-light-brown d-none d-lg-block" id="miljoterapi">
+<div class="bg-light-brown d-none d-lg-block" id="miljoterapi-lg">
     <div class="container pt-3">
         <!--OVERSKRIFT OVER BEGGE KOLONNER-->
         <div class="text-center mb-4" id="nav-miljeoterapi">
@@ -2108,7 +2108,7 @@
 </div>
 
 <!--coaching - DESKTOP-->
-<div class="pt-4 px-5 d-none d-lg-block" id="coaching">
+<div class="pt-4 px-5 d-none d-lg-block" id="coaching-lg">
     <div class="container">
         <div class="row align-items-start g-5">
 

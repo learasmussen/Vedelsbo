@@ -247,33 +247,158 @@
     <div class="container">
         <div class="row justify-content-between align-items-center text-center">
 
-            <div class="col-auto">
+            <a class="col-auto" href="index.php">
                 <img src="/logo/logo_stort.png"
                      alt="Vedelsbos logo"
                      style="width: 180px">
+            </a>
+
+            <!-- borger -->
+            <div class="col-auto">
+
+                <div class="btn-group">
+
+                    <a href="borger-forside.php"
+                       class="btn bg-transparent border-0 text-off-black font-fourteen inter text-decoration-none">
+
+                        Borger
+
+                    </a>
+
+                    <button type="button"
+                            class="btn bg-transparent border-0 text-off-black dropdown-toggle dropdown-toggle-split"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                            data-bs-reference="parent">
+
+                        <span class="visually-hidden">Toggle Dropdown</span>
+
+                    </button>
+
+                    <ul class="dropdown-menu bg-light-green inter font-fourteen text-off-black">
+                        <li><a href="borger-aktiviteter.php" class="dropdown-item">Aktiviteter</a></li>
+                        <li><a href="borger-fritid.php" class="dropdown-item">Fritid</a></li>
+                        <li><a href="a-year.php" class="dropdown-item">Årets gang</a></li>
+                        <li><a href="meals.php" class="dropdown-item">Måltider</a></li>
+                        <li><a href="en-beboers-tanker.php" class="dropdown-item">En beoboers tanker</a></li>
+                    </ul>
+
+                </div>
+
             </div>
 
+            <!-- sagsbehandler -->
             <div class="col-auto">
-                <a href="/borger-forside.php" class="inter text-off-black font-fourteen">Borger</a>
+
+                <div class="btn-group">
+
+                    <a href="sagsbehandler-forside.php"
+                       class="btn bg-transparent border-0 text-off-black font-fourteen inter text-decoration-none">
+
+                        Sagsbehandler
+
+                    </a>
+
+                    <button type="button"
+                            class="btn bg-transparent border-0 text-off-black dropdown-toggle dropdown-toggle-split"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                            data-bs-reference="parent">
+
+                        <span class="visually-hidden">Toggle Dropdown</span>
+
+                    </button>
+
+                    <ul class="dropdown-menu bg-light-green inter font-fourteen text-off-black">
+                        <li><a href="sagsbehandler-values.php" class="dropdown-item">Værdier</a></li>
+                        <li><a href="sagsbehandler-maalgruppe.php" class="dropdown-item">Målgruppe</a></li>
+                        <li><a href="sagsbehandler-visitering.php" class="dropdown-item">Visitering</a></li>
+                        <li><a href="sagsbehandler-praktiske-oplysninger.php" class="dropdown-item">Praktiske oplysninger</a></li>
+                        <li><a href="sagsbehandler-tilsynsrapporter.php" class="dropdown-item">Tilsynsrapporter</a></li>
+                    </ul>
+
+                </div>
+
             </div>
 
+            <!-- arbejdsmetoder -->
             <div class="col-auto">
-                <a href="/sagsbehandler-forside.php" class="inter text-off-black font-fourteen">Sagsbehandler</a>
+
+                <div class="btn-group">
+
+                    <a href="arbejdsmetoder-forside.php"
+                       class="btn bg-transparent border-0 text-off-black font-fourteen inter text-decoration-none">
+
+                        Arbejdsmetoder
+
+                    </a>
+
+                    <button type="button"
+                            class="btn bg-transparent border-0 text-off-black dropdown-toggle dropdown-toggle-split"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                            data-bs-reference="parent">
+
+                        <span class="visually-hidden">Toggle Dropdown</span>
+
+                    </button>
+
+                    <ul class="dropdown-menu bg-light-green inter font-fourteen text-off-black">
+                        <li><a href="arbejdsmetoder-forside.php#terapi-lg" class="dropdown-item">Terapi</a></li>
+                        <li><a href="arbejdsmetoder-forside.php#kontaktperson-lg" class="dropdown-item">Kontaktperson</a></li>
+                        <li><a href="arbejdsmetoder-forside.php#maalsaetning-lg" class="dropdown-item">Målsætning</a></li>
+                        <li><a href="arbejdsmetoder-forside.php#miljoterapi-lg" class="dropdown-item">Miljøterapi</a></li>
+                        <li><a href="arbejdsmetoder-forside.php#coaching-lg" class="dropdown-item">Coaching</a></li>
+                    </ul>
+
+                </div>
+
             </div>
 
+            <!-- om vedelsbo -->
             <div class="col-auto">
-                <a href="/arbejdsmetoder-forside.php" class="inter text-off-black font-fourteen">Arbejdsmetoder</a>
+
+                <div class="btn-group">
+
+                    <a href="om-vedelsbo.php"
+                       class="btn bg-transparent border-0 text-off-black font-fourteen inter text-decoration-none">
+
+                        Om Vedelsbo
+
+                    </a>
+
+                    <button type="button"
+                            class="btn bg-transparent border-0 text-off-black dropdown-toggle dropdown-toggle-split"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                            data-bs-reference="parent">
+
+                        <span class="visually-hidden">Toggle Dropdown</span>
+
+                    </button>
+
+                    <ul class="dropdown-menu bg-light-green inter font-fourteen text-off-black">
+                        <li><a href="om-vedelsbo.php#nav-beskrivelse-lg" class="dropdown-item">Beskrivelse</a></li>
+                        <li><a href="om-vedelsbo.php#nav-hensyn-og-regler-lg" class="dropdown-item">Hensyn & regler</a></li>
+                        <li><a href="om-vedelsbo.php#nav-kontakt-lg" class="dropdown-item">Kontakt</a></li>
+                        <li><a href="vedelsbo-personale.php" class="dropdown-item">Personale</a></li>
+                    </ul>
+
+                </div>
+
             </div>
 
+            <!-- kontakt os -->
             <div class="col-auto">
-                <a href="/om-vedelsbo.php" class="inter text-off-black font-fourteen">Om Vedelsbo</a>
-            </div>
 
-            <div class="col-auto">
-                <a href="/om-vedelsbo.php#nav-kontakt-lg" type="button"
-                        class="btn rounded-pill bg-dark-green inter px-4 text-off-white font-fourteen">
+                <a href="om-vedelsbo.php#nav-kontakt-lg"
+                   type="button"
+                   class="btn rounded-pill bg-dark-green inter px-4 text-off-white font-fourteen">
+
                     Kontakt os
+
                 </a>
+
             </div>
 
         </div>
