@@ -247,14 +247,14 @@
     <div class="container">
         <div class="row justify-content-between align-items-center text-center">
 
-            <a class="col-auto" href="index.php">
+            <a class="col-2 px-0" href="index.php">
                 <img src="/logo/logo_stort.png"
                      alt="Vedelsbos logo"
-                     style="width: 180px">
+                     style="width: 150px">
             </a>
 
             <!-- borger -->
-            <div class="col-auto">
+            <div class="col-2 px-0">
 
                 <div class="btn-group">
 
@@ -288,7 +288,7 @@
             </div>
 
             <!-- sagsbehandler -->
-            <div class="col-auto">
+            <div class="col-2 px-0">
 
                 <div class="btn-group">
 
@@ -322,7 +322,7 @@
             </div>
 
             <!-- arbejdsmetoder -->
-            <div class="col-auto">
+            <div class="col-2 px-0">
 
                 <div class="btn-group">
 
@@ -356,7 +356,7 @@
             </div>
 
             <!-- om vedelsbo -->
-            <div class="col-auto">
+            <div class="col-2 px-0">
 
                 <div class="btn-group">
 
@@ -389,7 +389,7 @@
             </div>
 
             <!-- kontakt os -->
-            <div class="col-auto">
+            <div class="col-2 px-0">
 
                 <a href="om-vedelsbo.php#nav-kontakt-lg"
                    type="button"
