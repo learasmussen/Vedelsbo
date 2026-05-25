@@ -650,7 +650,7 @@
                 </div>
                 <div class="col-md-6 text-center">
                     <img
-                            src="/images/maps_placeholder.png"
+                            src="images/maps_placeholder.png"
                             alt="maps placeholder"
                             class="img-fluid">
                 </div>
