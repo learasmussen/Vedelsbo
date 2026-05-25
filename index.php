@@ -576,7 +576,7 @@ require "settings/init.php";
                     Et socialpsykiatrisk botilbud med en hjemlig atmosfære for voksne med en sindslidelse.
                 </div>
 
-                <div class="pb-5">
+                <div class="pb-5" style="z-index: 1000">
                 <a href="om-vedelsbo.php"
                    class="font-sixteen btn bg-dark-brown rounded-pill border-0 py-2 px-4">
                     Læs mere om Vedelsbo

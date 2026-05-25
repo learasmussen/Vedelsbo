@@ -5,7 +5,7 @@
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
-        <img src="/logo/footer-logo.png" class="waves position-absolute opacity-25 end-0 bottom-0 mt-5 pt-3"
+        <img src="logo/footer-logo.png" class="waves position-absolute opacity-25 end-0 bottom-0 mt-5 pt-3"
              style="width: 250px" alt="">
     </div>
 
@@ -77,7 +77,7 @@
         <div class="row pt-4 ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
                 <i class="fa-brands fa-instagram pe-2 fa-xs"></i>
-                <a href="/404.php"
+                <a href="404.php"
                    class="text-off-white text-decoration-none font-twelve">
                     Instagram
                 </a>
@@ -87,7 +87,7 @@
         <div class="row ps-2">
             <div class="col py-2 inter text-off-white d-flex align-items-center">
                 <i class="fa-brands fa-facebook pe-2 fa-xs"></i>
-                <a href="/404.php"
+                <a href="404.php"
                    class="text-off-white text-decoration-none font-twelve">
                     FaceBook
                 </a>
@@ -106,7 +106,7 @@
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
-        <img src="/logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3"
+        <img src="logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3"
              style="width: 175px" alt="">
     </div>
 
@@ -145,7 +145,7 @@
                 <p class="m-0 pb-2">
                     <i class="fa-brands fa-instagram pe-2 text-off-white"></i>
 
-                    <a href="/404.php"
+                    <a href="404.php"
                        class="text-off-white text-decoration-none">
                         Instagram
                     </a>
@@ -154,7 +154,7 @@
                 <p class="m-0">
                     <i class="fa-brands fa-facebook pe-2 text-off-white"></i>
 
-                    <a href="/404.php"
+                    <a href="404.php"
                        target="_blank"
                        class="text-off-white text-decoration-none">
                         FaceBook
@@ -163,27 +163,27 @@
             </div>
 
             <div class="col-3 text-start pe-0">
-                <a href="/index.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="index.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Forside
                 </a>
 
-                <a href="/borger-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="borger-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Borger
                 </a>
 
-                <a href="/sagsbehandler-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="sagsbehandler-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Sagsbehandler
                 </a>
 
-                <a href="/arbejdsmetoder-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="arbejdsmetoder-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Arbejdsmetoder
                 </a>
 
-                <a href="/om-vedelsbo.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="om-vedelsbo.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Om Vedelsbo
                 </a>
 
-                <a href="/om-vedelsbo.php#nav-kontakt-md" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="om-vedelsbo.php#nav-kontakt-md" class="d-block inter text-off-white text-decoration-none pb-1">
                     Kontakt
                 </a>
             </div>
@@ -205,7 +205,7 @@
 
     <!--background logo-->
     <div aria-hidden="true" class="d-flex justify-content-end">
-        <img src="/logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3"
+        <img src="logo/footer-logo.png" class="waves opacity-25 position-absolute end-0 bottom-0 mt-5 pt-3"
              style="width: 200px" alt="">
     </div>
 
@@ -255,7 +255,7 @@
                 <p class="m-0 pb-2">
                     <i class="fa-brands fa-instagram pe-2 text-off-white"></i>
 
-                    <a href="/404.php"
+                    <a href="404.php"
                        class="text-off-white text-decoration-none">
                         Instagram
                     </a>
@@ -264,7 +264,7 @@
                 <p class="m-0">
                     <i class="fa-brands fa-facebook pe-2 text-off-white"></i>
 
-                    <a href="/404.php"
+                    <a href="404.php"
                        target="_blank"
                        class="text-off-white text-decoration-none">
                         FaceBook
@@ -273,27 +273,27 @@
             </div>
 
             <div class="col-3 text-start pe-0">
-                <a href="/index.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="index.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Forside
                 </a>
 
-                <a href="/borger-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="borger-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Borger
                 </a>
 
-                <a href="/sagsbehandler-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="sagsbehandler-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Sagsbehandler
                 </a>
 
-                <a href="/arbejdsmetoder-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="arbejdsmetoder-forside.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Arbejdsmetoder
                 </a>
 
-                <a href="/om-vedelsbo.php" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="om-vedelsbo.php" class="d-block inter text-off-white text-decoration-none pb-1">
                     Om Vedelsbo
                 </a>
 
-                <a href="/om-vedelsbo.php#nav-kontakt-lg" class="d-block inter text-off-white text-decoration-none pb-1">
+                <a href="om-vedelsbo.php#nav-kontakt-lg" class="d-block inter text-off-white text-decoration-none pb-1">
                     Kontakt
                 </a>
             </div>

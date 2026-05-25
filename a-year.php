@@ -373,7 +373,7 @@
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
-<div aria-hidden="true" class="d-none d-lg-block">
+<div aria-hidden="true" class="d-none d-lg-block" style="margin-top: -2px">
     <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 

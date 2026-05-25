@@ -111,7 +111,7 @@
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave-->
-<div aria-hidden="true" class="fixed-top d-none d-lg-block ">
+<div aria-hidden="true" class="fixed-top d-none d-lg-block" style="margin-top: -2px">
     <img src="waves-desktop/tak-for-bidrag-top-wave.png" class="waves position-relative w-100 " alt="">
 </div>
 

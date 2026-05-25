@@ -670,7 +670,7 @@
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
-<div aria-hidden="true" class="d-none d-lg-block">
+<div aria-hidden="true" class="d-none d-lg-block" style="margin-top: -2px">
     <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
@@ -916,7 +916,7 @@
                 </div>
                 <!--BILLEDE / MAPS-->
                 <div class="col-md-6 text-center">
-                    <img src="/images/maps_placeholder.png"
+                    <img src="images/maps_placeholder.png"
                          alt="maps placeholder"
                          class="img-fluid rounded-4 shadow-sm">
                 </div>

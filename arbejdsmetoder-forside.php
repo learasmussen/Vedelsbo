@@ -1596,7 +1596,7 @@
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
-<div aria-hidden="true" class="d-none d-lg-block">
+<div aria-hidden="true" class="d-none d-lg-block" style="margin-top: -2px">
     <img src="waves-desktop/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
@@ -2005,7 +2005,7 @@
         <div class="row g-5 align-items-center">
             <!--KOLONNE 1: BILLEDE-->
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="/images/round_placeholder.png"
+                <img src="images/round_placeholder.png"
                      class="img-fluid d-block mx-auto"
                      alt="placeholder">
             </div>
