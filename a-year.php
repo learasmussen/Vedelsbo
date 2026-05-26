@@ -55,9 +55,7 @@
 
 <!--top image-->
 <div class="container-fluid d-md-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/borger-a-year-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger d-md-none">
 </div>
 
 <!--beige big wave-->
@@ -106,9 +104,7 @@
 
 <!--image-->
 <div class="container-fluid d-md-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/borger-a-year-image-one-phone.png" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
 </div>
 
 <!--beige normal wave upside down-->

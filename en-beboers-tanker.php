@@ -52,7 +52,7 @@
 
 <!--top-image-->
 <div class="container-fluid p-0 d-md-none position-relative" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger ">
+    <img src="images/beboers-tanker-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger ">
 </div>
 
 <!--beige big wave-->

@@ -142,7 +142,7 @@
 
 <!--image-->
 <div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
+    <img src="images/om-vedelsbo-image-one-phone.png" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
 </div>
 
 <!--beige normal wave upside down-->

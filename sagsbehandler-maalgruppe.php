@@ -54,9 +54,7 @@
 
 <!--top image-->
 <div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger d-none d-md-block">
+    <img src="images/sagsbehandler-maalgruppe-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger d-md-none">
 </div>
 
 <!--beige big wave-->
