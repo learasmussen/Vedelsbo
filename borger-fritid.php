@@ -451,7 +451,7 @@
 
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers_large.JPG"
+    <img src="images/borger-fritid-header-image-desktop.png"
          alt="header-image" class="img-fluid header-image-borger">
 </div>
 
@@ -490,8 +490,8 @@
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
-        <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        <div class="col-6 ps-5 pb-3">
+            <img src="image-shapes/image-10.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -530,7 +530,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-2.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -542,12 +542,12 @@
     <img src="waves-desktop/normal-green-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--kreativt værksted - DESKTOP-->
+<!--rejser - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-brown">
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
-        <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        <div class="col-6 ps-5 pb-3">
+            <img src="image-shapes/image-12.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -573,9 +573,9 @@
 <!--three images - DESKTOP-->
 <div class=" container d-none d-md-none d-lg-block mt-4 pb-0">
     <div class="row">
-        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-11.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-12.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-7.png" class="col-4" alt="">
     </div>
 </div>
 

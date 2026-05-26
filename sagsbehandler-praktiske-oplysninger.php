@@ -431,9 +431,9 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 bg-off-white">
     <div class="row">
-        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-21.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-22.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-23.png" class="col-4" alt="">
     </div>
 </div>
 

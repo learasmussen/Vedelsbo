@@ -722,9 +722,9 @@
 <!--screen images - DESKTOP-->
 <div class=" container d-none d-md-none d-lg-block mt-4">
     <div class="row">
-        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-3.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-24.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-25.png" class="col-4" alt="">
     </div>
 </div>
 

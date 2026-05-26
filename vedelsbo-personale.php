@@ -924,7 +924,7 @@
 
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers_large.JPG"
+    <img src="images/sagsbehandler-maalgruppe-header-image-desktop.png"
          alt="header-image" class="img-fluid header-image-borger">
 </div>
 

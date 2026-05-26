@@ -904,7 +904,7 @@
 
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers_large.JPG"
+    <img src="images/sagsbehandler-values-header-image-desktop.png"
          alt="header-image" class="img-fluid header-image-borger">
 </div>
 
@@ -1962,9 +1962,9 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 pb-3">
     <div class="row">
-        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-15.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-10.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-16.png" class="col-4" alt="">
     </div>
 </div>
 

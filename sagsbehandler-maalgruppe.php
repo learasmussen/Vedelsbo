@@ -364,7 +364,7 @@
 
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers_large.JPG"
+    <img src="images/sagsbehandler-maalgruppe-header-image-desktop.png"
          alt="header-image" class="img-fluid header-image-borger">
 </div>
 
@@ -399,7 +399,7 @@
     <img src="waves-desktop/beige-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
-<!--aftenaktiviteter - DESKTOP-->
+<!--kriterier - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-off-white">
     <div class="row d-flex justify-content-center align-items-center my-3">
 
@@ -455,7 +455,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-7.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -470,9 +470,9 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 pb-3">
     <div class="row">
-        <img src="shapes/picture-shape-creative.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-alpacha.png" class="col-4" alt="">
-        <img src="shapes/picture-shape-outdoors.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-18.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-10.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-17.png" class="col-4" alt="">
     </div>
 </div>
 

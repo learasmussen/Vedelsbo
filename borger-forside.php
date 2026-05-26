@@ -422,7 +422,7 @@
 
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers_large.JPG"
+    <img src="images/header-image-desktop.jpg"
          alt="header-image" class="img-fluid header-image-borger">
 </div>
 
@@ -456,8 +456,8 @@
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-green">
     <div class="row d-flex justify-content-center align-items-center">
         
-        <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        <div class="col-6 ps-5 pb-3">
+            <img src="image-shapes/image-1.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -511,7 +511,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-2.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -527,8 +527,8 @@
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-sage-green">
     <div class="row d-flex justify-content-center align-items-center">
 
-        <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+        <div class="col-6 ps-5 pb-3">
+            <img src="image-shapes/image-3.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -582,7 +582,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="images/round_placeholder.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-9.png" alt="" class="img-fluid" style="width: 400px;">
         </div>
 
 

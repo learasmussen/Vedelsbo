@@ -1602,7 +1602,7 @@
 
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers_large.JPG"
+    <img src="images/sagsbehandler-maalgruppe-header-image-desktop.png"
          alt="header-image" class="img-fluid header-image-borger">
 </div>
 
@@ -1802,7 +1802,7 @@
         </div>
         <!-- HØJRE: BILLEDE -->
         <div class="col-lg-6">
-            <img src="images/round_placeholder.png"
+            <img src="image-shapes/image-19.png"
                  alt="placeholder"
                  class="img-fluid">
         </div>
@@ -2005,7 +2005,7 @@
         <div class="row g-5 align-items-center">
             <!--KOLONNE 1: BILLEDE-->
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="images/round_placeholder.png"
+                <img src="image-shapes/image-13.png"
                      class="img-fluid d-block mx-auto"
                      alt="placeholder">
             </div>
@@ -2163,7 +2163,7 @@
             <div class="col-lg-6">
                 <!-- BILLEDE -->
                 <div class="mb-4">
-                    <img src="images/round_placeholder.png"
+                    <img src="image-shapes/image-15.png"
                          alt="placeholder"
                          class="img-fluid">
                 </div>
