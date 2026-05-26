@@ -246,7 +246,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/borger-fritid-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -314,9 +314,7 @@
 
 <!--image - TABLET-->
 <div class="container-fluid p-0 position-relative d-none d-md-block d-lg-none" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/borger-fritid-image-one-tablet.png" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <!--beige normal wave upside down - TABLET-->
@@ -355,9 +353,7 @@
 
 <!--image - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
-         class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/borger-fritid-image-two-tablet.png" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <!--beige normal wave upside down - TABLET-->

@@ -471,7 +471,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/sagsbehandler-values-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->

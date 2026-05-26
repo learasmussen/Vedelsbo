@@ -380,7 +380,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/personale_flowers.JPG" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/sagsbehandler-maalgruppe-header-image.png" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->

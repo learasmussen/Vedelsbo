@@ -203,7 +203,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/borger-meal-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -266,7 +266,7 @@
 
 <!--image - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
+    <img src="images/borger-meal-image-one-tablet.png" alt="header-image"
          class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
