@@ -201,7 +201,7 @@
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
-<div aria-hidden="true" class="d-none d-md-block d-lg-none">
+<div aria-hidden="true" class="d-none d-md-block d-lg-none" style="margin-top: -2px">
     <img src="waves-tablet/nav-wave.png" class="waves position-relative w-100" alt="">
 </div>
 
