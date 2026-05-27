@@ -142,37 +142,37 @@
 
         <!--ansvarlighed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-hand.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-hand.png" class="mb-1" alt="" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">ANSVARLIGHED</strong>
         </div>
 
         <!--omsorg-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-heart.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-heart.png" class="mb-1" alt="" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">OMSORG</strong>
         </div>
 
         <!--respekt-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-people-standing.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-people-standing.png" class="mb-1" alt="" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">RESPEKT</strong>
         </div>
 
         <!--rummelighed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-people.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-people.png" class="mb-1" alt="" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">RUMMELIGHED</strong>
         </div>
 
         <!--udvikling-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-seed.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-seed.png" class="mb-1" alt="" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">UDVIKLING</strong>
         </div>
 
         <!--åbenhed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center">
-            <img src="shapes/light-green-shape-two-hands.png" class="mb-1" alt="shape" style="width: 90px">
+            <img src="shapes/light-green-shape-two-hands.png" class="mb-1" alt="" style="width: 90px">
             <strong class="cormorant font-fourteen mb-3">ÅBENHED</strong>
         </div>
 
@@ -558,37 +558,37 @@
 
         <!--ansvarlighed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center mb-3">
-            <img src="shapes/light-green-shape-hand.png" class="mb-3" alt="shape" style="width: 150px">
+            <img src="shapes/light-green-shape-hand.png" class="mb-3" alt="" style="width: 150px">
             <strong class="cormorant font-eightteen mb-3">ANSVARLIGHED</strong>
         </div>
 
         <!--omsorg-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center mb-3">
-            <img src="shapes/light-green-shape-heart.png" class="mb-3" alt="shape" style="width: 150px">
+            <img src="shapes/light-green-shape-heart.png" class="mb-3" alt="" style="width: 150px">
             <strong class="cormorant font-eightteen mb-3">OMSORG</strong>
         </div>
 
         <!--respekt-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center mb-3">
-            <img src="shapes/light-green-shape-people-standing.png" class="mb-3" alt="shape" style="width: 150px">
+            <img src="shapes/light-green-shape-people-standing.png" class="mb-3" alt="" style="width: 150px">
             <strong class="cormorant font-eightteen mb-3">RESPEKT</strong>
         </div>
 
         <!--rummelighed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center mb-3">
-            <img src="shapes/light-green-shape-people.png" class="mb-3" alt="shape" style="width: 150px">
+            <img src="shapes/light-green-shape-people.png" class="mb-3" alt="" style="width: 150px">
             <strong class="cormorant font-eightteen mb-3">RUMMELIGHED</strong>
         </div>
 
         <!--udvikling-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center mb-5">
-            <img src="shapes/light-green-shape-seed.png" class="mb-3" alt="shape" style="width: 150px">
+            <img src="shapes/light-green-shape-seed.png" class="mb-3" alt="" style="width: 150px">
             <strong class="cormorant font-eightteen mb-3">UDVIKLING</strong>
         </div>
 
         <!--åbenhed-->
         <div class="col-6 d-flex flex-column justify-content-center align-items-center mb-5 pe-3">
-            <img src="shapes/light-green-shape-two-hands.png" class="mb-3" alt="shape" style="width: 150px">
+            <img src="shapes/light-green-shape-two-hands.png" class="mb-3" alt="" style="width: 150px">
             <strong class="cormorant font-eightteen mb-3">ÅBENHED</strong>
         </div>
 
@@ -864,7 +864,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image-desktop.jpg"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af solnedgang over Vedelsbo" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -1104,7 +1104,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-18.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-18.png" alt="billede af arbejdspapier på bordet" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -1121,7 +1121,7 @@
     <div class="row d-flex justify-content-center align-items-center">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-17.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-17.png" alt="billede af to personer der taler sammen udenfor" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -1178,7 +1178,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-19.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-19.png" alt="to personer der kigger på arbejdspapirer" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -1193,9 +1193,9 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 pb-3">
     <div class="row">
-        <img src="decoration-image-shapes/image-3.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-1.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-2.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-3.png" class="col-4" alt="to personer i kreaværkstedet der griner sammen">
+        <img src="decoration-image-shapes/image-1.png" class="col-4" alt="en person der hilser på en sort alpaca">
+        <img src="decoration-image-shapes/image-2.png" class="col-4" alt="en person foran et stort bål udenfor">
     </div>
 </div>
 

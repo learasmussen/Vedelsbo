@@ -272,7 +272,6 @@
 </div>
 
 
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -281,7 +280,8 @@
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-lg-none d-md-block d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-9 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: -120px z-index: 2">
+<div class="container-fluid d-none d-lg-none d-md-block d-md-flex justify-content-center align-items-center bg-sage-green ps-4 pt-md-9 ps-md-0 pb-md-2 borger-forside-header"
+     style="margin-top: -120px z-index: 2">
 
     <div class="row d-md-flex justify-content-center align-items-center mt-5">
         <div class="col-10 mt-0">
@@ -303,7 +303,8 @@
 
 <!--wave shape - TABLET-->
 <div aria-hidden="true" class="text-end d-none d-lg-none d-md-block decoration-frontpage" style="margin-top: -85px">
-    <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+    <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 180px">
 </div>
 
 <!--tilsynsrapporterne - TABLET-->
@@ -522,7 +523,6 @@
 </div>
 
 
-
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -553,7 +553,8 @@
 
 <!--wave shape - DESKTOP-->
 <div aria-hidden="true" class="text-end d-none d-md-none d-lg-block decoration-frontpage" style="margin-top: -110px">
-    <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+    <img src="header-shapes/dark-brown-book.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 200px">
 </div>
 
 <!--tilsynsrapporterne - DESKTOP-->
@@ -680,37 +681,37 @@
                 2013
             </a>
         </div>
-    <div class="row justify-content-start m-0 p-0">
-        <!--2012-->
-        <div class="col-3 d-flex justify-content-center mb-3 g-3">
-            <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/11_30-tilsynsrapport-2012.pdf"
-               target="_blank"
-               rel="noopener noreferrer"
-               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
-                2012
-            </a>
-        </div>
+        <div class="row justify-content-start m-0 p-0">
+            <!--2012-->
+            <div class="col-3 d-flex justify-content-center mb-3 g-3">
+                <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/11_30-tilsynsrapport-2012.pdf"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
+                    2012
+                </a>
+            </div>
 
-        <!--2011-->
-        <div class="col-3 d-flex justify-content-center mb-3 g-3">
-            <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/12_31-tilsynsrapport-2011.pdf"
-               target="_blank"
-               rel="noopener noreferrer"
-               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
-                2011
-            </a>
-        </div>
+            <!--2011-->
+            <div class="col-3 d-flex justify-content-center mb-3 g-3">
+                <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/12_31-tilsynsrapport-2011.pdf"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3  inter d-inline-block text-decoration-none">
+                    2011
+                </a>
+            </div>
 
-        <!--2010-->
-        <div class="col-3 d-flex justify-content-center mb-3 px-0 g-3">
-            <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/13_32-tilsynsrapport-2010.pdf"
-               target="_blank"
-               rel="noopener noreferrer"
-               class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3 inter d-inline-block text-decoration-none">
-                2010
-            </a>
+            <!--2010-->
+            <div class="col-3 d-flex justify-content-center mb-3 px-0 g-3">
+                <a href="https://vedelsbo.dk/CustomerData/Files/Folders/2-tilsynsrapporter/13_32-tilsynsrapport-2010.pdf"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="tilsyn-button font-twelve font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 p-md-3 inter d-inline-block text-decoration-none">
+                    2010
+                </a>
+            </div>
         </div>
-    </div>
     </div>
 </div>
 
@@ -722,9 +723,10 @@
 <!--screen images - DESKTOP-->
 <div class=" container d-none d-md-none d-lg-block mt-4">
     <div class="row">
-        <img src="decoration-image-shapes/image-3.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-24.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-25.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-3.png" class="col-4"
+             alt="billede af to personer i kreaværkstedet der griner sammen">
+        <img src="decoration-image-shapes/image-24.png" class="col-4" alt="billede af solnedgang over Vedelsbo">
+        <img src="decoration-image-shapes/image-25.png" class="col-4" alt="billede af et samtale spot">
     </div>
 </div>
 
@@ -752,37 +754,37 @@
         </div>
         <!--CTA-->
         <div class="col-6 d-flex justify-content-center">
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-            <a href="sagsbehandler-values.php"
-               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 275px">
-                Værdier
-            </a>
-        </div>
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-values.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Værdier
+                </a>
+            </div>
 
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-            <a href="sagsbehandler-maalgruppe.php"
-               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 275px">
-                Målgruppe
-            </a>
-        </div>
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-maalgruppe.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Målgruppe
+                </a>
+            </div>
 
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-            <a href="sagsbehandler-visitering.php"
-               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 275px">
-                Visitering
-            </a>
-        </div>
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-visitering.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Visitering
+                </a>
+            </div>
 
-        <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
-            <a href="sagsbehandler-praktiske-oplysninger.php"
-               class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
-               style="width: 275px">
-                Praktisk
-            </a>
-        </div>
+            <div class="col-6 d-flex justify-content-center mb-3 pe-4 ps-2 g-3">
+                <a href="sagsbehandler-praktiske-oplysninger.php"
+                   class="font-sixteen bg-light-green text-off-black rounded-pill fw-bold border-0 py-2 px-2 inter d-inline-block text-decoration-none"
+                   style="width: 275px">
+                    Praktisk
+                </a>
+            </div>
         </div>
     </div>
 

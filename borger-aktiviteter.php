@@ -679,7 +679,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/borger-aktiviteter-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af fire personer der hver især laver noget kreativt" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -721,7 +721,7 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-5.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-5.png" alt="billede af lysebrun alpacha" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -766,7 +766,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-4.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-4.png" alt="billede af blomster og et lille træ i en krukke" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -783,7 +783,7 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-1.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-1.png" alt="billede af en person der er kreativ" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -812,9 +812,9 @@
 <!--three images - DESKTOP-->
 <div class=" container d-none d-md-none d-lg-block my-4 pb-5">
     <div class="row">
-        <img src="decoration-image-shapes/image-17.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-14.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-13.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-17.png" class="col-4" alt="billede af personer der hver især laver noget kreativt">
+        <img src="decoration-image-shapes/image-14.png" class="col-4" alt="billede af en der får en medalje om halsen">
+        <img src="decoration-image-shapes/image-13.png" class="col-4" alt="billede af en mørkebrun alpaca">
     </div>
 </div>
 
@@ -844,7 +844,7 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-8.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-8.png" alt="to personer der sejler i kano" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -889,7 +889,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-11.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-11.png" alt="billede af træningsmaskiner" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -906,7 +906,7 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-6.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-6.png" alt="billede indendørs af orangeriet" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">

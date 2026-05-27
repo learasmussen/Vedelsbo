@@ -52,7 +52,8 @@
 
 <!--top-image-->
 <div class="container-fluid p-0 d-md-none position-relative" style="z-index: -1000">
-    <img src="images/beboers-tanker-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger ">
+    <img src="images/beboers-tanker-header-image-phone.png" alt="billede af en kat der sidder i vindueskarmen"
+         class="img-fluid header-image-borger ">
 </div>
 
 <!--beige big wave-->
@@ -258,7 +259,6 @@
 </div>
 
 
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -268,7 +268,8 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/beboers-tanker-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/beboers-tanker-header-image-tablet.png" alt="billede af en kat der sidder i vindueskarmmen"
+         class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -282,7 +283,8 @@
 </div>
 
 <!--første del af "digtet" - TABLET-->
-<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-background ps-4 pt-md-0 ps-md-0 pb-md-2" style="margin-top: 110px" >
+<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-background ps-4 pt-md-0 ps-md-0 pb-md-2"
+     style="margin-top: 110px">
 
     <div class="row justify-content-center px-1">
 
@@ -473,7 +475,6 @@
 </div>
 
 
-
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -482,7 +483,7 @@
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block bg-sage-green justify-content-center align-items-center ps-4 pt-5 pb-md-2 borger-forside-header mt-0"  >
+<div class="container-fluid d-none d-lg-block bg-sage-green justify-content-center align-items-center ps-4 pt-5 pb-md-2 borger-forside-header mt-0">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -541,11 +542,16 @@
             </strong>
 
             <p class="inter font-sixteen mb-3 text-start ps-3">En dags væren i smukke omgivelser</p>
-            <p class="inter font-sixteen mb-3 text-start ps-3">Med solskinstimer uden regn og blæst på Casa Vedelsbo, er nu ved at være til ende.</p>
-            <p class="inter font-sixteen mb-3 text-start ps-3">Udenfor høres fasanernes klukkende sang. Over græsplænen anes halvfede unger i mangeartede fjerdragter. Fasan og påfuglefjer er de mangeartede kåber.</p>
-            <p class="inter font-sixteen mb-3 text-start ps-3">Rådyrenes karamelbrune pels er en pryd for øjet mens de græsser og spiser nedfalden frugt.</p>
-            <p class="inter font-sixteen mb-3 text-start ps-3">Lyde fra fugle i træk, sammen med faste taktslag fra ørnens vingesus gør sommer og efterår i et.</p>
-            <p class="inter font-sixteen mb-0 text-start ps-3">Solsorten gemmer sig i tusmørket for natten, i træers kulhed, mens flagermusenes susen gennem luften til laden og loen er natklædte skygger.</p>
+            <p class="inter font-sixteen mb-3 text-start ps-3">Med solskinstimer uden regn og blæst på Casa Vedelsbo, er
+                nu ved at være til ende.</p>
+            <p class="inter font-sixteen mb-3 text-start ps-3">Udenfor høres fasanernes klukkende sang. Over græsplænen
+                anes halvfede unger i mangeartede fjerdragter. Fasan og påfuglefjer er de mangeartede kåber.</p>
+            <p class="inter font-sixteen mb-3 text-start ps-3">Rådyrenes karamelbrune pels er en pryd for øjet mens de
+                græsser og spiser nedfalden frugt.</p>
+            <p class="inter font-sixteen mb-3 text-start ps-3">Lyde fra fugle i træk, sammen med faste taktslag fra
+                ørnens vingesus gør sommer og efterår i et.</p>
+            <p class="inter font-sixteen mb-0 text-start ps-3">Solsorten gemmer sig i tusmørket for natten, i træers
+                kulhed, mens flagermusenes susen gennem luften til laden og loen er natklædte skygger.</p>
 
         </div>
 
@@ -559,15 +565,27 @@
         <div class="col-12">
             <p class="mb-3">Et kæmpe pæretræ fylder deres bolig og i sultne munde fylder frugt larver og insekter.</p>
             <p class="mb-3">Egerne både sorte og røde iler over græsplænen til graners top.</p>
-            <p class="mb-3">Æbletræer, blommetræer, pæretræer, brombær – og hindbærbuskene bugner af dejlighed for lækkersultne munde.</p>
+            <p class="mb-3">Æbletræer, blommetræer, pæretræer, brombær – og hindbærbuskene bugner af dejlighed for
+                lækkersultne munde.</p>
             <p class="mb-3">En dråbe rød saft glider fra mundvigen ned til hagen fra den fuldmodne blomme.</p>
-            <p class="mb-3">På engen græsser køerne i biers summen og brumbassers gule bukser fra kløverblomsterne gør dagen ekstra dejlig.</p>
-            <p class="mb-3">Myggenes dans over himlen i svingende tango med stankelben, er et syn for guder, i måneskin.</p>
-            <p class="mb-3">Snart sænker roen sig over casa Vedelsbo og blot katten ligger vågen ved husets fod. En brummende lyd runger ad nedløbsrøret, et ekko med genlyd fra snorkende rum, bebuder den harmoni der hersker på Vedelsbo​​.</p>
-            <p class="mb-3">At opleve en menneskevarme og nogle der virkelig brænder for deres arbejde, betyder at vi får en bedre hverdag, med overkommelige gøremål, der sætter os i gang og holder vores sindslidelse ” stangen ”.</p>
-            <p class="mb-3">Det er så vigtigt at være en del af et arbejdsfællesskab for så føler vi at vi kan bruges i det samfund, der nu engang har gjort os svært ellers at deltage i.​</p>
-            <p class="mb-3">Med en ro og harmoni på netop dette sted med omkringliggende kæmpe have og en lille urtehave, med overdækket terrasse og et stort køkken med hjemmelavet mad, og en god stor opholdsstue med akvarium og to undulater, begge dele hyggeligt sammen med en dejlig hund der ofte er på besøg, højner vores hverdag. Dyr betyder meget for os.</p>
-            <p class="mb-0">Det er meget svært som sindslidende at være så meget anderledes at man bliver betragtet som udenfor samfundet vi lever i.​</p>
+            <p class="mb-3">På engen græsser køerne i biers summen og brumbassers gule bukser fra kløverblomsterne gør
+                dagen ekstra dejlig.</p>
+            <p class="mb-3">Myggenes dans over himlen i svingende tango med stankelben, er et syn for guder, i
+                måneskin.</p>
+            <p class="mb-3">Snart sænker roen sig over casa Vedelsbo og blot katten ligger vågen ved husets fod. En
+                brummende lyd runger ad nedløbsrøret, et ekko med genlyd fra snorkende rum, bebuder den harmoni der
+                hersker på Vedelsbo​​.</p>
+            <p class="mb-3">At opleve en menneskevarme og nogle der virkelig brænder for deres arbejde, betyder at vi
+                får en bedre hverdag, med overkommelige gøremål, der sætter os i gang og holder vores sindslidelse ”
+                stangen ”.</p>
+            <p class="mb-3">Det er så vigtigt at være en del af et arbejdsfællesskab for så føler vi at vi kan bruges i
+                det samfund, der nu engang har gjort os svært ellers at deltage i.​</p>
+            <p class="mb-3">Med en ro og harmoni på netop dette sted med omkringliggende kæmpe have og en lille
+                urtehave, med overdækket terrasse og et stort køkken med hjemmelavet mad, og en god stor opholdsstue med
+                akvarium og to undulater, begge dele hyggeligt sammen med en dejlig hund der ofte er på besøg, højner
+                vores hverdag. Dyr betyder meget for os.</p>
+            <p class="mb-0">Det er meget svært som sindslidende at være så meget anderledes at man bliver betragtet som
+                udenfor samfundet vi lever i.​</p>
         </div>
     </div>
 </dic>

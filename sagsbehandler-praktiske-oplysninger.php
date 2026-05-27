@@ -172,11 +172,6 @@
 </div>
 
 
-
-
-
-
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top wave - TABLET-->
@@ -207,7 +202,8 @@
 
 <!--wave shape - TABLET-->
 <div aria-hidden="true" class="text-end d-none d-lg-none d-md-block decoration-frontpage" style="margin-top: -85px">
-    <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image pe-4 m-0" alt="" style="width: 180px">
+    <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image pe-4 m-0" alt=""
+         style="width: 180px">
 </div>
 
 <!--samarbejdspartnere - TABLET-->
@@ -325,11 +321,6 @@
 </div>
 
 
-
-
-
-
-
 <!--MELLEM SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -359,7 +350,8 @@
 
 <!--wave shape - DESKTOP-->
 <div aria-hidden="true" class="text-end d-none d-md-none d-lg-block decoration-frontpage" style="margin-top: -110px">
-    <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image pe-4 m-0" alt="" style="width: 200px">
+    <img src="header-shapes/dark-brown-info.png" class="decoration-frontpage-image pe-4 m-0" alt=""
+         style="width: 200px">
 </div>
 
 <!--samarbejdspartnere - DESKTOP-->
@@ -431,9 +423,10 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 bg-off-white">
     <div class="row">
-        <img src="decoration-image-shapes/image-21.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-22.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-23.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-21.png" class="col-4"
+             alt="billede af to personer der står med drikkevare og hygger sig">
+        <img src="decoration-image-shapes/image-22.png" class="col-4" alt="billede af røde blomster på en busk">
+        <img src="decoration-image-shapes/image-23.png" class="col-4" alt="billede af en lysebrun alpaca">
     </div>
 </div>
 

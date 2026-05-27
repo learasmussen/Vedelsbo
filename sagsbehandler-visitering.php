@@ -151,8 +151,6 @@
 </div>
 
 
-
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top wave - TABLET-->
@@ -182,7 +180,8 @@
 
 <!--wave shape - TABLET-->
 <div aria-hidden="true" class="text-end d-none d-lg-none d-md-block decoration-frontpage" style="margin-top: -85px">
-    <img src="header-shapes/dark-brown-email.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+    <img src="header-shapes/dark-brown-email.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 180px">
 </div>
 
 <!--info-om visitering - TABLET-->
@@ -279,8 +278,6 @@
 </div>
 
 
-
-
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -310,7 +307,8 @@
 
 <!--wave shape - DESKTOP-->
 <div aria-hidden="true" class="text-end d-none d-md-none d-lg-block decoration-frontpage" style="margin-top: -110px">
-    <img src="header-shapes/dark-brown-email.png" class="decoration-frontpage-image pe-4 m-0" alt="" style="width: 200px">
+    <img src="header-shapes/dark-brown-email.png" class="decoration-frontpage-image pe-4 m-0" alt=""
+         style="width: 200px">
 </div>
 
 <!--info om visitering - DESKTOP-->
@@ -357,9 +355,11 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 bg-off-white">
     <div class="row">
-        <img src="decoration-image-shapes/image-19.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-24.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-14.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-19.png" class="col-4"
+             alt="billede af personer der er på gåtur med alcapaerne">
+        <img src="decoration-image-shapes/image-24.png" class="col-4" alt="billede af solnedgang over Vedelsbo">
+        <img src="decoration-image-shapes/image-14.png" class="col-4"
+             alt="billede af en person der får en medajle on halsen">
     </div>
 </div>
 
@@ -427,7 +427,6 @@
 <div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-none d-lg-block bg-dark-green">
     <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
-
 
 
 <?php include 'includes/footer.php'; ?>

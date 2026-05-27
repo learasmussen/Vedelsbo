@@ -53,7 +53,7 @@
 
 <!--top image-->
 <div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
-    <img src="images/sagsbehandler-maalgruppe-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger d-md-none">
+    <img src="images/sagsbehandler-maalgruppe-header-image-phone.png" alt="billede af hvide blomster" class="img-fluid header-image-borger d-md-none">
 </div>
 
 <!--beige big wave-->
@@ -88,7 +88,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Lonnie
@@ -104,7 +104,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Søren
@@ -138,7 +138,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Thania
@@ -154,7 +154,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Lis
@@ -170,7 +170,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Rene
@@ -186,7 +186,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Kamilla
@@ -202,7 +202,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Sille
@@ -218,7 +218,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Charlotte
@@ -253,7 +253,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Hanne
@@ -269,7 +269,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Lisanne
@@ -285,7 +285,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 90px">
                 <strong class="inter font-fourteen fw-bold mb-0">
                     Pia
@@ -485,7 +485,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/sagsbehandler-maalgruppe-header-image.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/sagsbehandler-maalgruppe-header-image.png" alt="billede af hvide blomster" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -543,7 +543,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Lonnie
@@ -559,7 +559,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Søren
@@ -593,7 +593,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Thania
@@ -609,7 +609,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Lis
@@ -625,7 +625,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Rene
@@ -641,7 +641,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Kamilla
@@ -657,7 +657,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Sille
@@ -673,7 +673,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Charlotte
@@ -708,7 +708,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Hanne
@@ -724,7 +724,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Lisanne
@@ -740,7 +740,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Pia
@@ -925,7 +925,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/sagsbehandler-maalgruppe-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af hvide blomster" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -982,7 +982,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Lonnie
@@ -998,7 +998,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Søren
@@ -1034,7 +1034,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Thania
@@ -1050,7 +1050,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Lis
@@ -1066,7 +1066,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Rene
@@ -1082,7 +1082,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Kamilla
@@ -1098,7 +1098,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Sille
@@ -1114,7 +1114,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Charlotte
@@ -1150,7 +1150,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Hanne
@@ -1166,7 +1166,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Lisanne
@@ -1182,7 +1182,7 @@
             <div class="d-flex flex-column align-items-start">
                 <img src="shapes/light-green-shape-user.png"
                      class="mb-1"
-                     alt="shape"
+                     alt="personale billede placeholder"
                      style="width: 180px">
                 <strong class="inter font-sixteen fw-bold mb-0">
                     Pia

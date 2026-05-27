@@ -54,7 +54,8 @@
 
 <!--top-image-->
 <div class="container-fluid p-0 position-relative d-md-none" style="z-index: -1000">
-    <img src="images/borger-fritid-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger d-md-none">
+    <img src="images/borger-fritid-header-image-phone.png" alt="to personer der går tur i grønne omgivelser"
+         class="img-fluid header-image-borger d-md-none">
 </div>
 
 <!--beige big wave-->
@@ -101,7 +102,8 @@
 
 <!--image-->
 <div class="container-fluid p-0 position-relative d-md-none" style="z-index: -1000">
-    <img src="images/borger-fritid-image-one-phone.png" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
+    <img src="images/borger-fritid-image-one-phone.png" alt="to personer der går i grønne omgivelser"
+         class="img-fluid header-image-borger-fritid d-md-none">
 </div>
 
 <!--beige normal wave upside down-->
@@ -140,7 +142,8 @@
 
 <!--image-->
 <div class="container-fluid d-md-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-fritid-image-two-phone.png" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
+    <img src="images/borger-fritid-image-two-phone.png" alt="to personer der sidder i sofaen og ser TV"
+         class="img-fluid header-image-borger-fritid d-md-none">
 </div>
 
 <!--beige normal wave upside down-->
@@ -232,7 +235,6 @@
 </div>
 
 
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -242,7 +244,8 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-fritid-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/borger-fritid-header-image-tablet.png" alt="to personer der går tur i grønne omgivelser"
+         class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -256,7 +259,8 @@
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
+<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
+     style="margin-top: 110px">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -264,7 +268,9 @@
         </div>
         <div class="col-10 mb-3">
             <div class="font-twelve font-sixteen px-5 inter  text-center">
-                På Vedelsbo er der rig mulighed for, at dyrke lige præcis den interesse du har - om det er at være kreativ, aktiv, eller noget helt andet. Vi støtter dig også gerne, hvis du ønsker at deltage i noget, uden for huset.
+                På Vedelsbo er der rig mulighed for, at dyrke lige præcis den interesse du har - om det er at være
+                kreativ, aktiv, eller noget helt andet. Vi støtter dig også gerne, hvis du ønsker at deltage i noget,
+                uden for huset.
             </div>
         </div>
 
@@ -310,7 +316,8 @@
 
 <!--image - TABLET-->
 <div class="container-fluid p-0 position-relative d-none d-md-block d-lg-none" style="z-index: -1000">
-    <img src="images/borger-fritid-image-one-tablet.png" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/borger-fritid-image-one-tablet.png" alt="to personer der sidder i sofaen og ser TV"
+         class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <!--beige normal wave upside down - TABLET-->
@@ -349,7 +356,8 @@
 
 <!--image - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-fritid-image-two-tablet.png" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/borger-fritid-image-two-tablet.png" alt="to personer der sidder udenfor i solnedgangen"
+         class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <!--beige normal wave upside down - TABLET-->
@@ -441,7 +449,6 @@
 </div>
 
 
-
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -452,7 +459,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/borger-fritid-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="to personer der går tur i grønne omgivesler" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -466,7 +473,7 @@
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -474,7 +481,9 @@
         </div>
         <div class="col-10 mb-3">
             <div class="font-twelve font-sixteen px-5 inter  text-center mb-0">
-                På Vedelsbo er der rig mulighed for, at dyrke lige præcis den interesse du har - om det er at være kreativ, aktiv, eller noget helt andet. Vi støtter dig også gerne, hvis du ønsker at deltage i noget, uden for huset.
+                På Vedelsbo er der rig mulighed for, at dyrke lige præcis den interesse du har - om det er at være
+                kreativ, aktiv, eller noget helt andet. Vi støtter dig også gerne, hvis du ønsker at deltage i noget,
+                uden for huset.
             </div>
         </div>
 
@@ -491,7 +500,8 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-10.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-10.png" alt="to personer der går tur i grønne omgivelser" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -500,7 +510,12 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Der er gode muligheder for at beskæftige sig med individuelle interesser og fritidsaktiviteter. Fritidsaktiviteter kan omfatte svømning, gå- eller cykelture, læsning, kreative aktiviteter samt øvrige interesser, som den enkelte beboer ønsker at dyrke. Der er mulighed for ledsagelse af kontaktperson ved behov, eksempelvis ved aktiviteter uden for tilbuddet. Der planlægges faste ATA-dage (Aktiv Tid Alene/sammen med kontaktperson), hvor beboeren kan tage på tur eller deltage i aktiviteter ud fra individuelle ønsker og behov.
+                Der er gode muligheder for at beskæftige sig med individuelle interesser og fritidsaktiviteter.
+                Fritidsaktiviteter kan omfatte svømning, gå- eller cykelture, læsning, kreative aktiviteter samt øvrige
+                interesser, som den enkelte beboer ønsker at dyrke. Der er mulighed for ledsagelse af kontaktperson ved
+                behov, eksempelvis ved aktiviteter uden for tilbuddet. Der planlægges faste ATA-dage (Aktiv Tid
+                Alene/sammen med kontaktperson), hvor beboeren kan tage på tur eller deltage i aktiviteter ud fra
+                individuelle ønsker og behov.
             </p>
 
 
@@ -524,13 +539,17 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Om aftenen er der mulighed for ro og afslapning med eksempelvis fjernsyn, film, læsning, musik eller gåture. Der er desuden mulighed for fælles aktiviteter som køreture, spil eller biografture efter aftale. Der planlægges løbende sociale aftener med udgangspunkt i beboernes ønsker og medindflydelse. Aktiviteterne kan eksempelvis være fælles spil såsom banko eller andre sociale arrangementer.
+                Om aftenen er der mulighed for ro og afslapning med eksempelvis fjernsyn, film, læsning, musik eller
+                gåture. Der er desuden mulighed for fælles aktiviteter som køreture, spil eller biografture efter
+                aftale. Der planlægges løbende sociale aftener med udgangspunkt i beboernes ønsker og medindflydelse.
+                Aktiviteterne kan eksempelvis være fælles spil såsom banko eller andre sociale arrangementer.
             </p>
 
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-2.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-2.png" alt="to personer der sidder i en sofa og ser TV" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
 
@@ -547,7 +566,8 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-12.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-12.png" alt="to personer der sidder udenfor i solnedgangen" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -556,7 +576,12 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Vedelsbo tilbyder årligt fælles ferie, hvor beboerne har medindflydelse på feriemål. Ferierne kan både være rejser i udlandet og ophold i Danmark. For beboere der ikke deltager i fællesferien, planlægges der alternative aktiviteter og dags ture ud af huset med fokus på trivsel og hyggelige oplevelser. Der er desuden mulighed for individuelle rejser i ind- eller udland sammen med kontaktpersonen enten alene eller sammen med andre beboere. Ved individuelle ferier afholdt uden for fællesarrangementet afholder beboeren selv alle udgifter forbundet med rejsen, med undtagelse af personalets løn.
+                Vedelsbo tilbyder årligt fælles ferie, hvor beboerne har medindflydelse på feriemål. Ferierne kan både
+                være rejser i udlandet og ophold i Danmark. For beboere der ikke deltager i fællesferien, planlægges der
+                alternative aktiviteter og dags ture ud af huset med fokus på trivsel og hyggelige oplevelser. Der er
+                desuden mulighed for individuelle rejser i ind- eller udland sammen med kontaktpersonen enten alene
+                eller sammen med andre beboere. Ved individuelle ferier afholdt uden for fællesarrangementet afholder
+                beboeren selv alle udgifter forbundet med rejsen, med undtagelse af personalets løn.
             </p>
 
 
@@ -573,9 +598,10 @@
 <!--three images - DESKTOP-->
 <div class=" container d-none d-md-none d-lg-block mt-4 pb-0">
     <div class="row">
-        <img src="decoration-image-shapes/image-11.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-12.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-7.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-11.png" class="col-4" alt="billede af bål i en vikinghal">
+        <img src="decoration-image-shapes/image-12.png" class="col-4"
+             alt="personer omkring et stort bord udenfor om sommeren">
+        <img src="decoration-image-shapes/image-7.png" class="col-4" alt="billede indenfor i orangeriet">
     </div>
 </div>
 

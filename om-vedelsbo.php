@@ -58,8 +58,8 @@
 
 <!--top image-->
 <div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
+    <img src="images/header-image.jpg" alt="billede af hvide blomster på en busk" class="img-fluid header-image-borger d-md-none">
+    <img src="images/header-image-tablet.jpg" alt="billede af hvide blomster på en busk"
          class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
@@ -142,7 +142,7 @@
 
 <!--image-->
 <div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
-    <img src="images/om-vedelsbo-image-one-phone.png" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
+    <img src="images/om-vedelsbo-image-one-phone.png" alt="billede af et stort træ i gården" class="img-fluid header-image-borger-fritid d-md-none">
 </div>
 
 <!--beige normal wave upside down-->
@@ -380,7 +380,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/sagsbehandler-maalgruppe-header-image.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/sagsbehandler-maalgruppe-header-image.png" alt="billede af hvide blomster" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -478,7 +478,7 @@
 
 <!--image - TABLET-->
 <div class="container-fluid p-0 position-relative d-none d-md-block d-lg-none" style="z-index: -1000">
-    <img src="images/om_vedelsbo_gaardsplads.JPG" alt="header-image" class="img-fluid header-image-borger-fritid">
+    <img src="images/om_vedelsbo_gaardsplads.JPG" alt="billede af et stort træ i gården" class="img-fluid header-image-borger-fritid">
 </div>
 
 <!--beige normal wave upside down - TABLET-->
@@ -677,7 +677,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/sagsbehandler-maalgruppe-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af hvide blomster" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -764,7 +764,7 @@
             <!--BILLEDE-->
             <div class="col-lg-6 text-center">
                 <img src="image-shapes/image-13.png"
-                     alt="placeholder"
+                     alt="personer der sidder udenfor i grønne omgivelser"
                      class="img-fluid rounded-5">
             </div>
         </div>

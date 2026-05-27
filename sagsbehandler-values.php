@@ -53,7 +53,8 @@
 
 <!--top image-->
 <div class="container-fluid d-md-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/sagsbehandler-values-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger d-md-none">
+    <img src="images/sagsbehandler-values-header-image-phone.png" alt="header-image"
+         class="img-fluid header-image-borger d-md-none">
 </div>
 
 <!--beige big wave-->
@@ -228,9 +229,12 @@
                         <li class="mb-1">Vi sætter beboeren i centrum og understøtter troen på egne ressourcer.</li>
                         <li class="mb-1">Vi understøtter beboerens mål, ønsker og motivation.</li>
                         <li class="mb-1">Vi udviser ærlighed og tydelig grænsesætning.</li>
-                        <li class="mb-1">Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.</li>
+                        <li class="mb-1">Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.
+                        </li>
                         <li class="mb-1">Vi taler ikke om beboeren i dennes påhør.</li>
-                        <li class="mb-0">Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet indsats.</li>
+                        <li class="mb-0">Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og
+                            målrettet indsats.
+                        </li>
                     </ul>
                 </div>
 
@@ -459,7 +463,6 @@
 </div>
 
 
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -469,7 +472,8 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/sagsbehandler-values-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/sagsbehandler-values-header-image-tablet.png" alt="billede af to personer ude i det grønne"
+         class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -479,11 +483,13 @@
 
 <!--wave shape - TABLET-->
 <div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
-    <img src="header-shapes/dark-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+    <img src="header-shapes/dark-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 180px">
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
+<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
+     style="margin-top: 110px">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -491,7 +497,8 @@
         </div>
         <div class="col-10 mb-3">
             <div class="font-twelve font-sixteen px-5 inter  text-center">
-                Vedelsbo arbejder ud fra følgende grundlæggende værdier: ansvarlighed, omsorg, respekt, rummelighed, udvikling og åbenhed.
+                Vedelsbo arbejder ud fra følgende grundlæggende værdier: ansvarlighed, omsorg, respekt, rummelighed,
+                udvikling og åbenhed.
             </div>
         </div>
 
@@ -664,9 +671,12 @@
                         <li class="mb-1">Vi sætter beboeren i centrum og understøtter troen på egne ressourcer.</li>
                         <li class="mb-1">Vi understøtter beboerens mål, ønsker og motivation.</li>
                         <li class="mb-1">Vi udviser ærlighed og tydelig grænsesætning.</li>
-                        <li class="mb-1">Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.</li>
+                        <li class="mb-1">Vi inddrager beboeren i beslutninger vedrørende egen hverdag og fællesskab.
+                        </li>
                         <li class="mb-1">Vi taler ikke om beboeren i dennes påhør.</li>
-                        <li class="mb-0">Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet indsats.</li>
+                        <li class="mb-0">Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og
+                            målrettet indsats.
+                        </li>
                     </ul>
                 </div>
 
@@ -905,7 +915,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/sagsbehandler-values-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af to personer ude i det grønne" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -915,11 +925,12 @@
 
 <!--wave shape - DESKTOP-->
 <div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
-    <img src="header-shapes/dark-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+    <img src="header-shapes/dark-brown-heart.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 200px">
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -1067,15 +1078,18 @@
                                     <ul class="ps-3 mt-2">
 
                                         <li class="mb-1">
-                                            Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og inddragelse.
+                                            Vi understøtter beboerens ansvar for eget liv gennem støtte, motivation og
+                                            inddragelse.
                                         </li>
 
                                         <li class="mb-1">
-                                            Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og funktionsniveau.
+                                            Vi arbejder med at udvikle ansvar ud fra beboerens ressourcer og
+                                            funktionsniveau.
                                         </li>
 
                                         <li class="mb-0">
-                                            Vi reagerer på nedværdigende eller grænseoverskridende adfærd i fællesskabet.
+                                            Vi reagerer på nedværdigende eller grænseoverskridende adfærd i
+                                            fællesskabet.
                                         </li>
 
                                     </ul>
@@ -1119,7 +1133,8 @@
 
             <!-- tekst -->
             <p class="inter mb-5 font-sixteen">
-                Omsorg er en professionel relationel tilgang baseret på indføling, opmærksomhed og støtte til mennesker i sårbare livssituationer.
+                Omsorg er en professionel relationel tilgang baseret på indføling, opmærksomhed og støtte til mennesker
+                i sårbare livssituationer.
             </p>
 
             <!-- accordions -->
@@ -1345,7 +1360,8 @@
                                         </li>
 
                                         <li class="mb-1">
-                                            Vi arbejder med forståelse for hinandens typer og arbejdsstil (MBTI) som et fagligt redskab.
+                                            Vi arbejder med forståelse for hinandens typer og arbejdsstil (MBTI) som et
+                                            fagligt redskab.
                                         </li>
 
                                         <li class="mb-1">
@@ -1429,7 +1445,8 @@
                                         </li>
 
                                         <li class="mb-0">
-                                            Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og målrettet indsats.
+                                            Vi anvender samarbejdsmappe som fælles arbejdsredskab for kontinuitet og
+                                            målrettet indsats.
                                         </li>
 
                                     </ul>
@@ -1473,7 +1490,8 @@
 
             <!-- tekst -->
             <p class="inter mb-5 font-sixteen">
-                Rummelighed handler om at anerkende og acceptere menneskers forskellighed, livssituation og foranderlighed.
+                Rummelighed handler om at anerkende og acceptere menneskers forskellighed, livssituation og
+                foranderlighed.
             </p>
 
             <!-- accordions -->
@@ -1508,7 +1526,8 @@
                                     <ul class="ps-3 mt-2">
 
                                         <li class="mb-1">
-                                            Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt samarbejdsredskab.
+                                            Vi anvender forståelse for hinandens profiler (MBTI) som et aktivt
+                                            samarbejdsredskab.
                                         </li>
 
                                         <li class="mb-1">
@@ -1569,11 +1588,13 @@
                                         </li>
 
                                         <li class="mb-1">
-                                            Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner professionelt.
+                                            Vi giver plads til den enkelte og “container” følelsesmæssige reaktioner
+                                            professionelt.
                                         </li>
 
                                         <li class="mb-0">
-                                            Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet uanset funktionsniveau og dagsform.
+                                            Vi understøtter oplevelsen af at være en værdifuld del af fællesskabet
+                                            uanset funktionsniveau og dagsform.
                                         </li>
 
                                     </ul>
@@ -1796,7 +1817,8 @@
 
             <!-- tekst -->
             <p class="inter mb-5 font-sixteen">
-                Åbenhed er en forudsætning for tillid, hvor ærlighed, loyalitet og tryghed indgår som centrale elementer.
+                Åbenhed er en forudsætning for tillid, hvor ærlighed, loyalitet og tryghed indgår som centrale
+                elementer.
             </p>
 
             <!-- accordions -->
@@ -1962,9 +1984,11 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 pb-3">
     <div class="row">
-        <img src="decoration-image-shapes/image-15.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-10.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-16.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-15.png" class="col-4"
+             alt="billede af to personer der går tur i grønne omgivelser">
+        <img src="decoration-image-shapes/image-10.png" class="col-4" alt="billede af en lysebrun alcapa">
+        <img src="decoration-image-shapes/image-16.png" class="col-4"
+             alt="billede af perosner der spiller kongespil udenfor i godt vejr">
     </div>
 </div>
 
@@ -2032,11 +2056,6 @@
 <div aria-hidden="true" class=" green-wavywave-frontpage d-none d-md-none d-lg-block bg-dark-green">
     <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
-
-
-
-
-
 
 
 <?php include 'includes/footer.php'; ?>

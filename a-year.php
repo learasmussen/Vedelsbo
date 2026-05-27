@@ -203,7 +203,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-a-year-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/borger-a-year-header-image-tablet.png" alt="blomsterbusk" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -272,7 +272,7 @@
 
 <!--image - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-a-year-image-one-tablet.png" alt="header-image" class="img-fluid header-image-borger-fritid d-none d-md-block">
+    <img src="images/borger-a-year-image-one-tablet.png" alt="blomsterbusk" class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
 <!--beige normal wave upside down - TABLET-->
@@ -374,7 +374,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/borger-a-year-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="blomsterbusk" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->

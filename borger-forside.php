@@ -38,7 +38,8 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant">En hverdag med mening og muligheder</h1>
         </div>
         <div class="col-12 col-md-10 pt-md-3">
-            <div class="inter font-twelve font-eightteen pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg og
+            <div class="inter font-twelve font-eightteen pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg
+                og
                 meningsfuld hverdag med fællesskab, aktiviteter, nærvær og plads til personlig udvikling.
             </div>
         </div>
@@ -216,8 +217,6 @@
 </div>
 
 
-
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -233,7 +232,8 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant">En hverdag med mening og muligheder</h1>
         </div>
         <div class="col-12 col-md-10 pt-md-3">
-            <div class="inter font-twelve font-eightteen pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg og
+            <div class="inter font-twelve font-eightteen pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg
+                og
                 meningsfuld hverdag med fællesskab, aktiviteter, nærvær og plads til personlig udvikling.
             </div>
         </div>
@@ -249,7 +249,7 @@
 <!--top-image - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-borger d-md-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image"
+    <img src="images/header-image-tablet.jpg" alt="billede af solnedgang over Vedelsbo"
          class="img-fluid header-image-borger d-none d-md-block">
 </div>
 
@@ -411,8 +411,6 @@
 </div>
 
 
-
-
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -423,7 +421,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/header-image-desktop.jpg"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af solnedgang over Vedelsbo" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -432,15 +430,18 @@
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
-            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">En hverdag med mening og muligheder</h1>
+            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">En hverdag med mening og
+                muligheder</h1>
         </div>
         <div class="col-10 mb-3">
             <div class="font-twelve font-sixteen px-5 inter  text-center">
-                På Vedelsbo skaber vi rammer for en tryg og meningsfuld hverdag med fællesskab, aktiviteter, nærvær og plads til personlig udvikling.            </div>
+                På Vedelsbo skaber vi rammer for en tryg og meningsfuld hverdag med fællesskab, aktiviteter, nærvær og
+                plads til personlig udvikling.
+            </div>
 
         </div>
 
@@ -455,9 +456,10 @@
 <!--aktiviteter - DESKTOP-->
 <div class="container-fluid d-none d-lg-flex justify-content-center align-items-center bg-light-green">
     <div class="row d-flex justify-content-center align-items-center">
-        
+
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-1.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-1.png" alt="billede af hænder der folder et kord" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -466,7 +468,9 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                På Vedelsbo er aktiviteter en vigtig del af hverdagen og understøtter både trivsel, fællesskab og personlig udvikling. Beboerne kan deltage i kreative værksteder, natur- og dyrehold, motion, bålhygge og fælles udflugter i rolige og trygge rammer.
+                På Vedelsbo er aktiviteter en vigtig del af hverdagen og understøtter både trivsel, fællesskab og
+                personlig udvikling. Beboerne kan deltage i kreative værksteder, natur- og dyrehold, motion, bålhygge og
+                fælles udflugter i rolige og trygge rammer.
             </p>
 
             <div>
@@ -478,7 +482,7 @@
             </div>
 
         </div>
-        
+
     </div>
 </div>
 
@@ -497,7 +501,9 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                Vi støtter beboerne i at skabe en meningsfuld fritid med plads til både interesser, afslapning og sociale oplevelser. Der er blandt andet mulighed for både kreative aktiviteter, gåture, sociale arrangementer, biografture og rolige stunder, hvor fællesskab og trivsel er i fokus.
+                Vi støtter beboerne i at skabe en meningsfuld fritid med plads til både interesser, afslapning og
+                sociale oplevelser. Der er blandt andet mulighed for både kreative aktiviteter, gåture, sociale
+                arrangementer, biografture og rolige stunder, hvor fællesskab og trivsel er i fokus.
             </p>
 
             <div>
@@ -511,7 +517,8 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-2.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-2.png" alt="billede af to personer der sidder i en dagligstue og ser tv sammen"
+                 class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -528,7 +535,7 @@
     <div class="row d-flex justify-content-center align-items-center">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-3.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-3.png" alt="billede af et stort træ i grønne og røde farver" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -537,7 +544,9 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                Årets gang på Vedelsbo er præget af traditioner, fællesskab og hyggelige oplevelser. Vi afholder blandt andet sommerfest, julearrangementer, ture og sociale aktiviteter, hvor beboerne har medindflydelse og mulighed for at skabe gode minder sammen.
+                Årets gang på Vedelsbo er præget af traditioner, fællesskab og hyggelige oplevelser. Vi afholder blandt
+                andet sommerfest, julearrangementer, ture og sociale aktiviteter, hvor beboerne har medindflydelse og
+                mulighed for at skabe gode minder sammen.
             </p>
 
             <div>
@@ -568,7 +577,9 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                På Vedelsbo lægger vi vægt på sund, varieret og hjemmelavet mad, hvor måltiderne også fungerer som et socialt samlingspunkt. Her er der plads til nærvær, dialog og fællesskab i rolige og hyggelige omgivelser.
+                På Vedelsbo lægger vi vægt på sund, varieret og hjemmelavet mad, hvor måltiderne også fungerer som et
+                socialt samlingspunkt. Her er der plads til nærvær, dialog og fællesskab i rolige og hyggelige
+                omgivelser.
             </p>
 
             <div>
@@ -582,7 +593,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-9.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-9.png" alt="billede af hjemmebagt" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -721,21 +732,15 @@
                 card.style.setProperty('--x', '0px');
                 card.style.setProperty('--opacity', '1');
                 card.style.setProperty('--z', '5');
-            }
-
-            else if (index === prevIndex) {
+            } else if (index === prevIndex) {
                 card.style.setProperty('--x', '-45px');
                 card.style.setProperty('--opacity', '0.4');
                 card.style.setProperty('--z', '3');
-            }
-
-            else if (index === nextIndex) {
+            } else if (index === nextIndex) {
                 card.style.setProperty('--x', '45px');
                 card.style.setProperty('--opacity', '0.4');
                 card.style.setProperty('--z', '3');
-            }
-
-            else {
+            } else {
                 card.style.setProperty('--x', '0px');
                 card.style.setProperty('--opacity', '0');
                 card.style.setProperty('--z', '1');

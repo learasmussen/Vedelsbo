@@ -40,7 +40,7 @@ require "settings/init.php";
 
 <!--top-image-->
 <div class="container-fluid p-0 d-md-none ">
-    <img src="images/header-image.jpg" alt="header-image" class="img-fluid header-image-frontpage">
+    <img src="images/header-image.jpg" alt="billede af solnedgang over Vedelsbo" class="img-fluid header-image-frontpage">
 </div>
 
 <!--green-wave-->
@@ -96,7 +96,8 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
+                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores
+                hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
             </p>
 
         </div>
@@ -110,7 +111,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i hverdagen.
+                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med
+                forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i
+                hverdagen.
             </p>
 
         </div>
@@ -124,7 +127,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og udvikling.
+                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile
+                relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og
+                udvikling.
             </p>
 
         </div>
@@ -138,7 +143,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med fokus på struktur og fælles trivsel i hverdagen.
+                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige
+                medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med
+                fokus på struktur og fælles trivsel i hverdagen.
             </p>
 
         </div>
@@ -267,7 +274,8 @@ require "settings/init.php";
         </div>
         <div class="row">
             <div class="col">
-                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Skriv din besked...*"
+                <input type="text" class="form-control inter font-twelve bg-off-white"
+                       placeholder="Skriv din besked...*"
                        aria-label="Skriv din besked her">
             </div>
         </div>
@@ -275,7 +283,7 @@ require "settings/init.php";
 
     <div class="container d-flex justify-content-center align-items-center pt-2 pb-2">
         <a href="tak-for-bidrag.php" type="button"
-                class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
+           class="font-twelve font-sixteen inter bg-dark-brown text-off-black rounded-pill border-0 py-2 px-3 d-inline-block text-decoration-none">
             Send
             <i class="fa-solid fa-angle-right"></i></a>
     </div>
@@ -283,10 +291,9 @@ require "settings/init.php";
 
 <!--bottom-wave-->
 <div class="bg-dark-green d-md-none wave-minus-two-px" aria-hidden="true" style="margin-top: -2px">
-    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
+    <img src="waves-phone/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0"
+         style="z-index: 100;" alt="">
 </div>
-
-
 
 
 <!--MELLEM SKÆRM (TABLET)-->
@@ -298,7 +305,7 @@ require "settings/init.php";
 
 <!--top-image - TABLET-->
 <div class="container-fluid p-0 d-none d-md-block d-lg-none">
-    <img src="images/header-image-tablet.jpg" alt="header-image" class="img-fluid header-image-frontpage">
+    <img src="images/header-image-tablet.jpg" alt="billede af solnedgang over Vedelsbo" class="img-fluid header-image-frontpage">
 </div>
 
 <!--green-wave - TABLET-->
@@ -354,7 +361,8 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
+                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores
+                hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
             </p>
 
         </div>
@@ -368,7 +376,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i hverdagen.
+                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med
+                forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i
+                hverdagen.
             </p>
 
         </div>
@@ -382,7 +392,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og udvikling.
+                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile
+                relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og
+                udvikling.
             </p>
 
         </div>
@@ -396,7 +408,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-twelve px-4 mb-md-0 px-md-3">
-                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med fokus på struktur og fælles trivsel i hverdagen.
+                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige
+                medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med
+                fokus på struktur og fælles trivsel i hverdagen.
             </p>
 
         </div>
@@ -525,7 +539,8 @@ require "settings/init.php";
         </div>
         <div class="row">
             <div class="col">
-                <input type="text" class="form-control inter font-twelve bg-off-white" placeholder="Skriv din besked...*"
+                <input type="text" class="form-control inter font-twelve bg-off-white"
+                       placeholder="Skriv din besked...*"
                        aria-label="Skriv din besked her">
             </div>
         </div>
@@ -541,7 +556,8 @@ require "settings/init.php";
 
 <!--bottom-wave - TABLET-->
 <div class="bg-dark-green d-none d-md-block d-lg-none" aria-hidden="true" style="margin-top: -2px">
-    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
+    <img src="waves-tablet/light-brown-normal-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0"
+         style="z-index: 100;" alt="">
 </div>
 
 
@@ -577,12 +593,12 @@ require "settings/init.php";
                 </div>
 
                 <div class="pb-5" style="z-index: 1000">
-                <a href="om-vedelsbo.php"
-                   class="font-sixteen btn bg-dark-brown rounded-pill border-0 py-2 px-4">
-                    Læs mere om Vedelsbo
-                    <i class="fa-solid fa-angle-right ms-2"></i>
-                </a>
-            </div>
+                    <a href="om-vedelsbo.php"
+                       class="font-sixteen btn bg-dark-brown rounded-pill border-0 py-2 px-4">
+                        Læs mere om Vedelsbo
+                        <i class="fa-solid fa-angle-right ms-2"></i>
+                    </a>
+                </div>
             </div>
 
             <!--wave-->
@@ -618,7 +634,8 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
+                På Vedelsbo skaber vi trygge og hjemlige rammer for mennesker med psykiske udfordringer. Vi bygger vores
+                hverdag på omsorg, respekt, rummelighed og nærvær. Her er fællesskab, trivsel og livskvalitet i centrum.
             </p>
 
         </div>
@@ -632,7 +649,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i hverdagen.
+                Vi hjælper voksne med psykiske udfordringer og tilknytning til psykiatrien. Hos os mødes hver beboer med
+                forståelse, støtte og individuelle løsninger. Målet er at skabe tryghed, struktur og udvikling i
+                hverdagen.
             </p>
 
         </div>
@@ -646,7 +665,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og udvikling.
+                Vi arbejder med en recovery-orienteret og individuel tilgang, hvor beboeren er i centrum. Gennem stabile
+                relationer, struktur og faglig støtte hjælper vi den enkelte med at skabe trivsel, selvstændighed og
+                udvikling.
             </p>
 
         </div>
@@ -660,7 +681,9 @@ require "settings/init.php";
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med fokus på struktur og fælles trivsel i hverdagen.
+                Vedelsbo er et socialpsykiatrisk botilbud med et tværfagligt team af sundheds- og socialfaglige
+                medarbejdere. Vi prioriterer faglighed, samarbejde og et trygt miljø for både beboere og personale. Med
+                fokus på struktur og fælles trivsel i hverdagen.
             </p>
 
         </div>
@@ -839,7 +862,8 @@ require "settings/init.php";
 
 <!--bottom-wave - DESKTOP-->
 <div class="bg-dark-green d-none d-lg-block" aria-hidden="true">
-    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0" style="z-index: 100;" alt="" >
+    <img src="waves-desktop/normal-light-brown-wave.png" class="waves img-fluid wave-minus-two-px p-0 m-0"
+         style="z-index: 100;" alt="">
 </div>
 
 

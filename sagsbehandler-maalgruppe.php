@@ -54,7 +54,8 @@
 
 <!--top image-->
 <div class="container-fluid p-0 position-relative d-block d-md-none" style="z-index: -1000">
-    <img src="images/sagsbehandler-maalgruppe-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger d-md-none">
+    <img src="images/sagsbehandler-maalgruppe-header-image-phone.png" alt="billede af hvide blomster"
+         class="img-fluid header-image-borger d-md-none">
 </div>
 
 <!--beige big wave-->
@@ -186,8 +187,6 @@
 </div>
 
 
-
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -197,7 +196,8 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/sagsbehandler-maalgruppe-header-image.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/sagsbehandler-maalgruppe-header-image.png" alt="billede af hvide blomster"
+         class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -353,8 +353,6 @@
 </div>
 
 
-
-
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -365,7 +363,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/sagsbehandler-maalgruppe-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af hvide blomster" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -375,11 +373,12 @@
 
 <!--wave shape - DESKTOP-->
 <div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
-    <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+    <img src="header-shapes/dark-brown-people.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 200px">
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -387,7 +386,9 @@
         </div>
         <div class="col-10 mb-3">
             <div class="font-twelve font-sixteen px-5 inter  text-center mb-0">
-                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en sindslidelse eller for nylig er blevet  diagnosticeret.  Fælles for målgruppen er en tilknytning til det psykiatriske system.
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en
+                sindslidelse eller for nylig er blevet diagnosticeret. Fælles for målgruppen er en tilknytning til det
+                psykiatriske system.
             </div>
         </div>
 
@@ -407,7 +408,8 @@
             <strong class="allura fw-normal d-block mb-3 mt-0 front-page-shape-header text-center">Kriterier</strong>
 
             <p class="inter px-0 mx-5 mb-3 font-sixteen">
-                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en sindslidelse eller for nylig er blevet  diagnosticeret.
+                Vedelsbo henvender sig til voksne med psykiske udfordringer, som enten gennem flere år har levet med en
+                sindslidelse eller for nylig er blevet diagnosticeret.
             </p>
 
             <p class="inter px-0 mx-5 mb-0 font-sixteen">
@@ -455,7 +457,8 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-7.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-7.png" alt="billede af to personer der sidder udenfor og taler sammen"
+                 class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -470,9 +473,9 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 pb-3">
     <div class="row">
-        <img src="decoration-image-shapes/image-18.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-10.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-17.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-18.png" class="col-4" alt="billede af to personer der sejler i kano">
+        <img src="decoration-image-shapes/image-10.png" class="col-4" alt="billede af en lysebrun alpaca">
+        <img src="decoration-image-shapes/image-17.png" class="col-4" alt="billede af personer i kreaværkstedet">
     </div>
 </div>
 

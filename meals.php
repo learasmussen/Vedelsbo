@@ -55,7 +55,7 @@
 
 <!--top image-->
 <div class="container-fluid p-0 d-md-none position-relative" style="z-index: -1000">
-    <img src="images/borger-meal-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/borger-meal-header-image-phone.png" alt="billede af Vedelsbos køkken" class="img-fluid header-image-borger">
 </div>
 
 <!--beige big wave-->
@@ -97,7 +97,7 @@
 
 <!--image-->
 <div class="container-fluid d-md-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-meal-image-one-phone.png" alt="header-image" class="img-fluid header-image-borger-fritid d-md-none">
+    <img src="images/borger-meal-image-one-phone.png" alt="billede af ubagte boller på et fad" class="img-fluid header-image-borger-fritid d-md-none">
 </div>
 
 <!--beige normal wave-->
@@ -201,7 +201,7 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-meal-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/borger-meal-header-image-tablet.png" alt="billede af Vedelsbos køkken" class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -264,7 +264,7 @@
 
 <!--image - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-meal-image-one-tablet.png" alt="header-image"
+    <img src="images/borger-meal-image-one-tablet.png" alt="billede af ubagteboller på et fad"
          class="img-fluid header-image-borger-fritid d-none d-md-block">
 </div>
 
@@ -370,7 +370,7 @@
 <!--image header - DESKTOP-->
 <div class="container-fluid d-none d-lg-block p-0 position-relative" style="z-index: -1000">
     <img src="images/borger-meal-header-image-desktop.png"
-         alt="header-image" class="img-fluid header-image-borger">
+         alt="billede af Vedelsbos køkken" class="img-fluid header-image-borger">
 </div>
 
 <!--beige wave upside down - DESKTOP-->
@@ -409,7 +409,7 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-9.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-9.png" alt="billede af ubagte boller på et fad" class="img-fluid" style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -451,7 +451,7 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-16.png" alt="" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-16.png" alt="billede af to personer i Vedelsbos køkken" class="img-fluid" style="width: 400px;">
         </div>
 
 
@@ -466,9 +466,9 @@
 <!--three images - DESKTOP-->
 <div class=" container d-none d-md-none d-lg-block mt-4 pb-3">
     <div class="row">
-        <img src="decoration-image-shapes/image-4.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-5.png" class="col-4" alt="">
-        <img src="decoration-image-shapes/image-6.png" class="col-4" alt="">
+        <img src="decoration-image-shapes/image-4.png" class="col-4" alt="billede af blomster i en krukke">
+        <img src="decoration-image-shapes/image-5.png" class="col-4" alt="billede af en lysebrun alpaca">
+        <img src="decoration-image-shapes/image-6.png" class="col-4" alt="billede indenfra orangeriet">
     </div>
 </div>
 
