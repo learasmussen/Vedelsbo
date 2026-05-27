@@ -2024,14 +2024,14 @@
                     <!-- 1 -->
                     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
                         <h2 class="accordion-header">
-                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                            <button class="accordion-button font-twelve collapsed bg-light-green inter fw-bold"
                                     type="button"
                                     data-bs-toggle="collapse"
                                     data-bs-target="#deltagelse-hverdagsaktiviteter">
                                 Deltagelse i hverdagsaktiviteter
                             </button>
                         </h2>
-                        <div id="deltagelse-hverdagsaktiviteter" class="accordion-collapse collapse"
+                        <div id="deltagelse-hverdagsaktiviteter" class="font-twelve accordion-collapse collapse"
                              data-bs-parent="#accordionExample">
                             <div class="accordion-body bg-light-green inter py-2 px-3">
                                 <p class="mb-0">
@@ -2043,7 +2043,7 @@
                     <!-- 2 -->
                     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
                         <h2 class="accordion-header">
-                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                            <button class="accordion-button collapsed font-twelve bg-light-green inter fw-bold"
                                     type="button"
                                     data-bs-target="#opgaver-struktur"
                                     data-bs-toggle="collapse">
@@ -2052,7 +2052,7 @@
                         </h2>
                         <div id="opgaver-struktur" class="accordion-collapse collapse"
                              data-bs-parent="#accordionExample">
-                            <div class="accordion-body bg-light-green inter py-2 px-3">
+                            <div class="accordion-body font-twelve bg-light-green inter py-2 px-3">
                                 <p class="mb-0">
                                     Opgaver organiseres som ugentlige tjanser.
                                 </p>
@@ -2062,7 +2062,7 @@
                     <!-- 3 -->
                     <div class="accordion-item mb-3 border-0 overflow-hidden bg-light-green rounded-5">
                         <h2 class="accordion-header">
-                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                            <button class="accordion-button font-twelve collapsed bg-light-green inter fw-bold"
                                     type="button"
                                     data-bs-target="#aktiviteter-udearealer"
                                     data-bs-toggle="collapse">
@@ -2071,7 +2071,7 @@
                         </h2>
                         <div id="aktiviteter-udearealer" class="accordion-collapse collapse"
                              data-bs-parent="#accordionExample">
-                            <div class="accordion-body bg-light-green inter py-2 px-3">
+                            <div class="accordion-body font-twelve bg-light-green inter py-2 px-3">
                                 <p class="mb-0">
                                     Beboerne deltager i aktiviteter i have- og udeområder.
                                 </p>
@@ -2081,7 +2081,7 @@
                     <!-- 4 -->
                     <div class="accordion-item border-0 overflow-hidden bg-light-green rounded-5">
                         <h2 class="accordion-header">
-                            <button class="accordion-button collapsed bg-light-green inter fw-bold"
+                            <button class="accordion-button font-twelve collapsed bg-light-green inter fw-bold"
                                     type="button"
                                     data-bs-target="#forventning-deltagelse"
                                     data-bs-toggle="collapse">
@@ -2090,7 +2090,7 @@
                         </h2>
                         <div id="forventning-deltagelse" class="accordion-collapse collapse"
                              data-bs-parent="#accordionExample">
-                            <div class="accordion-body bg-light-green inter py-2 px-3">
+                            <div class="accordion-body font-twelve bg-light-green inter py-2 px-3">
                                 <p class="mb-0">
                                     Deltagelse forventes ud fra ressourcer.
                                 </p>
