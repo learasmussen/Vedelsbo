@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-beige">
+<body class="bg-background">
 
 <?php include 'includes/navbar.php'; ?>
 <?php include 'includes/to-top.php'; ?>
