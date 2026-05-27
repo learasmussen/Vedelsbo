@@ -35,7 +35,7 @@
 
     <div class="row">
         <div class="col-12 mt-5">
-            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Vedelsbo værdier</h1>
+            <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant text-center">Vedelsbos værdier</h1>
         </div>
         <div class="col-12">
             <div class="font-twelve inter pe-4 pe-md-5 me-md-5 text-center">Vedelsbo arbejder ud fra følgende
@@ -934,7 +934,7 @@
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
-            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Vedelsbo værdier</h1>
+            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Vedelsbos værdier</h1>
         </div>
         <div class="col-10 mb-3">
             <div class="font-twelve font-sixteen px-5 inter  text-center mb-0">

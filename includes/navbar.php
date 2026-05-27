@@ -5,7 +5,7 @@
         <!-- Venstre kolonne -->
         <div class="col d-flex justify-content-start align-items-center">
 
-            <a href="/index.php" class="d-inline-block mt-md-2">
+            <a href="index.php" class="d-inline-block mt-md-2">
                 <img src="logo/logo.png"
                      alt="Logo"
                      class="logo"
