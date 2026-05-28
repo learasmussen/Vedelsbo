@@ -104,7 +104,7 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-twelve">
-                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udad reagerende adfærd.
+                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udadreagerende adfærd.
                 </div>
             </div>
 
@@ -270,7 +270,7 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-sixteen">
-                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udad reagerende adfærd.
+                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udadreagerende adfærd.
                 </div>
             </div>
 
@@ -433,7 +433,7 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-sixteen">
-                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udad reagerende adfærd.
+                    Man kan ikke bo på Vedelsbo hvis man har en voldelig udadreagerende adfærd.
                 </div>
             </div>
 
