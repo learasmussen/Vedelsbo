@@ -195,7 +195,8 @@
 </div>
 
 <!--målgruppe-->
-<div class="container d-md-none d-flex justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside" id="maalgruppe">
+<div class="container d-md-none d-flex justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside"
+     id="maalgruppe">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -227,7 +228,7 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-twelve">
-                    Din adfærd er ikke voldelig og/eller udad reagerende
+                    Din adfærd er ikke voldelig og/eller udadreagerende
                 </div>
             </div>
 
@@ -269,7 +270,8 @@
 </div>
 
 <!--visitering-->
-<div class="container d-md-none d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside" id="visitering">
+<div class="container d-md-none d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside"
+     id="visitering">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -308,7 +310,8 @@
 </div>
 
 <!--praktiske oplysninger-->
-<div class="container d-flex d-md-none justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside" id="praktisk">
+<div class="container d-flex d-md-none justify-content-center align-items-center bg-light-brown pt-5 en-beboers-tanker-borger-forside"
+     id="praktisk">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -349,7 +352,8 @@
 </div>
 
 <!--tilsynsrapporter-->
-<div class="container d-md-none d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside" id="tilsynsrapporter">
+<div class="container d-md-none d-flex justify-content-center align-items-center bg-sage-green pt-5 en-beboers-tanker-borger-forside"
+     id="tilsynsrapporter">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -438,8 +442,6 @@
 </div>
 
 
-
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -455,7 +457,8 @@
             <h1 class="cormorant pe-4 pt-3 fw-bold header-text-cormorant">En hverdag med mening og muligheder</h1>
         </div>
         <div class="col-12 col-md-10 pt-md-3">
-            <div class="inter font-twelve font-eightteen pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg og
+            <div class="inter font-twelve font-eightteen pe-4 pe-md-5 me-md-5">På Vedelsbo skaber vi rammer for en tryg
+                og
                 meningsfuld hverdag med fællesskab, aktiviteter, nærvær og plads til personlig udvikling.
             </div>
         </div>
@@ -529,7 +532,8 @@
 
 <!--wave shape - TABLET-->
 <div aria-hidden="true" class="text-end d-none d-md-block d-lg-none decoration-frontpage" style="margin-top: -210px">
-    <img src="header-shapes/dark-brown-logo.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 180px">
+    <img src="header-shapes/dark-brown-logo.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 180px">
 </div>
 
 <!--values header - TABLET-->
@@ -611,7 +615,8 @@
 </div>
 
 <!--målgruppe - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-light-brown " id="maalgruppe-md">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-light-brown "
+     id="maalgruppe-md">
 
     <div class="row justify-content-center w-100 pt-5">
 
@@ -643,7 +648,7 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-sixteen">
-                    Din adfærd er ikke voldelig og/eller udad reagerende
+                    Din adfærd er ikke voldelig og/eller udadreagerende
                 </div>
             </div>
 
@@ -685,7 +690,8 @@
 </div>
 
 <!--visitering - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green " id="visitering-md">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green "
+     id="visitering-md">
 
     <div class="row justify-content-center w-100 py-5">
 
@@ -720,11 +726,12 @@
 
 <!--green normal wave - TABLET-->
 <div aria-hidden="true" class="d-none d-md-block d-lg-none bg-light-brown">
-    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="" >
+    <img src="waves-tablet/green-normal-wave.png" class="waves img-fluid  p-0 m-0" alt="">
 </div>
 
 <!--praktiske oplysninger - TABLET-->
-<div class="container-fluid mt-0 d-md-flex d-none d-lg-none justify-content-center align-items-center bg-light-brown" id="praktisk-md">
+<div class="container-fluid mt-0 d-md-flex d-none d-lg-none justify-content-center align-items-center bg-light-brown"
+     id="praktisk-md">
 
     <div class="row justify-content-center w-100 pt-5">
 
@@ -765,7 +772,8 @@
 </div>
 
 <!--tilsynsrapporter - TABLET-->
-<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green pt-5" id="tilsynsrapporter-md">
+<div class="container-fluid mt-0 d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green pt-5"
+     id="tilsynsrapporter-md">
 
     <div class="row justify-content-center w-100 mt-3">
 
@@ -874,11 +882,12 @@
 
 <!--wave shape - DESKTOP-->
 <div aria-hidden="true" class="text-end d-none d-lg-block decoration-frontpage" style="margin-top: -100px">
-    <img src="header-shapes/dark-brown-logo.png" class="decoration-frontpage-image  pe-4 m-0" alt="" style="width: 200px">
+    <img src="header-shapes/dark-brown-logo.png" class="decoration-frontpage-image  pe-4 m-0" alt=""
+         style="width: 200px">
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -912,7 +921,8 @@
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi tager ansvar for vores opgaver, aftaler og fælles mål med høj faglighed. Vi støtter beboernes selvstændighed og handler, når der er behov.
+                Vi tager ansvar for vores opgaver, aftaler og fælles mål med høj faglighed. Vi støtter beboernes
+                selvstændighed og handler, når der er behov.
             </p>
 
         </div>
@@ -926,21 +936,24 @@
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi møder hinanden og beboerne med nærvær, empati og støtte i hverdagen. Vi arbejder med hjælp til selvhjælp og tager ansvar i sårbare situationer.
+                Vi møder hinanden og beboerne med nærvær, empati og støtte i hverdagen. Vi arbejder med hjælp til
+                selvhjælp og tager ansvar i sårbare situationer.
             </p>
 
         </div>
 
         <div class="col-4 text-center mt-3 px-2">
 
-            <img src="shapes/light-green-shape-people-standing.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+            <img src="shapes/light-green-shape-people-standing.png" alt="light-green-shape" class="mb-3"
+                 style="height: 100px">
 
             <strong class="cormorant font-eightteen d-block mb-2">
                 RESPEKT
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi møder alle med ligeværdighed, anerkendelse og plads til forskellighed. Vi lytter, inddrager og kommunikerer åbent og ordentligt.
+                Vi møder alle med ligeværdighed, anerkendelse og plads til forskellighed. Vi lytter, inddrager og
+                kommunikerer åbent og ordentligt.
             </p>
 
         </div>
@@ -954,7 +967,8 @@
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi ser forskelligheder som en styrke og møder hinanden uden fordømmelse. Vi giver plads til den enkelte og skaber et inkluderende fællesskab.
+                Vi ser forskelligheder som en styrke og møder hinanden uden fordømmelse. Vi giver plads til den enkelte
+                og skaber et inkluderende fællesskab.
             </p>
 
         </div>
@@ -968,21 +982,24 @@
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi arbejder løbende med faglig og personlig udvikling gennem læring og refleksion. Vi deler viden og udvikler vores praksis til gavn for beboere og kollegaer.
+                Vi arbejder løbende med faglig og personlig udvikling gennem læring og refleksion. Vi deler viden og
+                udvikler vores praksis til gavn for beboere og kollegaer.
             </p>
 
         </div>
 
         <div class="col-4 text-center mt-3 px-2">
 
-            <img src="shapes/light-green-shape-two-hands.png" alt="light-green-shape" class="mb-3" style="height: 100px">
+            <img src="shapes/light-green-shape-two-hands.png" alt="light-green-shape" class="mb-3"
+                 style="height: 100px">
 
             <strong class="cormorant font-eightteen d-block mb-2">
                 ÅBENHED
             </strong>
 
             <p class="inter font-fourteen text-start px-1">
-                Vi skaber tillid gennem ærlig, tydelig og respektfuld kommunikation. Vi er nysgerrige, lyttende og åbne over for både nye idéer og hinanden.
+                Vi skaber tillid gennem ærlig, tydelig og respektfuld kommunikation. Vi er nysgerrige, lyttende og åbne
+                over for både nye idéer og hinanden.
             </p>
 
         </div>
@@ -1012,9 +1029,9 @@
         </div>
 
         <div class="col-6">
-            <strong class="cormorant fw-bold d-block mb-3 mt-0 front-page-shape-header">
-                MÅLGRUPPE
-            </strong>
+            <div class="allura d-block mb-3 mt-0 front-page-shape-header">
+                Målgruppe
+            </div>
 
             <div class="d-flex align-items-center pe-3 mb-3">
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
@@ -1036,7 +1053,7 @@
                 <i class="fa-solid fa-circle-check text-dark-green me-3 mt-1"></i>
 
                 <div class="font-sixteen">
-                    Din adfærd er ikke voldelig og/eller udad reagerende
+                    Din adfærd er ikke voldelig og/eller udadreagerende
                 </div>
             </div>
 
@@ -1068,11 +1085,9 @@
         </div>
 
 
-
-
-        </div>
-
     </div>
+
+</div>
 
 <!--beige normal wave - DESKTOP-->
 <div aria-hidden="true" class="d-none d-lg-block bg-off-white green-wavywave-frontpage">
@@ -1085,12 +1100,14 @@
     <div class="row d-flex justify-content-center align-items-center my-3">
 
         <div class="col-6 ps-5">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                VISITERING
-            </strong>
+            <div class="allura d-block mb-3 mt-0 front-page-shape-header">
+                Visitering
+            </div>
 
             <p class="inter px-0 mx-0 mb-4 font-sixteen">
-                I praksis besøger den interesserede borger, evt. pårørende, sagsbehandler fra kommunen og evt. kontaktperson Vedelsbo. Borgeren besøger Vedelsbo i princippet så mange gange der er et gensidigt behov. Under besøget vil daglig leder og evt. kommende kontaktpersoner være tilstede.
+                I praksis besøger den interesserede borger, evt. pårørende, sagsbehandler fra kommunen og evt.
+                kontaktperson Vedelsbo. Borgeren besøger Vedelsbo i princippet så mange gange der er et gensidigt behov.
+                Under besøget vil daglig leder og evt. kommende kontaktpersoner være tilstede.
             </p>
 
             <div>
@@ -1104,7 +1121,8 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-18.png" alt="billede af arbejdspapier på bordet" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-18.png" alt="billede af arbejdspapier på bordet" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
 
@@ -1121,16 +1139,18 @@
     <div class="row d-flex justify-content-center align-items-center">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-17.png" alt="billede af to personer der taler sammen udenfor" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-17.png" alt="billede af to personer der taler sammen udenfor" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                PRAKTISKE OPLYSNINGER
-            </strong>
+            <div class="allura d-block mb-3 mt-0 front-page-shape-header">
+                Praktiske oplysninger
+            </div>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                Som beboer har man en månedlig egenbetaling som indeholder bl.a. husleje, kost og kørsel. Beboerbetalingen udregnes efter størrelsen af boligen og den månedlige  indtægt.
+                Som beboer har man en månedlig egenbetaling som indeholder bl.a. husleje, kost og kørsel.
+                Beboerbetalingen udregnes efter størrelsen af boligen og den månedlige indtægt.
             </p>
             <p class="inter px-0 mx-0 mb-4 font-sixteen">
                 Vi samarbejder med borgers egen praktiserende læge, Psykiatrien Syd i Vordingborg, sagsbehandlere, m.m.
@@ -1159,9 +1179,9 @@
     <div class="row d-flex justify-content-center align-items-center my-3">
 
         <div class="col-6 ps-5">
-            <strong class="cormorant d-block mb-3 mt-0 front-page-shape-header">
-                TILSYNSRAPPORTER
-            </strong>
+            <div class="allura d-block mb-3 mt-0 front-page-shape-header">
+                Tilsynsrapporter
+            </div>
 
             <p class="inter px-0 mx-0 mb-4 font-sixteen">
                 Vedelsbo har årligt et uanmeldt og et anmeldt tilsyn fra Socialtilsyn Øst.
@@ -1178,7 +1198,8 @@
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-19.png" alt="to personer der kigger på arbejdspapirer" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-19.png" alt="to personer der kigger på arbejdspapirer" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
 
@@ -1193,7 +1214,8 @@
 <!--screen images - DESKTOP-->
 <div class=" container-fluid d-none d-md-none d-lg-block pt-5 pb-3">
     <div class="row">
-        <img src="decoration-image-shapes/image-3.png" class="col-4" alt="to personer i kreaværkstedet der griner sammen">
+        <img src="decoration-image-shapes/image-3.png" class="col-4"
+             alt="to personer i kreaværkstedet der griner sammen">
         <img src="decoration-image-shapes/image-1.png" class="col-4" alt="en person der hilser på en sort alpaca">
         <img src="decoration-image-shapes/image-2.png" class="col-4" alt="en person foran et stort bål udenfor">
     </div>
