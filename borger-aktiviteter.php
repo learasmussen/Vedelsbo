@@ -192,7 +192,7 @@
                 <p class="mb-3">Der er mulighed for, at blive tilknyttet forskellige væresteder, hvor man kan møde
                     ligestillede og på den måde udbygge sit sociale netværk.</p>
                 <p class="mb-3">På værestederne kan man deltage i mange forskellige aktiviteter såsom læderværksted,
-                    Køkkenaktiviteter, smykkeværksted og kreativt værksted.</p>
+                    køkkenaktiviteter, smykkeværksted og kreativt værksted.</p>
 
             </div>
         </div>
@@ -535,7 +535,7 @@
 
                             <p class="mb-3">På værestederne kan man deltage i mange forskellige aktiviteter såsom
                                 læderværksted,
-                                Køkkenaktiviteter, smykkeværksted og kreativt værksted.</p>
+                                kaktiviteter, smykkeværksted og kreativt værksted.</p>
 
                         </div>
                     </div>
