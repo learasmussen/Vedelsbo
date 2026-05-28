@@ -54,7 +54,8 @@
 
 <!--top image-->
 <div class="container-fluid p-0 position-relative d-md-none" style="z-index: -1000">
-    <img src="images/borger-aktiviteter-header-image-phone.png" alt="header-image" class="img-fluid header-image-borger d-md-none">
+    <img src="images/borger-aktiviteter-header-image-phone.png" alt="header-image"
+         class="img-fluid header-image-borger d-md-none">
 </div>
 
 <!--beige big wave-->
@@ -327,8 +328,6 @@
 </div>
 
 
-
-
 <!--MELLEM SKÆRM (TABLET)-->
 
 <!--top-wave - TABLET-->
@@ -338,7 +337,8 @@
 
 <!--image header - TABLET-->
 <div class="container-fluid d-none d-md-block d-lg-none p-0 position-relative" style="z-index: -1000">
-    <img src="images/borger-aktiviteter-header-image-tablet.png" alt="header-image" class="img-fluid header-image-borger">
+    <img src="images/borger-aktiviteter-header-image-tablet.png" alt="header-image"
+         class="img-fluid header-image-borger">
 </div>
 
 <!--green big wave - TABLET-->
@@ -352,7 +352,8 @@
 </div>
 
 <!--top-info - TABLET-->
-<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header" style="margin-top: 110px" >
+<div class="container-fluid d-none d-md-flex d-lg-none justify-content-center align-items-center bg-sage-green ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header"
+     style="margin-top: 110px">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -414,14 +415,18 @@
                     <div id="naturholdet" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body bg-light-green inter accordion-body-text">
 
-                            <p class="mb-3">Tre dage ugentligt i sommerhalvåret og to dage ugentligt i vinterhalvåret deltager
-                                beboerne i praktiske opgaver på Vedelsbos udearealer som led i et relations- og aktivitetsbaseret
+                            <p class="mb-3">Tre dage ugentligt i sommerhalvåret og to dage ugentligt i vinterhalvåret
+                                deltager
+                                beboerne i praktiske opgaver på Vedelsbos udearealer som led i et relations- og
+                                aktivitetsbaseret
                                 tilbud.</p>
 
-                            <p class="mb-3">Opgaverne kan omfatte oprydning, græsslåning, såning, fejning og øvrig vedligeholdelse
+                            <p class="mb-3">Opgaverne kan omfatte oprydning, græsslåning, såning, fejning og øvrig
+                                vedligeholdelse
                                 af udearealer.</p>
 
-                            <p class="mb-3">Indsatsen tilrettelægges med fokus på struktur, fællesskab og mestring i hverdagen.</p>
+                            <p class="mb-3">Indsatsen tilrettelægges med fokus på struktur, fællesskab og mestring i
+                                hverdagen.</p>
 
                         </div>
                     </div>
@@ -449,12 +454,16 @@
                     <div id="dyreholdet" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body bg-light-green inter accordion-body-text">
 
-                            <p class="mb-3">Vedelsbo har et dyrehold bestående af alpacaer, kat, undulater samt et akvarium.</p>
+                            <p class="mb-3">Vedelsbo har et dyrehold bestående af alpacaer, kat, undulater samt et
+                                akvarium.</p>
 
-                            <p class="mb-3">Dyreholdet indgår som en del af de pædagogiske og rehabiliterende aktiviteter.</p>
+                            <p class="mb-3">Dyreholdet indgår som en del af de pædagogiske og rehabiliterende
+                                aktiviteter.</p>
 
-                            <p class="mb-3">Opgaverne omfatter blandt andet fodring og rengøring, men der lægges samtidig vægt på
-                                samvær, nærvær og kontakt med dyrene som en del af den sociale og sansemæssige støtte.</p>
+                            <p class="mb-3">Opgaverne omfatter blandt andet fodring og rengøring, men der lægges
+                                samtidig vægt på
+                                samvær, nærvær og kontakt med dyrene som en del af den sociale og sansemæssige
+                                støtte.</p>
 
                         </div>
                     </div>
@@ -482,13 +491,16 @@
                     <div id="creativeSpace" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body bg-light-green inter accordion-body-text">
 
-                            <p class="mb-3">Der afholdes kreativt værksted hver tirsdag i sommerhalvåret samt tirsdag og onsdag i
+                            <p class="mb-3">Der afholdes kreativt værksted hver tirsdag i sommerhalvåret samt tirsdag og
+                                onsdag i
                                 vinterhalvåret.</p>
 
-                            <p class="mb-3">Her arbejdes der med kreative og praktiske aktiviteter ud fra beboernes interesser og
+                            <p class="mb-3">Her arbejdes der med kreative og praktiske aktiviteter ud fra beboernes
+                                interesser og
                                 ønsker.</p>
 
-                            <p class="mb-3">Der er fokus på medindflydelse, motivation og mulighed for at afprøve forskellige
+                            <p class="mb-3">Der er fokus på medindflydelse, motivation og mulighed for at afprøve
+                                forskellige
                                 kreative udtryk i et understøttende miljø.</p>
 
                         </div>
@@ -517,10 +529,12 @@
                     <div id="places" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body bg-light-green inter accordion-body-text">
 
-                            <p class="mb-3">Der er mulighed for, at blive tilknyttet forskellige væresteder, hvor man kan møde
+                            <p class="mb-3">Der er mulighed for, at blive tilknyttet forskellige væresteder, hvor man
+                                kan møde
                                 ligestillede og på den måde udbygge sit sociale netværk.</p>
 
-                            <p class="mb-3">På værestederne kan man deltage i mange forskellige aktiviteter såsom læderværksted,
+                            <p class="mb-3">På værestederne kan man deltage i mange forskellige aktiviteter såsom
+                                læderværksted,
                                 Køkkenaktiviteter, smykkeværksted og kreativt værksted.</p>
 
                         </div>
@@ -549,15 +563,19 @@
                     <div id="udflugter" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body bg-light-green inter accordion-body-text">
 
-                            <p class="mb-3">I sommerhalvåret arrangeres løbende aktiviteter og ture “i det grønne”. Der planlægges
+                            <p class="mb-3">I sommerhalvåret arrangeres løbende aktiviteter og ture “i det grønne”. Der
+                                planlægges
                                 desuden aktiviteter i nærområdet, særligt i sommerhalvåret.</p>
 
-                            <p class="mb-3">Beboerne har medindflydelse på planlægningen af aktiviteter og udflugter.</p>
+                            <p class="mb-3">Beboerne har medindflydelse på planlægningen af aktiviteter og
+                                udflugter.</p>
 
-                            <p class="mb-3">Der arrangeres både længere dagsture, eksempelvis til Tivoli eller Odense Zoo, samt
+                            <p class="mb-3">Der arrangeres både længere dagsture, eksempelvis til Tivoli eller Odense
+                                Zoo, samt
                                 kortere ture som f.eks. til Karrebæksminde med Sejlads Friheden.</p>
 
-                            <p class="mb-3">Det kan være teltture med overnatning, vandreture med madpakker, kajakture, motionsdag
+                            <p class="mb-3">Det kan være teltture med overnatning, vandreture med madpakker, kajakture,
+                                motionsdag
                                 m.v.</p>
 
                         </div>
@@ -589,12 +607,16 @@
                             <p class="mb-3">Vedelsbo har fokus på fysisk aktivitet i hverdagen og arbejder ud fra en
                                 motionspolitik.</p>
 
-                            <p class="mb-3">Beboerne støttes i at opretholde en aktiv livsstil gennem individuelle og fælles
-                                træningsaktiviteter, herunder gåture og planlagt motion. Der kan tilbydes individuel genoptræning
+                            <p class="mb-3">Beboerne støttes i at opretholde en aktiv livsstil gennem individuelle og
+                                fælles
+                                træningsaktiviteter, herunder gåture og planlagt motion. Der kan tilbydes individuel
+                                genoptræning
                                 ved fysioterapeut i eget hjem eller i klinik.</p>
 
-                            <p class="mb-3">Der er desuden ugentligt tilbud om yoga i huset samt mulighed for yoga med alpacaer i
-                                sommerperioden. Yderligere aktiviteter kan omfatte gåture, løb, cykling og roning efter ønske og
+                            <p class="mb-3">Der er desuden ugentligt tilbud om yoga i huset samt mulighed for yoga med
+                                alpacaer i
+                                sommerperioden. Yderligere aktiviteter kan omfatte gåture, løb, cykling og roning efter
+                                ønske og
                                 behov.</p>
 
                         </div>
@@ -668,7 +690,6 @@
 </div>
 
 
-
 <!--STOR SKÆRM (DESKTOP)-->
 
 <!--top-wave - DESKTOP-->
@@ -693,7 +714,7 @@
 </div>
 
 <!--top-info - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
@@ -701,10 +722,13 @@
         </div>
         <div class="col-10 mb-3">
             <div class="font-twelve font-sixteen px-5 inter  text-center mb-4">
-                Som beboer på Vedelsbo deltager du i hverdagens fælles opgaver i det omfang, du kan, tilpasset dit funktionsniveau og dine behov. Praktiske opgaver som madlavning, opvask og oprydning er organiseret som ugentlige ”tjanser” i samarbejde med personalet.
+                Som beboer på Vedelsbo deltager du i hverdagens fælles opgaver i det omfang, du kan, tilpasset dit
+                funktionsniveau og dine behov. Praktiske opgaver som madlavning, opvask og oprydning er organiseret som
+                ugentlige ”tjanser” i samarbejde med personalet.
             </div>
             <div class="font-twelve font-sixteen px-5 inter  text-center">
-                Der tilbydes også aktiviteter som bål, gåture og ophold i naturen og ved dyrene med fokus på ro, nærvær og trivsel. Ved behov planlægges transport og personaledeltagelse, så alle kan deltage på lige vilkår.
+                Der tilbydes også aktiviteter som bål, gåture og ophold i naturen og ved dyrene med fokus på ro, nærvær
+                og trivsel. Ved behov planlægges transport og personaledeltagelse, så alle kan deltage på lige vilkår.
             </div>
         </div>
 
@@ -721,7 +745,8 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-5.png" alt="billede af lysebrun alpacha" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-5.png" alt="billede af lysebrun alpacha" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -730,10 +755,12 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                Vedelsbo har et dyrehold bestående af alpacaer, kat, undulater samt et akvarium. Dyreholdet indgår som en del af de pædagogiske og rehabiliterende aktiviteter.
+                Vedelsbo har et dyrehold bestående af alpacaer, kat, undulater samt et akvarium. Dyreholdet indgår som
+                en del af de pædagogiske og rehabiliterende aktiviteter.
             </p>
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Opgaverne omfatter blandt andet fodring og rengøring, men der lægges samtidig vægt på samvær, nærvær og kontakt med dyrene som en del af den sociale og sansemæssige støtte.
+                Opgaverne omfatter blandt andet fodring og rengøring, men der lægges samtidig vægt på samvær, nærvær og
+                kontakt med dyrene som en del af den sociale og sansemæssige støtte.
             </p>
 
 
@@ -757,16 +784,19 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                Tre dage ugentligt i sommerhalvåret og to dage ugentligt i vinterhalvåret deltager beboerne i praktiske opgaver på Vedelsbos udearealer som led i et relations- og aktivitetsbaseret tilbud.
+                Tre dage ugentligt i sommerhalvåret og to dage ugentligt i vinterhalvåret deltager beboerne i praktiske
+                opgaver på Vedelsbos udearealer som led i et relations- og aktivitetsbaseret tilbud.
             </p>
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Opgaverne kan omfatte oprydning, græsslåning, såning, fejning og øvrig vedligeholdelse af udearealer. Indsatsen tilrettelægges med fokus på struktur, fællesskab og mestring i hverdagen.
+                Opgaverne kan omfatte oprydning, græsslåning, såning, fejning og øvrig vedligeholdelse af udearealer.
+                Indsatsen tilrettelægges med fokus på struktur, fællesskab og mestring i hverdagen.
             </p>
 
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-4.png" alt="billede af blomster og et lille træ i en krukke" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-4.png" alt="billede af blomster og et lille træ i en krukke" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
 
@@ -783,7 +813,8 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-1.png" alt="billede af en person der er kreativ" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-1.png" alt="billede af en person der er kreativ" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -795,7 +826,9 @@
                 Der afholdes kreativt værksted hver tirsdag i sommerhalvåret samt tirsdag og onsdag i vinterhalvåret.
             </p>
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Her arbejdes der med kreative og praktiske aktiviteter ud fra beboernes interesser og ønsker. Der er fokus på medindflydelse, motivation og mulighed for at afprøve forskellige kreative udtryk i et understøttende miljø.
+                Her arbejdes der med kreative og praktiske aktiviteter ud fra beboernes interesser og ønsker. Der er
+                fokus på medindflydelse, motivation og mulighed for at afprøve forskellige kreative udtryk i et
+                understøttende miljø.
             </p>
 
 
@@ -812,22 +845,26 @@
 <!--three images - DESKTOP-->
 <div class=" container d-none d-md-none d-lg-block my-4 pb-5">
     <div class="row">
-        <img src="decoration-image-shapes/image-17.png" class="col-4" alt="billede af personer der hver især laver noget kreativt">
+        <img src="decoration-image-shapes/image-17.png" class="col-4"
+             alt="billede af personer der hver især laver noget kreativt">
         <img src="decoration-image-shapes/image-14.png" class="col-4" alt="billede af en der får en medalje om halsen">
         <img src="decoration-image-shapes/image-13.png" class="col-4" alt="billede af en mørkebrun alpaca">
     </div>
 </div>
 
 <!--forventninger til deltagelse - DESKTOP-->
-<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3"  >
+<div class="container-fluid d-none d-lg-block justify-content-center align-items-center ps-4 pt-md-0 ps-md-0 pb-md-2 borger-forside-header mt-3">
 
     <div class="row d-md-flex justify-content-center align-items-center">
         <div class="col-10 mt-0">
-            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Forventninger til deltagelse i hverdagen </h1>
+            <h1 class="cormorant mb-4  fw-bold header-text-cormorant text-center">Forventninger til deltagelse i
+                hverdagen </h1>
         </div>
         <div class="col-10 mb-0">
             <div class="font-twelve font-sixteen px-5 inter  text-center mb-0">
-                Det er en forudsætning for at bo på Vedelsbo, at man har lyst til og mulighed for at indgå i fælles daglige gøremål i det omfang du kan. Der tages altid højde for dit funktionsniveau, og alle former for deltagelse tilpasses individuelt og respekteres.
+                Det er en forudsætning for at bo på Vedelsbo, at man har lyst til og mulighed for at indgå i fælles
+                daglige gøremål i det omfang du kan. Der tages altid højde for dit funktionsniveau, og alle former for
+                deltagelse tilpasses individuelt og respekteres.
             </div>
         </div>
 
@@ -844,7 +881,8 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-8.png" alt="to personer der sejler i kano" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-8.png" alt="to personer der sejler i kano" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -853,10 +891,13 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                I sommerhalvåret arrangeres løbende aktiviteter og ture “i det grønne”. Beboerne har medindflydelse på planlægningen af aktiviteter og udflugter. Der arrangeres både længere dagsture, eksempelvis til Tivoli eller Odense Zoo, samt kortere ture som f.eks. til Karrebæksminde med Sejlads Friheden.
+                I sommerhalvåret arrangeres løbende aktiviteter og ture “i det grønne”. Beboerne har medindflydelse på
+                planlægningen af aktiviteter og udflugter. Der arrangeres både længere dagsture, eksempelvis til Tivoli
+                eller Odense Zoo, samt kortere ture som f.eks. til Karrebæksminde med Sejlads Friheden.
             </p>
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Der planlægges desuden aktiviteter i nærområdet, særligt i sommerhalvåret. Det kan være teltture med overnatning, vandreture med madpakker, kajakture, motionsdag m.v.
+                Der planlægges desuden aktiviteter i nærområdet, særligt i sommerhalvåret. Det kan være teltture med
+                overnatning, vandreture med madpakker, kajakture, motionsdag m.v.
             </p>
 
 
@@ -880,16 +921,21 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                Vedelsbo har fokus på fysisk aktivitet i hverdagen og arbejder ud fra en motionspolitik. Beboerne støttes i at opretholde en aktiv livsstil gennem individuelle og fælles træningsaktiviteter, herunder gåture og planlagt motion. Der kan tilbydes individuel genoptræning ved fysioterapeut i eget hjem eller i klinik.
+                Vedelsbo har fokus på fysisk aktivitet i hverdagen og arbejder ud fra en motionspolitik. Beboerne
+                støttes i at opretholde en aktiv livsstil gennem individuelle og fælles træningsaktiviteter, herunder
+                gåture og planlagt motion. Der kan tilbydes individuel genoptræning ved fysioterapeut i eget hjem eller
+                i klinik.
             </p>
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Der er desuden ugentligt tilbud om yoga i huset samt mulighed for yoga med alpacaer i sommerperioden. Yderligere aktiviteter kan omfatte gåture, løb, cykling og roning efter ønske og behov.
+                Der er desuden ugentligt tilbud om yoga i huset samt mulighed for yoga med alpacaer i sommerperioden.
+                Yderligere aktiviteter kan omfatte gåture, løb, cykling og roning efter ønske og behov.
             </p>
 
         </div>
 
         <div class="col-6 ps-5 pb-0">
-            <img src="image-shapes/image-11.png" alt="billede af træningsmaskiner" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-11.png" alt="billede af træningsmaskiner" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
 
@@ -906,7 +952,8 @@
     <div class="row d-flex justify-content-center align-items-center pb-3">
 
         <div class="col-6 ps-5 pb-3">
-            <img src="image-shapes/image-6.png" alt="billede indendørs af orangeriet" class="img-fluid" style="width: 400px;">
+            <img src="image-shapes/image-6.png" alt="billede indendørs af orangeriet" class="img-fluid"
+                 style="width: 400px;">
         </div>
 
         <div class="col-6">
@@ -915,10 +962,14 @@
             </strong>
 
             <p class="inter px-0 mx-0 mb-3 font-sixteen">
-                Næstved kommunes tilbud udnyttes i forhold til hvad den enkelte beboer har af ønsker og behov. Eksempelvis arbejde i beskyttet værksteder (Center for sociale indsatser), frivilligt arbejde, fleksjob, undervisning mm.
+                Næstved kommunes tilbud udnyttes i forhold til hvad den enkelte beboer har af ønsker og behov.
+                Eksempelvis arbejde i beskyttet værksteder (Center for sociale indsatser), frivilligt arbejde, fleksjob,
+                undervisning mm.
             </p>
             <p class="inter px-0 mx-0 mb-0 font-sixteen">
-                Ved arbejde i beskyttet værksteder kan man møde ligestillede og på den måde udbygge sit sociale netværk. På værestederne kan man deltage i mange forskellige aktiviteter såsom læderværksted, Køkkenaktiviteter, smykkeværksted og kreativt værksted.
+                Ved arbejde i beskyttet værksteder kan man møde ligestillede og på den måde udbygge sit sociale netværk.
+                På værestederne kan man deltage i mange forskellige aktiviteter såsom læderværksted, køkkenaktiviteter,
+                smykkeværksted og kreativt værksted.
             </p>
 
 
